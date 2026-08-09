@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cOops the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"OOPS_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:tropical_fish\",display:{Lore:[0:\"§7Discovered in the depths of the Main\",1:\"§7Lobby during the summer months.\",2:\"\",3:\"§c§lSPECIAL\"],Name:\"§cOops the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"OOPS_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7Discovered in the depths of the Main\",1:\"§7Lobby during the summer months.\",2:\"\",3:\"§c§lSPECIAL\"],Name:\"§cOops the Fish\"},ench:[]}",
   "damage": 2,
   "lore": [
     "§7Discovered in the depths of the Main",

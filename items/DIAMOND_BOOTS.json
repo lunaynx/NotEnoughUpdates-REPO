@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_boots",
   "displayname": "§aDiamond Boots",
-  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BOOTS\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOOTS\"],Name:\"§aDiamond Boots\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BOOTS\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOOTS\"],Name:\"§aDiamond Boots\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+15",

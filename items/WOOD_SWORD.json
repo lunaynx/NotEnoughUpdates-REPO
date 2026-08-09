@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_sword",
   "displayname": "§fWooden Sword",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_SWORD\"},HideFlags:254,ItemModel:\"minecraft:wooden_sword\",display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fWooden Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_SWORD\"},HideFlags:254,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fWooden Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+20",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flint",
   "displayname": "§fFlint",
-  "nbttag": "{ExtraAttributes:{id:\"FLINT\"},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fFlint\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLINT\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fFlint\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

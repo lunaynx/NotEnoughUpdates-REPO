@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:polar_bear_spawn_egg",
   "displayname": "§9Island NPC",
-  "nbttag": "{ExtraAttributes:{id:\"ISLAND_NPC\"},HideFlags:254,ItemModel:\"minecraft:wandering_trader_spawn_egg\",display:{Lore:[0:\"§7Spawn island NPCs for your private\",1:\"§7world! Right-Click one to edit its\",2:\"§7settings and add dialogue.\",3:\"\",4:\"§4❣ §cRequires §aSocial Skill 5§c.\",5:\"§9§lRARE\"],Name:\"§9Island NPC\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ISLAND_NPC\"},HideFlags:254,display:{Lore:[0:\"§7Spawn island NPCs for your private\",1:\"§7world! Right-Click one to edit its\",2:\"§7settings and add dialogue.\",3:\"\",4:\"§4❣ §cRequires §aSocial Skill 5§c.\",5:\"§9§lRARE\"],Name:\"§9Island NPC\"}}",
   "damage": 0,
   "lore": [
     "§7Spawn island NPCs for your private",

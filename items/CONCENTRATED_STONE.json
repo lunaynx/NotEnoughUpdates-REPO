@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Concentrated Stone",
-  "nbttag": "{ExtraAttributes:{id:\"CONCENTRATED_STONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/concentrated_stone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7The purest form of stone. How can\",3:\"§7something so simple, be so heavy?\",4:\"\",5:\"§9§lRARE BLOCK\"],Name:\"§9Concentrated Stone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CONCENTRATED_STONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7The purest form of stone. How can\",3:\"§7something so simple, be so heavy?\",4:\"\",5:\"§9§lRARE BLOCK\"],Name:\"§9Concentrated Stone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

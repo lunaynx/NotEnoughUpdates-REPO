@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:slime_ball",
   "displayname": "§fSlimeball",
-  "nbttag": "{ExtraAttributes:{id:\"SLIME_BALL\"},HideFlags:254,ItemModel:\"minecraft:slime_ball\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fSlimeball\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SLIME_BALL\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fSlimeball\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

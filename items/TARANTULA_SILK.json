@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Tarantula Silk",
-  "nbttag": "{ExtraAttributes:{id:\"TARANTULA_SILK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/spider/tarantula_silk\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Tarantula Silk\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"TARANTULA_SILK\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Tarantula Silk\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

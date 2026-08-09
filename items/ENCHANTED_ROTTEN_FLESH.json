@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rotten_flesh",
   "displayname": "§aEnchanted Rotten Flesh",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_ROTTEN_FLESH\"},HideFlags:254,ItemModel:\"minecraft:rotten_flesh\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Rotten Flesh\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_ROTTEN_FLESH\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Rotten Flesh\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

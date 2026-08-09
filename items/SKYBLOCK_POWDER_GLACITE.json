@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§bGlacite Powder",
-  "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_POWDER_GLACITE\"},HideFlags:254,ItemModel:\"minecraft:light_blue_dye\",display:{Lore:[0:\"§7Used for NEU NPC-Shops\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§bGlacite Powder\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_POWDER_GLACITE\"},HideFlags:254,display:{Lore:[0:\"§7Used for NEU NPC-Shops\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§bGlacite Powder\"}}",
   "damage": 12,
   "lore": [
     "§7Used for NEU NPC-Shops",

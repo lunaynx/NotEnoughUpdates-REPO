@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Ugly Fossil",
-  "nbttag": "{ExtraAttributes:{id:\"UGLY_FOSSIL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/fossils/ugly_fossil\",display:{Lore:[0:\"§7The ugliest fossil to ever exist. It\",1:\"§7has a face only a mother could love.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Ugly Fossil\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"UGLY_FOSSIL\"},HideFlags:254,display:{Lore:[0:\"§7The ugliest fossil to ever exist. It\",1:\"§7has a face only a mother could love.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Ugly Fossil\"}}",
   "damage": 0,
   "lore": [
     "§7The ugliest fossil to ever exist. It",

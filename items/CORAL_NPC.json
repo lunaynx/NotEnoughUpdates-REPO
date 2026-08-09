@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:spawn_egg",
   "displayname": "§9Coral (NPC)",
-  "nbttag": "{ExtraAttributes:{id:\"CORAL_NPC\"},HideFlags:254,ItemModel:\"minecraft:witch_spawn_egg\",display:{Lore:[0:\"\"],Name:\"§9Coral (NPC)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CORAL_NPC\"},HideFlags:254,display:{Lore:[0:\"\"],Name:\"§9Coral (NPC)\"}}",
   "damage": 66,
   "lore": [
     ""

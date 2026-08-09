@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Refined Diamond",
-  "nbttag": "{ExtraAttributes:{id:\"REFINED_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/refined_diamond\",display:{Lore:[0:\"§7Looking at it for too long may cause\",1:\"§7eye trauma.\",2:\"\",3:\"§5§lEPIC\"],Name:\"§5Refined Diamond\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REFINED_DIAMOND\"},HideFlags:254,display:{Lore:[0:\"§7Looking at it for too long may cause\",1:\"§7eye trauma.\",2:\"\",3:\"§5§lEPIC\"],Name:\"§5Refined Diamond\"}}",
   "damage": 0,
   "lore": [
     "§7Looking at it for too long may cause",

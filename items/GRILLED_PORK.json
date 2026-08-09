@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_porkchop",
   "displayname": "§fCooked Porkchop",
-  "nbttag": "{ExtraAttributes:{id:\"GRILLED_PORK\"},HideFlags:254,ItemModel:\"minecraft:cooked_porkchop\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Porkchop\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GRILLED_PORK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Porkchop\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

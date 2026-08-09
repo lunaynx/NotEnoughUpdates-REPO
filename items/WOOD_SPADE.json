@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_shovel",
   "displayname": "§fWooden Shovel",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_SPADE\",originTag:\"CRAFTING_GRID_SHIFT\"},HideFlags:254,ItemModel:\"minecraft:wooden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_SPADE\",originTag:\"CRAFTING_GRID_SHIFT\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+15",

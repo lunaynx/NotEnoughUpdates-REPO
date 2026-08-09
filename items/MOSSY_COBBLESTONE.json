@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mossy_cobblestone",
   "displayname": "§fMoss Stone",
-  "nbttag": "{ExtraAttributes:{id:\"MOSSY_COBBLESTONE\"},HideFlags:254,ItemModel:\"minecraft:mossy_cobblestone\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMoss Stone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MOSSY_COBBLESTONE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMoss Stone\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

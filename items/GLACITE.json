@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:packed_ice",
   "displayname": "§fGlacite",
-  "nbttag": "{ExtraAttributes:{id:\"GLACITE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/glacite/glacite\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7An unnatural, nigh-unbreakable\",3:\"§7material. Of those unlucky few who\",4:\"§7have discovered where it originates,\",5:\"§7none have lived to tell the tale.\",6:\"\",7:\"§f§lCOMMON DWARVEN METAL\"],Name:\"§fGlacite\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GLACITE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7An unnatural, nigh-unbreakable\",3:\"§7material. Of those unlucky few who\",4:\"§7have discovered where it originates,\",5:\"§7none have lived to tell the tale.\",6:\"\",7:\"§f§lCOMMON DWARVEN METAL\"],Name:\"§fGlacite\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

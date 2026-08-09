@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aYoggie",
-  "nbttag": "{ExtraAttributes:{id:\"YOGGIE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/yoggie\",display:{Lore:[0:\"§7Harvested from the core of Yogs.\",1:\"§7Used to upgrade Magma equipment.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aYoggie\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"YOGGIE\"},HideFlags:254,display:{Lore:[0:\"§7Harvested from the core of Yogs.\",1:\"§7Used to upgrade Magma equipment.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aYoggie\"}}",
   "damage": 0,
   "lore": [
     "§7Harvested from the core of Yogs.",

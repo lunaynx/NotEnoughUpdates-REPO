@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:item_frame",
   "displayname": "§fItem Frame",
-  "nbttag": "{ExtraAttributes:{id:\"ITEM_FRAME\"},HideFlags:254,ItemModel:\"minecraft:item_frame\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fItem Frame\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ITEM_FRAME\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fItem Frame\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

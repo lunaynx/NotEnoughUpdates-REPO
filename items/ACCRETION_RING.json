@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aAccretion Ring",
-  "nbttag": "{ExtraAttributes:{id:\"ACCRETION_RING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_ring\",display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Increases the speed of your §5Pocket\",3:\"§5Black Holes §7by §a10%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aAccretion Ring\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ACCRETION_RING\"},HideFlags:254,display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Increases the speed of your §5Pocket\",3:\"§5Black Holes §7by §a10%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aAccretion Ring\"}}",
   "damage": 0,
   "lore": [
     "§7Accessory Power: §6+5",

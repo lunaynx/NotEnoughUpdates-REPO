@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§fEnchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{ultimate_rend:1},id:\"ULTIMATE_REND;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§d§lRend I\",1:\"§7Use Left Click ability to rip\",2:\"§7your arrows out of nearby\",3:\"§7enemies. Each arrow deals §c5%\",4:\"§7of your last critical shot on\",5:\"§7the target, up to §c5 §7arrows.\",6:\"§a2s §7Cooldown.\",7:\"\",8:\"§cYou can only have 1 Ultimate\",9:\"§cEnchantment on an item!\",10:\"\",11:\"§7Use this on an item in an Anvil\",12:\"§7to apply it!\",13:\"\",14:\"§6Source:\",15:\"§aI-V: §7Dungeons\",16:\"\",17:\"§6Applied To:\",18:\"§7- §fBow\",19:\"\",20:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{enchantments:{ultimate_rend:1},id:\"ULTIMATE_REND;1\"},HideFlags:254,display:{Lore:[0:\"§d§lRend I\",1:\"§7Use Left Click ability to rip\",2:\"§7your arrows out of nearby\",3:\"§7enemies. Each arrow deals §c5%\",4:\"§7of your last critical shot on\",5:\"§7the target, up to §c5 §7arrows.\",6:\"§a2s §7Cooldown.\",7:\"\",8:\"§cYou can only have 1 Ultimate\",9:\"§cEnchantment on an item!\",10:\"\",11:\"§7Use this on an item in an Anvil\",12:\"§7to apply it!\",13:\"\",14:\"§6Source:\",15:\"§aI-V: §7Dungeons\",16:\"\",17:\"§6Applied To:\",18:\"§7- §fBow\",19:\"\",20:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§d§lRend I",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Treasure Bait",
-  "nbttag": "{ExtraAttributes:{id:\"TREASURE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/treasure_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+10 Fishing Speed§7 and §6+2\",4:\"§6Treasure Chance§7.\",5:\"\",6:\"§9§lRARE BAIT\"],Name:\"§9Treasure Bait\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TREASURE_BAIT\"},HideFlags:254,display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+10 Fishing Speed§7 and §6+2\",4:\"§6Treasure Chance§7.\",5:\"\",6:\"§9§lRARE BAIT\"],Name:\"§9Treasure Bait\"}}",
   "damage": 0,
   "lore": [
     "§8Fishing Bait",

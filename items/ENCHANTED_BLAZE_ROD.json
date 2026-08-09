@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:blaze_rod",
   "displayname": "§9Enchanted Blaze Rod",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BLAZE_ROD\"},HideFlags:254,ItemModel:\"minecraft:blaze_rod\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Blaze Rod\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BLAZE_ROD\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Blaze Rod\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_hoe",
   "displayname": "§9Hoe of Greater Tilling",
-  "nbttag": "{ExtraAttributes:{id:\"HOE_OF_GREATER_TILLING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/jacob/hoe_of_greater_tilling\",Unbreakable:1B,display:{Lore:[0:\"§7Tills a §95x5 §7area of farmland at a time.\",1:\"\",2:\"§4❣ §cRequires §aFarming Skill 5§c.\",3:\"§9§lRARE\"],Name:\"§9Hoe of Greater Tilling\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HOE_OF_GREATER_TILLING\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Tills a §95x5 §7area of farmland at a time.\",1:\"\",2:\"§4❣ §cRequires §aFarming Skill 5§c.\",3:\"§9§lRARE\"],Name:\"§9Hoe of Greater Tilling\"}}",
   "damage": 0,
   "lore": [
     "§7Tills a §95x5 §7area of farmland at a time.",

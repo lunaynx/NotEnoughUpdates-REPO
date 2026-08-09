@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:filled_map",
   "displayname": "§cSplendid Drawing of a Fish",
-  "nbttag": "{ExtraAttributes:{id:\"SPLENDID_FISH_DRAWING\"},HideFlags:254,ItemModel:\"minecraft:filled_map\",display:{Lore:[0:\"§7Awarded to those who participated in\",1:\"§7the §2Backwater Bayou §7on the Hypixel\",2:\"§7Alpha Network.\",3:\"\",4:\"§8§oFound laminated and stuck to the\",5:\"§8§ofridge in the Fisherman's Hut during\",6:\"§8§orenovations. Its creator is evidently\",7:\"§8§oa visionary of sorts, wow!\",8:\"\",9:\"§c§lSPECIAL MEMENTO\"],Name:\"§cSplendid Drawing of a Fish\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SPLENDID_FISH_DRAWING\"},HideFlags:254,display:{Lore:[0:\"§7Awarded to those who participated in\",1:\"§7the §2Backwater Bayou §7on the Hypixel\",2:\"§7Alpha Network.\",3:\"\",4:\"§8§oFound laminated and stuck to the\",5:\"§8§ofridge in the Fisherman's Hut during\",6:\"§8§orenovations. Its creator is evidently\",7:\"§8§oa visionary of sorts, wow!\",8:\"\",9:\"§c§lSPECIAL MEMENTO\"],Name:\"§cSplendid Drawing of a Fish\"}}",
   "damage": 30890,
   "lore": [
     "§7Awarded to those who participated in",

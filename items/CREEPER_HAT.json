@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§fCreeper Hat",
-  "nbttag": "{ExtraAttributes:{id:\"CREEPER_HAT\"},HideFlags:254,ItemModel:\"minecraft:creeper_head\",display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Defense: §a+5\",2:\"§7Strength: §c+5\",3:\"§7Crit Chance: §9+5%\",4:\"§7Crit Damage: §9+5%\",5:\"§7Intelligence: §b+5\",6:\"\",7:\"§7Grants immunity to explosion damage.\",8:\"\",9:\"§8This item can be reforged!\",10:\"§f§lCOMMON HELMET\"],Name:\"§fCreeper Hat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CREEPER_HAT\"},HideFlags:254,display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Defense: §a+5\",2:\"§7Strength: §c+5\",3:\"§7Crit Chance: §9+5%\",4:\"§7Crit Damage: §9+5%\",5:\"§7Intelligence: §b+5\",6:\"\",7:\"§7Grants immunity to explosion damage.\",8:\"\",9:\"§8This item can be reforged!\",10:\"§f§lCOMMON HELMET\"],Name:\"§fCreeper Hat\"}}",
   "damage": 4,
   "lore": [
     "§7Health: §c+5",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_helmet",
   "displayname": "§fLeather Helmet",
-  "nbttag": "{ExtraAttributes:{id:\"LEATHER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+5\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON HELMET\"],Name:\"§fLeather Helmet\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEATHER_HELMET\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+5\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON HELMET\"],Name:\"§fLeather Helmet\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+5",

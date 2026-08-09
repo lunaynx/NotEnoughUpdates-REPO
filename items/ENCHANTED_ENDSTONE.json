@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:end_stone",
   "displayname": "§aEnchanted End Stone",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_ENDSTONE\"},HideFlags:254,ItemModel:\"minecraft:end_stone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted End Stone\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_ENDSTONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted End Stone\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

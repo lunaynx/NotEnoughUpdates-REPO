@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dark_oak_stairs",
   "displayname": "§fDark Oak Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"DARK_OAK_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:dark_oak_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDark Oak Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DARK_OAK_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDark Oak Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

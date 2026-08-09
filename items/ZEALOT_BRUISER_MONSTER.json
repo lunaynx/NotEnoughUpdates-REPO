@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ender_chest",
   "displayname": "§9Zealot Bruiser (Monster)",
-  "nbttag": "{ExtraAttributes:{id:\"ZEALOT_BRUISER_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:ender_chest\",display:{Lore:[0:\"§c❤ Health§8: §c65,000\"],Name:\"§9Zealot Bruiser (Monster)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ZEALOT_BRUISER_MONSTER\"},HideFlags:254,display:{Lore:[0:\"§c❤ Health§8: §c65,000\"],Name:\"§9Zealot Bruiser (Monster)\"}}",
   "damage": 0,
   "lore": [
     "§c❤ Health§8: §c65,000"

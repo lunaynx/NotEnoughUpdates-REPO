@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§dMixed Mite Gel",
-  "nbttag": "{ExtraAttributes:{id:\"MIXED_MITE_GEL\"},HideFlags:254,ItemModel:\"minecraft:orange_dye\",display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eEndermite\",1:\"§ePets §7to §dMythic §7rarity.\",2:\"\",3:\"§8§oPowerful substance combined from\",4:\"§8§othe plasma membrane of many\",5:\"§8§oEndermites.\",6:\"\",7:\"§d§lMYTHIC\"],Name:\"§dMixed Mite Gel\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"MIXED_MITE_GEL\"},HideFlags:254,display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eEndermite\",1:\"§ePets §7to §dMythic §7rarity.\",2:\"\",3:\"§8§oPowerful substance combined from\",4:\"§8§othe plasma membrane of many\",5:\"§8§oEndermites.\",6:\"\",7:\"§d§lMYTHIC\"],Name:\"§dMixed Mite Gel\"},ench:[]}",
   "damage": 14,
   "lore": [
     "§7Use at §bKat §7to upgrade §eEndermite",

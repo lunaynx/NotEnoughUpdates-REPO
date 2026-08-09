@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_axe",
   "displayname": "§fGolden Axe",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_AXE\"},HideFlags:254,ItemModel:\"minecraft:golden_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fGolden Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_AXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fGolden Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+20",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_ore",
   "displayname": "§fGold Ore",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_ORE\"},HideFlags:254,ItemModel:\"minecraft:gold_ore\",display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fGold Ore\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_ORE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fGold Ore\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON ORE"

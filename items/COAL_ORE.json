@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:coal_ore",
   "displayname": "§fCoal Ore",
-  "nbttag": "{ExtraAttributes:{id:\"COAL_ORE\"},HideFlags:254,ItemModel:\"minecraft:coal_ore\",display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fCoal Ore\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COAL_ORE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fCoal Ore\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON ORE"

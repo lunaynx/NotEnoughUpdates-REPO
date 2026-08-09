@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone",
   "displayname": "§fShrub",
-  "nbttag": "{ExtraAttributes:{id:\"LONG_GRASS\"},HideFlags:254,ItemModel:\"minecraft:stone\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fShrub\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LONG_GRASS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fShrub\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

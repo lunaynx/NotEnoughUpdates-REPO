@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz_block",
   "displayname": "§9Enchanted Quartz Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_QUARTZ_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:quartz_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Quartz Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_QUARTZ_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Quartz Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

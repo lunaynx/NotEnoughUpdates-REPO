@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Helix Fossil",
-  "nbttag": "{ExtraAttributes:{id:\"HELIX\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/fossils/helix_fossil\",display:{Lore:[0:\"§7A well-preserved fossil featuring a\",1:\"§7coiled shell.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Helix Fossil\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HELIX\"},HideFlags:254,display:{Lore:[0:\"§7A well-preserved fossil featuring a\",1:\"§7coiled shell.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Helix Fossil\"}}",
   "damage": 0,
   "lore": [
     "§7A well-preserved fossil featuring a",

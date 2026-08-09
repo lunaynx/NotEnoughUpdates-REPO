@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§fEnchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{ultimate_flowstate:1},id:\"ULTIMATE_FLOWSTATE;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§d§lFlowstate I\",1:\"§7Consecutive blocks broken grant\",2:\"§6+1⸕ Mining Speed§7. Stops after §a10s\",3:\"§7of not mining and caps at §a200 §7blocks.\",4:\"\",5:\"§cYou can only have 1 Ultimate\",6:\"§cEnchantment on an item!\",7:\"\",8:\"§7Use this on an item in an Anvil to\",9:\"§7apply it!\",10:\"\",11:\"§6Source:\",12:\"§aI-III: §7Mining Events,\",13:\"§7Bazaar\",14:\"\",15:\"§6Applied To:\",16:\"§7- §fPickaxe\",17:\"§7- §fDrill\",18:\"§7- §fGauntlet\",19:\"\",20:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{enchantments:{ultimate_flowstate:1},id:\"ULTIMATE_FLOWSTATE;1\"},HideFlags:254,display:{Lore:[0:\"§d§lFlowstate I\",1:\"§7Consecutive blocks broken grant\",2:\"§6+1⸕ Mining Speed§7. Stops after §a10s\",3:\"§7of not mining and caps at §a200 §7blocks.\",4:\"\",5:\"§cYou can only have 1 Ultimate\",6:\"§cEnchantment on an item!\",7:\"\",8:\"§7Use this on an item in an Anvil to\",9:\"§7apply it!\",10:\"\",11:\"§6Source:\",12:\"§aI-III: §7Mining Events,\",13:\"§7Bazaar\",14:\"\",15:\"§6Applied To:\",16:\"§7- §fPickaxe\",17:\"§7- §fDrill\",18:\"§7- §fGauntlet\",19:\"\",20:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§d§lFlowstate I",

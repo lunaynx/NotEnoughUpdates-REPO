@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:anvil",
   "displayname": "§fAnvil",
-  "nbttag": "{ExtraAttributes:{id:\"ANVIL\"},HideFlags:254,ItemModel:\"minecraft:anvil\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAnvil\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ANVIL\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAnvil\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

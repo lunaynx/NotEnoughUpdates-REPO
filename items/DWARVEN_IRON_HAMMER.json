@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_axe",
   "displayname": "§cScavenged Iron Hammer",
-  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_IRON_HAMMER\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Strong enough to break the\",1:\"§7toughest bars.\",2:\"\",3:\"§8§l* §8Co-op Soulbound §8§l*\",4:\"§c§lSPECIAL\"],Name:\"§cScavenged Iron Hammer\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_IRON_HAMMER\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Strong enough to break the\",1:\"§7toughest bars.\",2:\"\",3:\"§8§l* §8Co-op Soulbound §8§l*\",4:\"§c§lSPECIAL\"],Name:\"§cScavenged Iron Hammer\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Strong enough to break the",

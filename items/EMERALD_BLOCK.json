@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:emerald_block",
   "displayname": "§fBlock of Emerald",
-  "nbttag": "{ExtraAttributes:{id:\"EMERALD_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:emerald_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Emerald\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EMERALD_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Emerald\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

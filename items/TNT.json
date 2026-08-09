@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:tnt",
   "displayname": "§fTNT",
-  "nbttag": "{ExtraAttributes:{id:\"TNT\"},HideFlags:254,ItemModel:\"minecraft:tnt\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fTNT\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TNT\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fTNT\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

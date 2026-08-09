@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:string",
   "displayname": "§fgnirtS",
-  "nbttag": "{ExtraAttributes:{id:\"MIRRORED_STRING\"},HideFlags:254,ItemModel:\"minecraft:string\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fgnirtS\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MIRRORED_STRING\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fgnirtS\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

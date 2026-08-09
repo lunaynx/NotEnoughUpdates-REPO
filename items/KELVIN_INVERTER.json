@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Kelvin Inverter",
-  "nbttag": "{ExtraAttributes:{id:\"KELVIN_INVERTER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/pets_related/kelvin_inverter\",display:{Lore:[0:\"§7Drops rarely from the Inferno\",1:\"§7Demonlord.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Kelvin Inverter\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"KELVIN_INVERTER\"},HideFlags:254,display:{Lore:[0:\"§7Drops rarely from the Inferno\",1:\"§7Demonlord.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Kelvin Inverter\"}}",
   "damage": 0,
   "lore": [
     "§7Drops rarely from the Inferno",

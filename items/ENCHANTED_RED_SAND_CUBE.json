@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Enchanted Red Sand Cube",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RED_SAND_CUBE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/enchanted_red_sand_cube\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE BLOCK\"],Name:\"§9Enchanted Red Sand Cube\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RED_SAND_CUBE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE BLOCK\"],Name:\"§9Enchanted Red Sand Cube\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

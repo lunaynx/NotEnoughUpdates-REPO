@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stick",
   "displayname": "§fkcitS",
-  "nbttag": "{ExtraAttributes:{id:\"MIRRORED_STICK\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fkcitS\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MIRRORED_STICK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fkcitS\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

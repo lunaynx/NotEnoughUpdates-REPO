@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§aEnchanted Cocoa Beans",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COCOA\"},HideFlags:254,ItemModel:\"minecraft:cocoa_beans\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Cocoa Beans\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COCOA\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Cocoa Beans\"},ench:[]}",
   "damage": 3,
   "lore": [
     "§8Brewing Ingredient",

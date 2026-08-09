@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aRusty Coin",
-  "nbttag": "{ExtraAttributes:{id:\"RUSTY_COIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/junk/rusty_coin\",display:{Lore:[0:\"§7A piece of §2Junk§7. Bring it to §2Junker\",1:\"§2Joel§7!\",2:\"\",3:\"§8§oCompletely covered in copious\",4:\"§8§oamounts of rust and grime.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aRusty Coin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RUSTY_COIN\"},HideFlags:254,display:{Lore:[0:\"§7A piece of §2Junk§7. Bring it to §2Junker\",1:\"§2Joel§7!\",2:\"\",3:\"§8§oCompletely covered in copious\",4:\"§8§oamounts of rust and grime.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aRusty Coin\"}}",
   "damage": 0,
   "lore": [
     "§7A piece of §2Junk§7. Bring it to §2Junker",

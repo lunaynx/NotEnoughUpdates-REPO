@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§dPoem of True Love",
-  "nbttag": "{ExtraAttributes:{id:\"POEM_OF_INFINITE_LOVE\"},HideFlags:254,ItemModel:\"minecraft:paper\",display:{Lore:[0:\"§8Quest Item\",1:\"\",2:\"§7Bring it to §eJuliette §7in §aThe Park§7.\",3:\"\",4:\"§8§oFilled with poor punctuation and\",5:\"§8§omisspellings, but its message is\",6:\"§8§oprofound.\",7:\"\",8:\"§8§l* §8Co-op Soulbound §8§l*\",9:\"§5§lEPIC\"],Name:\"§dPoem of True Love\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"POEM_OF_INFINITE_LOVE\"},HideFlags:254,display:{Lore:[0:\"§8Quest Item\",1:\"\",2:\"§7Bring it to §eJuliette §7in §aThe Park§7.\",3:\"\",4:\"§8§oFilled with poor punctuation and\",5:\"§8§omisspellings, but its message is\",6:\"§8§oprofound.\",7:\"\",8:\"§8§l* §8Co-op Soulbound §8§l*\",9:\"§5§lEPIC\"],Name:\"§dPoem of True Love\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Quest Item",

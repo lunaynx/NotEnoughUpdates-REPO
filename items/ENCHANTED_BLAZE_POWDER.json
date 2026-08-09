@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:blaze_powder",
   "displayname": "§aEnchanted Blaze Powder",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BLAZE_POWDER\"},HideFlags:254,ItemModel:\"minecraft:blaze_powder\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Blaze Powder\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BLAZE_POWDER\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Blaze Powder\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

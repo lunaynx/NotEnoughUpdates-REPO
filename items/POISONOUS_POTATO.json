@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:poisonous_potato",
   "displayname": "§fPoisonous Potato",
-  "nbttag": "{ExtraAttributes:{id:\"POISONOUS_POTATO\"},HideFlags:254,ItemModel:\"minecraft:poisonous_potato\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPoisonous Potato\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"POISONOUS_POTATO\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPoisonous Potato\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

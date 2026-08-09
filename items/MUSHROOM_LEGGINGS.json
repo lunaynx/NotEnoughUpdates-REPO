@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_leggings",
   "displayname": "§fMushroom Leggings",
-  "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§6Full Set Bonus: Night Affinity §7(0/4)\",4:\"§7Grants the wearer permanent §aNight\",5:\"§aVision§7 while worn.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFarming Skill 7§c.\",9:\"§f§lCOMMON LEGGINGS\"],Name:\"§fMushroom Leggings\",color:16711680}}",
+  "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_LEGGINGS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§6Full Set Bonus: Night Affinity §7(0/4)\",4:\"§7Grants the wearer permanent §aNight\",5:\"§aVision§7 while worn.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFarming Skill 7§c.\",9:\"§f§lCOMMON LEGGINGS\"],Name:\"§fMushroom Leggings\",color:16711680}}",
   "damage": 0,
   "lore": [
     "§7Health: §c+10",

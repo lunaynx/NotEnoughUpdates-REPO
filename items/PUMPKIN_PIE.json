@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:pumpkin_pie",
   "displayname": "§fPumpkin Pie",
-  "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_PIE\"},HideFlags:254,ItemModel:\"minecraft:pumpkin_pie\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPumpkin Pie\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_PIE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPumpkin Pie\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

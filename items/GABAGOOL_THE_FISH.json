@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cGabagool the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"GABAGOOL_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:salmon\",display:{Lore:[0:\"§7If the salad is on top, I send it back.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cGabagool the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"GABAGOOL_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7If the salad is on top, I send it back.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cGabagool the Fish\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§7If the salad is on top, I send it back.",

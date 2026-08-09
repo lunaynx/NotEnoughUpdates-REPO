@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cactus",
   "displayname": "§fCactus",
-  "nbttag": "{ExtraAttributes:{id:\"CACTUS\"},HideFlags:254,ItemModel:\"minecraft:cactus\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§f§lCOMMON\"],Name:\"§fCactus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CACTUS\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§f§lCOMMON\"],Name:\"§fCactus\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

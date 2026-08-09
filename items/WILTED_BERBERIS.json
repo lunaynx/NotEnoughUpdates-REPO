@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:deadbush",
   "displayname": "§fWilted Berberis",
-  "nbttag": "{ExtraAttributes:{id:\"WILTED_BERBERIS\"},HideFlags:254,ItemModel:\"minecraft:dead_bush\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7The plant equivalent of an alien\",3:\"§7zombie.\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§fWilted Berberis\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WILTED_BERBERIS\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7The plant equivalent of an alien\",3:\"§7zombie.\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§fWilted Berberis\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§aEnchanted Raw Salmon",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_SALMON\"},HideFlags:254,ItemModel:\"minecraft:salmon\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Salmon\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_SALMON\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Salmon\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

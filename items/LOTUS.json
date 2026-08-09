@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aLotus",
-  "nbttag": "{ExtraAttributes:{id:\"LOTUS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/lotus/lotus\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aLotus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LOTUS\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aLotus\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

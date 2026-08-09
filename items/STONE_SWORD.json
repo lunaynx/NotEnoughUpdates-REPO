@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_sword",
   "displayname": "§fStone Sword",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_SWORD\"},HideFlags:254,ItemModel:\"minecraft:stone_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fStone Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_SWORD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fStone Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+25",

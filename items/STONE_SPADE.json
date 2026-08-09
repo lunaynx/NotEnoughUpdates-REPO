@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_shovel",
   "displayname": "§fStone Shovel",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_SPADE\"},HideFlags:254,ItemModel:\"minecraft:stone_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fStone Shovel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_SPADE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fStone Shovel\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+20",

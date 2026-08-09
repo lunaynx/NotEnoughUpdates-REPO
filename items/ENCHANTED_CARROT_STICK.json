@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carrot_on_a_stick",
   "displayname": "§aEnchanted Carrot on a Stick",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CARROT_STICK\"},HideFlags:254,ItemModel:\"minecraft:carrot_on_a_stick\",Unbreakable:1B,display:{Lore:[0:\"§7Increases the speed of the\",1:\"§7creature you are riding when holding.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Carrot on a Stick\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CARROT_STICK\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Increases the speed of the\",1:\"§7creature you are riding when holding.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Carrot on a Stick\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Increases the speed of the",

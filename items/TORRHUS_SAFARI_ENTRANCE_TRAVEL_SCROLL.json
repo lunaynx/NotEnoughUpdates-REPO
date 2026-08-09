@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:map",
   "displayname": "§9Travel Scroll to Critter Safari Entrance",
-  "nbttag": "{ExtraAttributes:{id:\"TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:map\",display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aTorrhus Canyon\",5:\"§7Teleport: §eCritter Safari Entrance\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Critter Safari Entrance\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aTorrhus Canyon\",5:\"§7Teleport: §eCritter Safari Entrance\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Critter Safari Entrance\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to add its",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:egg",
   "displayname": "§fBridge Egg",
-  "nbttag": "{ExtraAttributes:{id:\"BRIDGE_EGG\"},HideFlags:254,ItemModel:\"minecraft:egg\",display:{Lore:[0:\"§7Creates a path of stone blocks as it\",1:\"§7travels through the air!\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fBridge Egg\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"BRIDGE_EGG\"},HideFlags:254,display:{Lore:[0:\"§7Creates a path of stone blocks as it\",1:\"§7travels through the air!\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fBridge Egg\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Creates a path of stone blocks as it",

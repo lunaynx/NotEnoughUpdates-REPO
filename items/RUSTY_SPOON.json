@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_shovel",
   "displayname": "§cRusty Spoon",
-  "nbttag": "{ExtraAttributes:{id:\"RUSTY_SPOON\"},HideFlags:254,ItemModel:\"minecraft:wooden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Tetanus Chance: §c+1%\",1:\"§7Determination: §a+2\",2:\"\",3:\"§8§oThe tried and true tool in an escape\",4:\"§8§oarist's arsenal.\",5:\"\",6:\"§c§lSPECIAL MEMENTO\"],Name:\"§cRusty Spoon\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RUSTY_SPOON\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Tetanus Chance: §c+1%\",1:\"§7Determination: §a+2\",2:\"\",3:\"§8§oThe tried and true tool in an escape\",4:\"§8§oarist's arsenal.\",5:\"\",6:\"§c§lSPECIAL MEMENTO\"],Name:\"§cRusty Spoon\"}}",
   "damage": 0,
   "lore": [
     "§7Tetanus Chance: §c+1%",

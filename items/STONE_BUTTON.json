@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_button",
   "displayname": "§fStone Button",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_BUTTON\"},HideFlags:254,ItemModel:\"minecraft:stone_button\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fStone Button\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_BUTTON\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fStone Button\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

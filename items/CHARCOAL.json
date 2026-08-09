@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:coal",
   "displayname": "§fCharcoal",
-  "nbttag": "{ExtraAttributes:{id:\"CHARCOAL\"},HideFlags:254,ItemModel:\"minecraft:charcoal\",display:{Lore:[0:\"§7Increases the speed of\",1:\"§7your minion by §a5%§7 for 30\",2:\"§7minutes!\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fCharcoal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CHARCOAL\"},HideFlags:254,display:{Lore:[0:\"§7Increases the speed of\",1:\"§7your minion by §a5%§7 for 30\",2:\"§7minutes!\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fCharcoal\"}}",
   "damage": 1,
   "lore": [
     "§7Increases the speed of",

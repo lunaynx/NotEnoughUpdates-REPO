@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_sword",
   "displayname": "§fGolden Sword",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_SWORD\"},HideFlags:254,ItemModel:\"minecraft:golden_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fGolden Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_SWORD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fGolden Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+20",

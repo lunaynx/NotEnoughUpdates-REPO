@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:poisonous_potato",
   "displayname": "§aEnchanted Poisonous Potato",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_POISONOUS_POTATO\"},HideFlags:254,ItemModel:\"minecraft:poisonous_potato\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Poisonous Potato\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_POISONOUS_POTATO\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Poisonous Potato\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

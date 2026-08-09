@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:redstone_lamp",
   "displayname": "§9Enchanted Redstone Lamp",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_REDSTONE_LAMP\"},HideFlags:254,ItemModel:\"minecraft:redstone_lamp\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Redstone Lamp\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_REDSTONE_LAMP\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Redstone Lamp\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

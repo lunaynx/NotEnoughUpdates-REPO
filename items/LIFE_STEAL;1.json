@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§fEnchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{life_steal:1},id:\"LIFE_STEAL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Life Steal I\",1:\"§7Heal §c2.4❤ §7every time you hit a mob.\",2:\"\",3:\"§6Source:\",4:\"§aI-III: §7Enchantment Table\",5:\"§aIV: §7Spooky Festival\",6:\"§aIV-V: §7Experiments\",7:\"§aIV-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cDrain\",16:\"§7- §cMana Steal\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+  "nbttag": "{ExtraAttributes:{enchantments:{life_steal:1},id:\"LIFE_STEAL;1\"},HideFlags:254,display:{Lore:[0:\"§9Life Steal I\",1:\"§7Heal §c2.4❤ §7every time you hit a mob.\",2:\"\",3:\"§6Source:\",4:\"§aI-III: §7Enchantment Table\",5:\"§aIV: §7Spooky Festival\",6:\"§aIV-V: §7Experiments\",7:\"§aIV-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cDrain\",16:\"§7- §cMana Steal\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
   "damage": 0,
   "lore": [
     "§9Life Steal I",

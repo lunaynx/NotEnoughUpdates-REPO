@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_nugget",
   "displayname": "§eYellow Rock",
-  "nbttag": "{ExtraAttributes:{id:\"YELLOW_ROCK\"},HideFlags:254,ItemModel:\"minecraft:gold_nugget\",display:{Lore:[0:\"§8Quest Item\",1:\" \",2:\"§7Bring it to §eRomero §7in §aThe Park§7.\",3:\" \",4:\"§8§oA little rough around the edges, but\",5:\"§8§obeauty can be found within.\",6:\"\",7:\"§f§lCOMMON\"],Name:\"§eYellow Rock\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"YELLOW_ROCK\"},HideFlags:254,display:{Lore:[0:\"§8Quest Item\",1:\" \",2:\"§7Bring it to §eRomero §7in §aThe Park§7.\",3:\" \",4:\"§8§oA little rough around the edges, but\",5:\"§8§obeauty can be found within.\",6:\"\",7:\"§f§lCOMMON\"],Name:\"§eYellow Rock\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Quest Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§5Enchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{ferocious_mana:7},id:\"FEROCIOUS_MANA;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vivacious Vitality VII\",3:\"§7Convert §a7% §7of §4 Vitality §7used as §e\",4:\"§eAttack Speed §7for §a10s§7. §8(Max 5\",5:\"§8Attack Speed).\",6:\"\",7:\"§6Source:\",8:\"§aI-X: §7Kuudra\",9:\"§aI-X: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fArmor\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cStrong Vitality\",16:\"§7- §cVampiric Vitality\",17:\"§7- §cHardened Vitality\",18:\"\",19:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{enchantments:{ferocious_mana:7},id:\"FEROCIOUS_MANA;7\"},HideFlags:254,display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vivacious Vitality VII\",3:\"§7Convert §a7% §7of §4 Vitality §7used as §e\",4:\"§eAttack Speed §7for §a10s§7. §8(Max 5\",5:\"§8Attack Speed).\",6:\"\",7:\"§6Source:\",8:\"§aI-X: §7Kuudra\",9:\"§aI-X: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fArmor\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cStrong Vitality\",16:\"§7- §cVampiric Vitality\",17:\"§7- §cHardened Vitality\",18:\"\",19:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Combinable in Anvil",

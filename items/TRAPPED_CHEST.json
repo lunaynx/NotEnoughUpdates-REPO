@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:trapped_chest",
   "displayname": "§fTrapped Chest",
-  "nbttag": "{ExtraAttributes:{id:\"TRAPPED_CHEST\"},HideFlags:254,ItemModel:\"minecraft:trapped_chest\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fTrapped Chest\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TRAPPED_CHEST\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fTrapped Chest\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

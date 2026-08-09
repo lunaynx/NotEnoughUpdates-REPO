@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sea_lantern",
   "displayname": "§aSea Lantern Hat",
-  "nbttag": "{ExtraAttributes:{id:\"SEA_LANTERN_HAT\"},HideFlags:254,ItemModel:\"minecraft:sea_lantern\",display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Breathe §a5x §7as long underwater when\",3:\"§7wearing!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON HELMET\"],Name:\"§aSea Lantern Hat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SEA_LANTERN_HAT\"},HideFlags:254,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Breathe §a5x §7as long underwater when\",3:\"§7wearing!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON HELMET\"],Name:\"§aSea Lantern Hat\"}}",
   "damage": 0,
   "lore": [
     "§8Minion Upgrade",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flint",
   "displayname": "§aEnchanted Flint",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FLINT\"},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Flint\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FLINT\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Flint\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

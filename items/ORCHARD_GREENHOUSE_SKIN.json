@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:apple",
   "displayname": "§aOrchard Greenhouse Skin",
-  "nbttag": "{ExtraAttributes:{id:\"ORCHARD_GREENHOUSE_SKIN\"},HideFlags:254,ItemModel:\"minecraft:apple\",display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§aOrchard Greenhouse Skin §7on §aThe\",2:\"§aGarden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aOrchard Greenhouse Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ORCHARD_GREENHOUSE_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§aOrchard Greenhouse Skin §7on §aThe\",2:\"§aGarden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aOrchard Greenhouse Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the",

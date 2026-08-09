@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9 Fine Opal Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FINE_OPAL_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/gemstones/fine_opal_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A type of §fOpal §7that has clearly been\",3:\"§7treated with care.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§f True Defense§7.\",8:\"\",9:\"§9§lRARE GEMSTONE\"],Name:\"§9 Fine Opal Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FINE_OPAL_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A type of §fOpal §7that has clearly been\",3:\"§7treated with care.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§f True Defense§7.\",8:\"\",9:\"§9§lRARE GEMSTONE\"],Name:\"§9 Fine Opal Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

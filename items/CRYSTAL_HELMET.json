@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_helmet",
   "displayname": "§5Crystal Helmet",
-  "nbttag": "{ExtraAttributes:{id:\"CRYSTAL_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+20\",1:\"§7Intelligence: §b+65\",2:\"\",3:\"§6Full Set Bonus: Refraction §7(0/4)\",4:\"§7The stats of this armor change from\",5:\"§a0§7 to §a200%§7 depending on the current\",6:\"§7light level.\",7:\"\",8:\"§7Current Light Level\",9:\"§c0§8 (0%)\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC HELMET\"],Name:\"§5Crystal Helmet\",color:16577535}}",
+  "nbttag": "{ExtraAttributes:{id:\"CRYSTAL_HELMET\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+20\",1:\"§7Intelligence: §b+65\",2:\"\",3:\"§6Full Set Bonus: Refraction §7(0/4)\",4:\"§7The stats of this armor change from\",5:\"§a0§7 to §a200%§7 depending on the current\",6:\"§7light level.\",7:\"\",8:\"§7Current Light Level\",9:\"§c0§8 (0%)\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC HELMET\"],Name:\"§5Crystal Helmet\",color:16577535}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+20",

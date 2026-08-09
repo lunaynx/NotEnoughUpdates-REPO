@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carrot",
   "displayname": "§aSimple Carrot Candy",
-  "nbttag": "{ExtraAttributes:{id:\"SIMPLE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a20,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it this candy!\",9:\"\",10:\"§a§lUNCOMMON\"],Name:\"§aSimple Carrot Candy\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SIMPLE_CARROT_CANDY\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a20,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it this candy!\",9:\"\",10:\"§a§lUNCOMMON\"],Name:\"§aSimple Carrot Candy\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

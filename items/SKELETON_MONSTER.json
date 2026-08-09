@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§aSkeleton (Monster)",
-  "nbttag": "{ExtraAttributes:{id:\"SKELETON_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:skeleton_skull\",display:{Lore:[0:\"§7Just a normal skelly\",1:\"\",2:\"§c❤ Health§8: §c100 - 707\"],Name:\"§aSkeleton (Monster)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SKELETON_MONSTER\"},HideFlags:254,display:{Lore:[0:\"§7Just a normal skelly\",1:\"\",2:\"§c❤ Health§8: §c100 - 707\"],Name:\"§aSkeleton (Monster)\"}}",
   "damage": 0,
   "lore": [
     "§7Just a normal skelly",

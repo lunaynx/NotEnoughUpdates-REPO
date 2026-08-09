@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:experience_bottle",
   "displayname": "§9Bottled Odonata",
-  "nbttag": "{ExtraAttributes:{id:\"BOTTLED_ODONATA\"},HideFlags:254,ItemModel:\"minecraft:experience_bottle\",display:{Lore:[0:\"§7There's an §9Odonata §7in there!\",1:\"§7Look:\",2:\"§b+---------------+\",3:\"§b| §e█§9████████§e█§b |\",4:\"§b| §e█§9████████§e█§b |\",5:\"§b| §e█§9████████§e█§b |\",6:\"§b| §e█§9████████§e█§b |\",7:\"§b| §9███§e████§9███§b |\",8:\"§b| §9██████████§b |\",9:\"§b+---------------+\",10:\"\",11:\"§9§lRARE\"],Name:\"§9Bottled Odonata\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"BOTTLED_ODONATA\"},HideFlags:254,display:{Lore:[0:\"§7There's an §9Odonata §7in there!\",1:\"§7Look:\",2:\"§b+---------------+\",3:\"§b| §e█§9████████§e█§b |\",4:\"§b| §e█§9████████§e█§b |\",5:\"§b| §e█§9████████§e█§b |\",6:\"§b| §e█§9████████§e█§b |\",7:\"§b| §9███§e████§9███§b |\",8:\"§b| §9██████████§b |\",9:\"§b+---------------+\",10:\"\",11:\"§9§lRARE\"],Name:\"§9Bottled Odonata\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7There's an §9Odonata §7in there!",

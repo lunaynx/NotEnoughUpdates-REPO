@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Soulflow",
-  "nbttag": "{ExtraAttributes:{id:\"SOULFLOW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/enderman/soulflow\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Hold and right-click to consume,\",3:\"§7gaining §3+160⸎ Soulflow§7!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Soulflow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SOULFLOW\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Hold and right-click to consume,\",3:\"§7gaining §3+160⸎ Soulflow§7!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Soulflow\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

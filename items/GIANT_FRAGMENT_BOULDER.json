@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Jolly Pink Rock",
-  "nbttag": "{ExtraAttributes:{id:\"GIANT_FRAGMENT_BOULDER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/jolly_pink_rock\",display:{Lore:[0:\"§8Precursor Relic\",1:\"\",2:\"§7The hottest shade of pink ever worn\",3:\"§7by a Giant.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5Jolly Pink Rock\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GIANT_FRAGMENT_BOULDER\"},HideFlags:254,display:{Lore:[0:\"§8Precursor Relic\",1:\"\",2:\"§7The hottest shade of pink ever worn\",3:\"§7by a Giant.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5Jolly Pink Rock\"}}",
   "damage": 0,
   "lore": [
     "§8Precursor Relic",

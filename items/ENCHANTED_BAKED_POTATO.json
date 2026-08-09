@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:baked_potato",
   "displayname": "§9Enchanted Baked Potato",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BAKED_POTATO\"},HideFlags:254,ItemModel:\"minecraft:baked_potato\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Baked Potato\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BAKED_POTATO\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Baked Potato\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

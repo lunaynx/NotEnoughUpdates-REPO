@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aPoison Sample",
-  "nbttag": "{ExtraAttributes:{id:\"POISON_SAMPLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/poison_sample\",display:{Lore:[0:\"§7Dropped from §aSlimes§7, but only the\",1:\"§7especially toxic ones!\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aPoison Sample\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"POISON_SAMPLE\"},HideFlags:254,display:{Lore:[0:\"§7Dropped from §aSlimes§7, but only the\",1:\"§7especially toxic ones!\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aPoison Sample\"}}",
   "damage": 0,
   "lore": [
     "§7Dropped from §aSlimes§7, but only the",

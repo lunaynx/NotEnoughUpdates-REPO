@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:planks",
   "displayname": "§fBirch Planks",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD-2\"},HideFlags:254,ItemModel:\"minecraft:birch_planks\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBirch Planks\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD-2\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBirch Planks\"}}",
   "damage": 2,
   "lore": [
     "§f§lCOMMON"

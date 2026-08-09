@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Lumberjack Artifact",
-  "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_ARTIFACT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_artifact\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a15%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Lumberjack Artifact\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_ARTIFACT\"},HideFlags:254,display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a15%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Lumberjack Artifact\"}}",
   "damage": 0,
   "lore": [
     "§7Accessory Power: §6+8",

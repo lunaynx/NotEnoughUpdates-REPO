@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§fEnchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{petalfall:2},id:\"PETALFALL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall II\",3:\"§7Grants a §a0.4% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+  "nbttag": "{ExtraAttributes:{enchantments:{petalfall:2},id:\"PETALFALL;2\"},HideFlags:254,display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall II\",3:\"§7Grants a §a0.4% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
   "damage": 0,
   "lore": [
     "§8Combinable in Anvil",

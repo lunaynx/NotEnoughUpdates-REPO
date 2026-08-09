@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_ingot",
   "displayname": "§aEnchanted Gold Ingot",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GOLD\"},HideFlags:254,ItemModel:\"minecraft:gold_ingot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Gold Ingot\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GOLD\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Gold Ingot\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

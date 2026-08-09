@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:comparator",
   "displayname": "§cAccessory Enrichment Swapper",
-  "nbttag": "{ExtraAttributes:{id:\"TALISMAN_ENRICHMENT_SWAPPER\"},HideFlags:254,ItemModel:\"minecraft:comparator\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Swaps all §9enriched §7accessories in\",3:\"§7your accessory bag to another\",4:\"§7enrichment.\",5:\"\",6:\"§eRight-click to open menu!\",7:\"\",8:\"§c§lSPECIAL\"],Name:\"§cAccessory Enrichment Swapper\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"TALISMAN_ENRICHMENT_SWAPPER\"},HideFlags:254,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Swaps all §9enriched §7accessories in\",3:\"§7your accessory bag to another\",4:\"§7enrichment.\",5:\"\",6:\"§eRight-click to open menu!\",7:\"\",8:\"§c§lSPECIAL\"],Name:\"§cAccessory Enrichment Swapper\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Consumed on use",

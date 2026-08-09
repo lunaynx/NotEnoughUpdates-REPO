@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§fOrange Tulip",
-  "nbttag": "{ExtraAttributes:{id:\"RED_ROSE-5\"},HideFlags:254,ItemModel:\"minecraft:orange_tulip\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOrange Tulip\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RED_ROSE-5\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOrange Tulip\"}}",
   "damage": 5,
   "lore": [
     "§f§lCOMMON"

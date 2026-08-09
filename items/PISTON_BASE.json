@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:piston",
   "displayname": "§fPiston",
-  "nbttag": "{ExtraAttributes:{id:\"PISTON_BASE\"},HideFlags:254,ItemModel:\"minecraft:piston\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPiston\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PISTON_BASE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPiston\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

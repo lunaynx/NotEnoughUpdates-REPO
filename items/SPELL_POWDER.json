@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glowstone_dust",
   "displayname": "§5Spell Powder",
-  "nbttag": "{ExtraAttributes:{id:\"SPELL_POWDER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spell_powder\",display:{Lore:[0:\"§7Looks like Sulphur, smells like\",1:\"§7Sulphur... Suspicious.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Spell Powder\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SPELL_POWDER\"},HideFlags:254,display:{Lore:[0:\"§7Looks like Sulphur, smells like\",1:\"§7Sulphur... Suspicious.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Spell Powder\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Looks like Sulphur, smells like",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_horse_armor",
   "displayname": "§5Gold Horse Armor",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_BARDING\"},HideFlags:254,ItemModel:\"minecraft:golden_horse_armor\",display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§5§lEPIC\"],Name:\"§5Gold Horse Armor\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_BARDING\"},HideFlags:254,display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§5§lEPIC\"],Name:\"§5Gold Horse Armor\"}}",
   "damage": 0,
   "lore": [
     "§8§l* §8Co-op Soulbound §8§l*",

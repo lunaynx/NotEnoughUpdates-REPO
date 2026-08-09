@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Astral Huntrap",
-  "nbttag": "{ExtraAttributes:{id:\"RETIA_SUPREMA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/astral_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§cTraps §7can be placed near the spawn\",4:\"§7location of a §9Shard §7creature, with\",5:\"§7time it will eventually catch it.\",6:\"\",7:\"§6Ability: Suprema \",8:\"§7Reduces the time to capture by §c50%§7.\",9:\"\",10:\"§7§oSuprema inter retia, nulla praeda\",11:\"§7§oelabitur.\",12:\"\",13:\"§4❣ §cRequires §aHunting Skill 20§c.\",14:\"§6§lLEGENDARY TRAP\"],Name:\"§6Astral Huntrap\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RETIA_SUPREMA\"},HideFlags:254,display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§cTraps §7can be placed near the spawn\",4:\"§7location of a §9Shard §7creature, with\",5:\"§7time it will eventually catch it.\",6:\"\",7:\"§6Ability: Suprema \",8:\"§7Reduces the time to capture by §c50%§7.\",9:\"\",10:\"§7§oSuprema inter retia, nulla praeda\",11:\"§7§oelabitur.\",12:\"\",13:\"§4❣ §cRequires §aHunting Skill 20§c.\",14:\"§6§lLEGENDARY TRAP\"],Name:\"§6Astral Huntrap\"}}",
   "damage": 0,
   "lore": [
     "§8Hunting Tool",

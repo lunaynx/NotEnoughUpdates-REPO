@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:nether_star",
   "displayname": "§dNorth Star",
-  "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_NORTH_STAR\"},HideFlags:254,ItemModel:\"minecraft:nether_star\",display:{Lore:[0:\"§7Used for NEU NPC-Shops\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§dNorth Star\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_NORTH_STAR\"},HideFlags:254,display:{Lore:[0:\"§7Used for NEU NPC-Shops\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§dNorth Star\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Used for NEU NPC-Shops",

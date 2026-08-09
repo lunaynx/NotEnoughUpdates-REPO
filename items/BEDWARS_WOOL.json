@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wool",
   "displayname": "§fTree-like Wool",
-  "nbttag": "{ExtraAttributes:{id:\"BEDWARS_WOOL\"},HideFlags:254,ItemModel:\"minecraft:brown_wool\",display:{Lore:[0:\"§7Good for bridging.\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fTree-like Wool\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BEDWARS_WOOL\"},HideFlags:254,display:{Lore:[0:\"§7Good for bridging.\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fTree-like Wool\"}}",
   "damage": 12,
   "lore": [
     "§7Good for bridging.",

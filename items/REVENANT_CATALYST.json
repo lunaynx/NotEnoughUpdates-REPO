@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Revenant Catalyst",
-  "nbttag": "{ExtraAttributes:{id:\"REVENANT_CATALYST\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/zombie/catalysts/revenant_catalyst\",display:{Lore:[0:\"§7Drops rarely from Revenant Horror\",1:\"§7when you are at least Zombie Slayer\",2:\"§7LVL 6.\",3:\"\",4:\"§5Catalysts upgrade other items!\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Revenant Catalyst\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REVENANT_CATALYST\"},HideFlags:254,display:{Lore:[0:\"§7Drops rarely from Revenant Horror\",1:\"§7when you are at least Zombie Slayer\",2:\"§7LVL 6.\",3:\"\",4:\"§5Catalysts upgrade other items!\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Revenant Catalyst\"}}",
   "damage": 0,
   "lore": [
     "§7Drops rarely from Revenant Horror",

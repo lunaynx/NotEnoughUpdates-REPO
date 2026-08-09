@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_pickaxe",
   "displayname": "§fGolden Pickaxe",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_PICKAXE\"},HideFlags:254,ItemModel:\"minecraft:golden_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 1\",1:\"\",2:\"§7Damage: §c+15\",3:\"§7Mining Speed: §6+250\",4:\"\",5:\"§8This item can be reforged!\",6:\"§f§lCOMMON PICKAXE\"],Name:\"§fGolden Pickaxe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_PICKAXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 1\",1:\"\",2:\"§7Damage: §c+15\",3:\"§7Mining Speed: §6+250\",4:\"\",5:\"§8This item can be reforged!\",6:\"§f§lCOMMON PICKAXE\"],Name:\"§fGolden Pickaxe\"}}",
   "damage": 0,
   "lore": [
     "§8Breaking Power 1",

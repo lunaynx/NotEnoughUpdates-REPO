@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Absolute Ender Pearl",
-  "nbttag": "{ExtraAttributes:{id:\"ABSOLUTE_ENDER_PEARL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/absolute_ender_pearl\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Absolute Ender Pearl\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ABSOLUTE_ENDER_PEARL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Absolute Ender Pearl\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

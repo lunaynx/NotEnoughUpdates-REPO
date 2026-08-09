@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bread",
   "displayname": "§fBread",
-  "nbttag": "{ExtraAttributes:{id:\"BREAD\"},HideFlags:254,ItemModel:\"minecraft:bread\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBread\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BREAD\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBread\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:brown_mushroom",
   "displayname": "§fBrown Mushroom",
-  "nbttag": "{ExtraAttributes:{id:\"BROWN_MUSHROOM\"},HideFlags:254,ItemModel:\"minecraft:brown_mushroom\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fBrown Mushroom\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BROWN_MUSHROOM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fBrown Mushroom\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

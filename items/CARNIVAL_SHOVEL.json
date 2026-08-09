@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_shovel",
   "displayname": "§aCarnival Shovel",
-  "nbttag": "{ExtraAttributes:{id:\"CARNIVAL_SHOVEL\"},HideFlags:254,ItemModel:\"minecraft:iron_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Used to dig up §6fruits §7in the §6Fruit\",1:\"§6Digging §7game.\",2:\"\",3:\"§eDowsing Mode: §cMines\",4:\"§7Reveals the amount of §cBombs\",5:\"§7adjacent to this block when you dig.\",6:\"\",7:\"§eRight-click to cycle Dowsing Modes!\",8:\"\",9:\"§8§l* §8Soulbound §8§l*\",10:\"§a§lUNCOMMON SHOVEL\"],Name:\"§aCarnival Shovel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CARNIVAL_SHOVEL\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Used to dig up §6fruits §7in the §6Fruit\",1:\"§6Digging §7game.\",2:\"\",3:\"§eDowsing Mode: §cMines\",4:\"§7Reveals the amount of §cBombs\",5:\"§7adjacent to this block when you dig.\",6:\"\",7:\"§eRight-click to cycle Dowsing Modes!\",8:\"\",9:\"§8§l* §8Soulbound §8§l*\",10:\"§a§lUNCOMMON SHOVEL\"],Name:\"§aCarnival Shovel\"}}",
   "damage": 0,
   "lore": [
     "§7Used to dig up §6fruits §7in the §6Fruit",

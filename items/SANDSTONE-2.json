@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sandstone",
   "displayname": "§fSmooth Sandstone",
-  "nbttag": "{ExtraAttributes:{id:\"SANDSTONE-2\"},HideFlags:254,ItemModel:\"minecraft:cut_sandstone\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSmooth Sandstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SANDSTONE-2\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSmooth Sandstone\"}}",
   "damage": 2,
   "lore": [
     "§f§lCOMMON"

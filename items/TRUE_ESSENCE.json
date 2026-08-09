@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§fTrue Essence",
-  "nbttag": "{ExtraAttributes:{id:\"TRUE_ESSENCE\"},HideFlags:254,ItemModel:\"minecraft:gray_dye\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fTrue Essence\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"TRUE_ESSENCE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fTrue Essence\"},ench:[]}",
   "damage": 8,
   "lore": [
     "§8Brewing Ingredient",

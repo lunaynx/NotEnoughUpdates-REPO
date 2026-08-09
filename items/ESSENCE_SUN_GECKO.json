@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§dSun Gecko Essence",
-  "nbttag": "{ExtraAttributes:{id:\"ESSENCE_SUN_GECKO\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7a2b9cc0-d3e3-34a9-be0a-df71b9e9ebcd\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMjQ2NDY0Mzg3MSwKICAicHJvZmlsZUlkIiA6ICJkYzA5MjA4MTM2ZDg0Y2Y5OWIwMzFmMGI1NzM4OTdmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLRUlUSF8wMzAyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYjVlOWU1Yzk3N2VlMmY5YzZkZTgyZDgzZmRkODhjMTE3MmZhMGU3MmQyODg5MDk2YmRhZTMyZTY4M2RjYmQiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7§oWhy does it feel like time is slowin\",1:\"§7§odown?\"],Name:\"§dSun Gecko Essence\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ESSENCE_SUN_GECKO\"},HideFlags:254,SkullOwner:{Id:\"7a2b9cc0-d3e3-34a9-be0a-df71b9e9ebcd\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMjQ2NDY0Mzg3MSwKICAicHJvZmlsZUlkIiA6ICJkYzA5MjA4MTM2ZDg0Y2Y5OWIwMzFmMGI1NzM4OTdmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLRUlUSF8wMzAyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjYjVlOWU1Yzk3N2VlMmY5YzZkZTgyZDgzZmRkODhjMTE3MmZhMGU3MmQyODg5MDk2YmRhZTMyZTY4M2RjYmQiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7§oWhy does it feel like time is slowin\",1:\"§7§odown?\"],Name:\"§dSun Gecko Essence\"}}",
   "damage": 3,
   "lore": [
     "§7§oWhy does it feel like time is slowin",

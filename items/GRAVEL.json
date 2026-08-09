@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gravel",
   "displayname": "§fGravel",
-  "nbttag": "{ExtraAttributes:{id:\"GRAVEL\"},HideFlags:254,ItemModel:\"minecraft:gravel\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fGravel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GRAVEL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fGravel\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

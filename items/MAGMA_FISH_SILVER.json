@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Silver Magmafish",
-  "nbttag": "{ExtraAttributes:{id:\"MAGMA_FISH_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/magmafish_silver\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Silver Magmafish\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MAGMA_FISH_SILVER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Silver Magmafish\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

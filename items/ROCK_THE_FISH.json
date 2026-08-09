@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cRock the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"ROCK_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§7Don't take me for granite.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cRock the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ROCK_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7Don't take me for granite.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cRock the Fish\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Don't take me for granite.",

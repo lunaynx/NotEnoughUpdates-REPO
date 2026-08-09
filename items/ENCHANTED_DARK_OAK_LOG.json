@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:log2",
   "displayname": "§aEnchanted Dark Oak Log",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DARK_OAK_LOG\"},HideFlags:254,ItemModel:\"minecraft:dark_oak_log\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Dark Oak Log\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DARK_OAK_LOG\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Dark Oak Log\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Water Orb",
-  "nbttag": "{ExtraAttributes:{id:\"WATER_ORB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/water_orb\",display:{Lore:[0:\"§7A perfectly smooth, highly\",1:\"§7condensed orb of pure fish matter.\",2:\"\",3:\"§7Used as a core ingredient in high\",4:\"§7level fishing crafts.\",5:\"\",6:\"§8Smells like fish...\",7:\"\",8:\"§eRight-click to view recipes!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Water Orb\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WATER_ORB\"},HideFlags:254,display:{Lore:[0:\"§7A perfectly smooth, highly\",1:\"§7condensed orb of pure fish matter.\",2:\"\",3:\"§7Used as a core ingredient in high\",4:\"§7level fishing crafts.\",5:\"\",6:\"§8Smells like fish...\",7:\"\",8:\"§eRight-click to view recipes!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Water Orb\"}}",
   "damage": 0,
   "lore": [
     "§7A perfectly smooth, highly",

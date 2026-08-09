@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:waterlily",
   "displayname": "§aEnchanted Lily Pad",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_WATER_LILY\"},HideFlags:254,ItemModel:\"minecraft:lily_pad\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Lily Pad\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_WATER_LILY\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Lily Pad\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

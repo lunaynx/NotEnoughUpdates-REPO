@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Undead Catalyst",
-  "nbttag": "{ExtraAttributes:{id:\"UNDEAD_CATALYST\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/zombie/catalysts/undead_catalyst\",display:{Lore:[0:\"§7Drops rarely from Revenant Horror\",1:\"§7when you are at least Zombie Slayer\",2:\"§7LVL 3.\",3:\"\",4:\"§5Catalysts upgrade other items!\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Undead Catalyst\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"UNDEAD_CATALYST\"},HideFlags:254,display:{Lore:[0:\"§7Drops rarely from Revenant Horror\",1:\"§7when you are at least Zombie Slayer\",2:\"§7LVL 3.\",3:\"\",4:\"§5Catalysts upgrade other items!\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Undead Catalyst\"}}",
   "damage": 0,
   "lore": [
     "§7Drops rarely from Revenant Horror",

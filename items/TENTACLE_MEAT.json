@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Tentacle Meat",
-  "nbttag": "{ExtraAttributes:{id:\"TENTACLE_MEAT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/tentacle_meat\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Tentacle Meat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TENTACLE_MEAT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Tentacle Meat\"}}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

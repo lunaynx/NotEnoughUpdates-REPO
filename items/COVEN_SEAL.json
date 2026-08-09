@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:nether_wart",
   "displayname": "§aCoven Seal",
-  "nbttag": "{ExtraAttributes:{id:\"COVEN_SEAL\"},HideFlags:254,ItemModel:\"minecraft:nether_wart\",display:{Lore:[0:\"§7Given to you by a powerful\",1:\"§7vampire, proving you bested them\",2:\"§7in combat.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aCoven Seal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COVEN_SEAL\"},HideFlags:254,display:{Lore:[0:\"§7Given to you by a powerful\",1:\"§7vampire, proving you bested them\",2:\"§7in combat.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aCoven Seal\"}}",
   "damage": 0,
   "lore": [
     "§7Given to you by a powerful",

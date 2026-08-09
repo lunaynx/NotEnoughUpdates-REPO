@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Null Ovoid",
-  "nbttag": "{ExtraAttributes:{id:\"NULL_OVOID\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/enderman/null_ovoid\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Null Ovoid\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"NULL_OVOID\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Null Ovoid\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

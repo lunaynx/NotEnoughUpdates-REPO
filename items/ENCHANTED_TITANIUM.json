@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Enchanted Titanium",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_TITANIUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/titanium\",display:{Lore:[0:\"§5§lEPIC DWARVEN METAL\"],Name:\"§5Enchanted Titanium\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_TITANIUM\"},HideFlags:254,display:{Lore:[0:\"§5§lEPIC DWARVEN METAL\"],Name:\"§5Enchanted Titanium\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§5§lEPIC DWARVEN METAL"

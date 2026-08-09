@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:porkchop",
   "displayname": "§fRaw Porkchop",
-  "nbttag": "{ExtraAttributes:{id:\"PORK\"},HideFlags:254,ItemModel:\"minecraft:porkchop\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fRaw Porkchop\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PORK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fRaw Porkchop\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

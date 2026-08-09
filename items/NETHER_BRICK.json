@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:nether_brick",
   "displayname": "§fNether Bricks",
-  "nbttag": "{ExtraAttributes:{id:\"NETHER_BRICK\"},HideFlags:254,ItemModel:\"minecraft:nether_bricks\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fNether Bricks\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"NETHER_BRICK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fNether Bricks\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

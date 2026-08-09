@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:log",
   "displayname": "§aEnchanted Spruce Log",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SPRUCE_LOG\"},HideFlags:254,ItemModel:\"minecraft:spruce_log\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Spruce Log\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SPRUCE_LOG\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Spruce Log\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Honeycomb Necklace",
-  "nbttag": "{ExtraAttributes:{id:\"HONEYCOMB_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/equipment/honeycomb_necklace\",display:{Lore:[0:\"§7Sweep: §2+5\",1:\"§7Foraging Fortune: §6+25\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 30§c.\",7:\"§5§lEPIC NECKLACE\"],Name:\"§5Honeycomb Necklace\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HONEYCOMB_NECKLACE\"},HideFlags:254,display:{Lore:[0:\"§7Sweep: §2+5\",1:\"§7Foraging Fortune: §6+25\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 30§c.\",7:\"§5§lEPIC NECKLACE\"],Name:\"§5Honeycomb Necklace\"}}",
   "damage": 0,
   "lore": [
     "§7Sweep: §2+5",

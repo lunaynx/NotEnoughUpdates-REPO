@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_rabbit",
   "displayname": "§9Enchanted Cooked Rabbit",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COOKED_RABBIT\"},HideFlags:254,ItemModel:\"minecraft:cooked_rabbit\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Cooked Rabbit\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COOKED_RABBIT\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Cooked Rabbit\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

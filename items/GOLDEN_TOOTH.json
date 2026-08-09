@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_nugget",
   "displayname": "§9Golden Tooth",
-  "nbttag": "{ExtraAttributes:{id:\"GOLDEN_TOOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/wolf/golden_tooth\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Golden Tooth\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLDEN_TOOTH\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Golden Tooth\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

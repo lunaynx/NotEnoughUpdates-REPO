@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bow",
   "displayname": "§aWither Bow",
-  "nbttag": "{ExtraAttributes:{id:\"WITHER_BOW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/wither_bow\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§7Deals §a+100% §7damage to §8 Wither\",3:\"§7mobs.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON BOW\"],Name:\"§aWither Bow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WITHER_BOW\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§7Deals §a+100% §7damage to §8 Wither\",3:\"§7mobs.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON BOW\"],Name:\"§aWither Bow\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+30",

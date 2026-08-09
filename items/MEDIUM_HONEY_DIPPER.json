@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Medium Honey Dipper",
-  "nbttag": "{ExtraAttributes:{id:\"MEDIUM_HONEY_DIPPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/medium_honey_dipper\",display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eBee Pets §7from\",1:\"§aUncommon §7to §9Rare.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Medium Honey Dipper\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MEDIUM_HONEY_DIPPER\"},HideFlags:254,display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eBee Pets §7from\",1:\"§aUncommon §7to §9Rare.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Medium Honey Dipper\"}}",
   "damage": 0,
   "lore": [
     "§7Use at §bKat §7to upgrade §eBee Pets §7from",

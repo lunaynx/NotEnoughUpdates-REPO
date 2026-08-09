@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:painting",
   "displayname": "§fPainting",
-  "nbttag": "{ExtraAttributes:{id:\"PAINTING\"},HideFlags:254,ItemModel:\"minecraft:painting\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPainting\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PAINTING\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPainting\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

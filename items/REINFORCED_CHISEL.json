@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:armor_stand",
   "displayname": "§9Reinforced Chisel",
-  "nbttag": "{ExtraAttributes:{gems:{CHISEL_0:{quality:\"FLAWLESS\",uuid:\"73e3d827-2ffe-4896-bdf0-b2db06d4a562\"},CHISEL_0_gem:\"CITRINE\"},id:\"REINFORCED_CHISEL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/chisel/reinforced_chisel\",display:{Lore:[0:\"§7Highlight Chance: §a+60%\",1:\"§7Gemstones: §5[§4❥§5]\",2:\"\",3:\"§7Can be placed in the §6Fossil\",4:\"§6Excavator §7alongside a §9Suspicious\",5:\"§9Scrap §7to begin the excavation\",6:\"§7process!\",7:\"\",8:\"§7Charges: §e18\",9:\"\",10:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",11:\"§9§lRARE CHISEL\"],Name:\"§9Reinforced Chisel\"}}",
+  "nbttag": "{ExtraAttributes:{gems:{CHISEL_0:{quality:\"FLAWLESS\",uuid:\"73e3d827-2ffe-4896-bdf0-b2db06d4a562\"},CHISEL_0_gem:\"CITRINE\"},id:\"REINFORCED_CHISEL\"},HideFlags:254,display:{Lore:[0:\"§7Highlight Chance: §a+60%\",1:\"§7Gemstones: §5[§4❥§5]\",2:\"\",3:\"§7Can be placed in the §6Fossil\",4:\"§6Excavator §7alongside a §9Suspicious\",5:\"§9Scrap §7to begin the excavation\",6:\"§7process!\",7:\"\",8:\"§7Charges: §e18\",9:\"\",10:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",11:\"§9§lRARE CHISEL\"],Name:\"§9Reinforced Chisel\"}}",
   "damage": 0,
   "lore": [
     "§7Highlight Chance: §a+60%",

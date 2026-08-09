@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§aEnchanted Ink Sac",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_INK_SACK\"},HideFlags:254,ItemModel:\"minecraft:ink_sac\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Ink Sac\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_INK_SACK\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Ink Sac\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

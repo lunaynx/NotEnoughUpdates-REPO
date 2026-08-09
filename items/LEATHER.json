@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather",
   "displayname": "§fLeather",
-  "nbttag": "{ExtraAttributes:{id:\"LEATHER\"},HideFlags:254,ItemModel:\"minecraft:leather\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fLeather\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEATHER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fLeather\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

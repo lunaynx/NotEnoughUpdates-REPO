@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:brown_mushroom",
   "displayname": "§aEnchanted Brown Mushroom",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BROWN_MUSHROOM\"},HideFlags:254,ItemModel:\"minecraft:brown_mushroom\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Brown Mushroom\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BROWN_MUSHROOM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Brown Mushroom\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

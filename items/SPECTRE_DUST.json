@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aSpectre Dust",
-  "nbttag": "{ExtraAttributes:{id:\"SPECTRE_DUST\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spectre_dust\",display:{Lore:[0:\"§7A famous Wizard used a wand made\",1:\"§7out of these.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aSpectre Dust\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SPECTRE_DUST\"},HideFlags:254,display:{Lore:[0:\"§7A famous Wizard used a wand made\",1:\"§7out of these.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aSpectre Dust\"}}",
   "damage": 0,
   "lore": [
     "§7A famous Wizard used a wand made",

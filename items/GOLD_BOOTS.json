@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_boots",
   "displayname": "§fGolden Boots",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:golden_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+5\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON BOOTS\"],Name:\"§fGolden Boots\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_BOOTS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+5\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON BOOTS\"],Name:\"§fGolden Boots\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+5",

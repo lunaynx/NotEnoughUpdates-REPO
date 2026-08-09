@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather",
   "displayname": "§5Leather Cloth",
-  "nbttag": "{ExtraAttributes:{id:\"LEATHER_CLOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/leather_cloth\",display:{Lore:[0:\"§7The origin of that leather is a well\",1:\"§7kept secret.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Leather Cloth\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"LEATHER_CLOTH\"},HideFlags:254,display:{Lore:[0:\"§7The origin of that leather is a well\",1:\"§7kept secret.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Leather Cloth\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7The origin of that leather is a well",

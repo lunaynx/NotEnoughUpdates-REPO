@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:clay_ball",
   "displayname": "§aEnchanted Clay Ball",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CLAY_BALL\"},HideFlags:254,ItemModel:\"minecraft:clay_ball\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Clay Ball\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CLAY_BALL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Clay Ball\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

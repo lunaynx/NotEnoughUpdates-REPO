@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flower_pot",
   "displayname": "§fFlower Pot",
-  "nbttag": "{ExtraAttributes:{id:\"FLOWER_POT_ITEM\"},HideFlags:254,ItemModel:\"minecraft:flower_pot\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFlower Pot\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLOWER_POT_ITEM\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFlower Pot\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mycelium",
   "displayname": "§fMycelium",
-  "nbttag": "{ExtraAttributes:{id:\"MYCEL\"},HideFlags:254,ItemModel:\"minecraft:mycelium\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fMycelium\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MYCEL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fMycelium\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:double_plant",
   "displayname": "§aEnchanted Sunflower",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SUNFLOWER\"},HideFlags:254,ItemModel:\"minecraft:sunflower\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Sunflower\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SUNFLOWER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Sunflower\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

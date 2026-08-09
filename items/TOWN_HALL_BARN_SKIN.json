@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_block",
   "displayname": "§6Town Hall Barn Skin",
-  "nbttag": "{ExtraAttributes:{id:\"TOWN_HALL_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:gold_block\",display:{Lore:[0:\"§7Consume this item to unlock the §6Town\",1:\"§6Hall Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Town Hall Barn Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TOWN_HALL_BARN_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the §6Town\",1:\"§6Hall Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Town Hall Barn Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the §6Town",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_leggings",
   "displayname": "§fLeather Leggings",
-  "nbttag": "{ExtraAttributes:{id:\"LEATHER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON LEGGINGS\"],Name:\"§fLeather Leggings\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEATHER_LEGGINGS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON LEGGINGS\"],Name:\"§fLeather Leggings\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+10",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_leggings",
   "displayname": "§9Chicken Leggs",
-  "nbttag": "{ExtraAttributes:{id:\"CHICKEN_LEGGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+35s\",1:\"\",2:\"§8Sometimes you pretend to be a\",3:\"§8dolphin, sometimes a chicken. Cluck\",4:\"§8cluck!\",5:\"\",6:\"§9§lRARE LEGGINGS\"],Name:\"§9Chicken Leggs\",color:16773632}}",
+  "nbttag": "{ExtraAttributes:{id:\"CHICKEN_LEGGS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+35s\",1:\"\",2:\"§8Sometimes you pretend to be a\",3:\"§8dolphin, sometimes a chicken. Cluck\",4:\"§8cluck!\",5:\"\",6:\"§9§lRARE LEGGINGS\"],Name:\"§9Chicken Leggs\",color:16773632}}",
   "damage": 0,
   "lore": [
     "§7Rift Time: §a+35s",

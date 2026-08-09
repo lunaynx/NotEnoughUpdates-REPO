@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:clay_ball",
   "displayname": "§5Dark Queen's Soul",
-  "nbttag": "{ExtraAttributes:{id:\"DARK_QUEENS_SOUL_DROP\"},HideFlags:254,ItemModel:\"minecraft:clay_ball\",display:{Lore:[0:\"§7A portion of Arachne's Soul\",1:\"§7that can be used to craft items.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Dark Queen's Soul\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DARK_QUEENS_SOUL_DROP\"},HideFlags:254,display:{Lore:[0:\"§7A portion of Arachne's Soul\",1:\"§7that can be used to craft items.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Dark Queen's Soul\"}}",
   "damage": 0,
   "lore": [
     "§7A portion of Arachne's Soul",

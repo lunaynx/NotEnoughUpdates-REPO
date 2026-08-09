@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§fBone Meal",
-  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-15\"},HideFlags:254,ItemModel:\"minecraft:bone_meal\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBone Meal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-15\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBone Meal\"}}",
   "damage": 15,
   "lore": [
     "§f§lCOMMON"

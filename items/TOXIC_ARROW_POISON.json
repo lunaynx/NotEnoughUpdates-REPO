@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§aToxic Arrow Poison",
-  "nbttag": "{ExtraAttributes:{id:\"TOXIC_ARROW_POISON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/spider/toxic_arrow_poison\",display:{Lore:[0:\"§8Consumed on arrow shot\",1:\"§7Arrows deal an additional §210% §7of\",2:\"§7damage as poison and reduce\",3:\"§7healing by §224% §7over §b4 §7seconds.\",4:\"\",5:\"§a§lUNCOMMON ARROW POISON\"],Name:\"§aToxic Arrow Poison\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TOXIC_ARROW_POISON\"},HideFlags:254,display:{Lore:[0:\"§8Consumed on arrow shot\",1:\"§7Arrows deal an additional §210% §7of\",2:\"§7damage as poison and reduce\",3:\"§7healing by §224% §7over §b4 §7seconds.\",4:\"\",5:\"§a§lUNCOMMON ARROW POISON\"],Name:\"§aToxic Arrow Poison\"}}",
   "damage": 10,
   "lore": [
     "§8Consumed on arrow shot",

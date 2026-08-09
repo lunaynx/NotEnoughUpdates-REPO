@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:trapdoor",
   "displayname": "§9Hamster Wheel",
-  "nbttag": "{ExtraAttributes:{id:\"HAMSTER_WHEEL\"},HideFlags:254,ItemModel:\"minecraft:oak_trapdoor\",display:{Lore:[0:\"§7increases the speed of\",1:\"§7your minion by §a50%\",2:\"§7for 24 hours!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Hamster Wheel\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"HAMSTER_WHEEL\"},HideFlags:254,display:{Lore:[0:\"§7increases the speed of\",1:\"§7your minion by §a50%\",2:\"§7for 24 hours!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Hamster Wheel\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7increases the speed of",

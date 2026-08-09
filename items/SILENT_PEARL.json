@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ender_pearl",
   "displayname": "§aSilent Pearl",
-  "nbttag": "{ExtraAttributes:{id:\"SILENT_PEARL\"},HideFlags:254,ItemModel:\"minecraft:ender_pearl\",display:{Lore:[0:\"§7Prevents pearl damage and\",1:\"§7Enderman from spawning when\",2:\"§7thrown on §dThe End §7Island!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aSilent Pearl\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SILENT_PEARL\"},HideFlags:254,display:{Lore:[0:\"§7Prevents pearl damage and\",1:\"§7Enderman from spawning when\",2:\"§7thrown on §dThe End §7Island!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aSilent Pearl\"}}",
   "damage": 0,
   "lore": [
     "§7Prevents pearl damage and",

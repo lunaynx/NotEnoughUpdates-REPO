@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§dGemstone Powder",
-  "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_POWDER_GEMSTONE\"},HideFlags:254,ItemModel:\"minecraft:magenta_dye\",display:{Lore:[0:\"§7Used for NEU NPC-Shops\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§dGemstone Powder\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_POWDER_GEMSTONE\"},HideFlags:254,display:{Lore:[0:\"§7Used for NEU NPC-Shops\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§dGemstone Powder\"}}",
   "damage": 13,
   "lore": [
     "§7Used for NEU NPC-Shops",

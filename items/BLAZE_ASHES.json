@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aBlaze Ashes",
-  "nbttag": "{ExtraAttributes:{id:\"BLAZE_ASHES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/blaze_ashes\",display:{Lore:[0:\"§7Blazes are ephemeral creatures,\",1:\"§7constantly consuming themselves.\",2:\"§7Their ashes are said to bring good\",3:\"§7fortune.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBlaze Ashes\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BLAZE_ASHES\"},HideFlags:254,display:{Lore:[0:\"§7Blazes are ephemeral creatures,\",1:\"§7constantly consuming themselves.\",2:\"§7Their ashes are said to bring good\",3:\"§7fortune.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBlaze Ashes\"}}",
   "damage": 0,
   "lore": [
     "§7Blazes are ephemeral creatures,",

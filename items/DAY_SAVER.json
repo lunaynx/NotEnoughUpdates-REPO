@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:daylight_detector",
   "displayname": "§aDay Saver",
-  "nbttag": "{ExtraAttributes:{id:\"DAY_SAVER\"},HideFlags:254,ItemModel:\"minecraft:daylight_detector\",display:{Lore:[0:\"§7Control the time on your private\",1:\"§7island when paired with a §aNight Saver§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aDay Saver\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DAY_SAVER\"},HideFlags:254,display:{Lore:[0:\"§7Control the time on your private\",1:\"§7island when paired with a §aNight Saver§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aDay Saver\"}}",
   "damage": 0,
   "lore": [
     "§7Control the time on your private",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leaves",
   "displayname": "§fSpruce Leaves",
-  "nbttag": "{ExtraAttributes:{id:\"LEAVES-1\"},HideFlags:254,ItemModel:\"minecraft:spruce_leaves\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSpruce Leaves\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEAVES-1\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSpruce Leaves\"}}",
   "damage": 1,
   "lore": [
     "§f§lCOMMON"

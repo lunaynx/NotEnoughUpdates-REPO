@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_mushroom_block",
   "displayname": "§9Enchanted Red Mushroom Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HUGE_MUSHROOM_2\"},HideFlags:254,ItemModel:\"minecraft:red_mushroom_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Red Mushroom Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HUGE_MUSHROOM_2\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Red Mushroom Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

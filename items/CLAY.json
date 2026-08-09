@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:clay",
   "displayname": "§fClay",
-  "nbttag": "{ExtraAttributes:{id:\"CLAY\"},HideFlags:254,ItemModel:\"minecraft:clay\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fClay\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CLAY\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fClay\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

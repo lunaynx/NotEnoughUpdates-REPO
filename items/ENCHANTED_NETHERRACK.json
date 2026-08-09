@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:netherrack",
   "displayname": "§aEnchanted Netherrack",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_NETHERRACK\"},HideFlags:254,ItemModel:\"minecraft:netherrack\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Netherrack\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_NETHERRACK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Netherrack\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

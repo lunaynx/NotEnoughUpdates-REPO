@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_carrot",
   "displayname": "§9Enchanted Golden Carrot",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GOLDEN_CARROT\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Golden Carrot\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GOLDEN_CARROT\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Golden Carrot\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

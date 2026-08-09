@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ghast_tear",
   "displayname": "§fGhast Tear",
-  "nbttag": "{ExtraAttributes:{id:\"GHAST_TEAR\"},HideFlags:254,ItemModel:\"minecraft:ghast_tear\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fGhast Tear\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GHAST_TEAR\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fGhast Tear\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

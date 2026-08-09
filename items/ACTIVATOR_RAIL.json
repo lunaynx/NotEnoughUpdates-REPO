@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:activator_rail",
   "displayname": "§fActivator Rail",
-  "nbttag": "{ExtraAttributes:{id:\"ACTIVATOR_RAIL\"},HideFlags:254,ItemModel:\"minecraft:activator_rail\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fActivator Rail\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ACTIVATOR_RAIL\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fActivator Rail\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Drill Motor",
-  "nbttag": "{ExtraAttributes:{id:\"DRILL_ENGINE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/drill_motor\",display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Drill Motor\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DRILL_ENGINE\"},HideFlags:254,display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Drill Motor\"}}",
   "damage": 0,
   "lore": [
     "§9§lRARE"

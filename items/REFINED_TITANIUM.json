@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Refined Titanium",
-  "nbttag": "{ExtraAttributes:{id:\"REFINED_TITANIUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/refined_titanium\",display:{Lore:[0:\"§6§lLEGENDARY DWARVEN METAL\"],Name:\"§6Refined Titanium\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REFINED_TITANIUM\"},HideFlags:254,display:{Lore:[0:\"§6§lLEGENDARY DWARVEN METAL\"],Name:\"§6Refined Titanium\"}}",
   "damage": 0,
   "lore": [
     "§6§lLEGENDARY DWARVEN METAL"

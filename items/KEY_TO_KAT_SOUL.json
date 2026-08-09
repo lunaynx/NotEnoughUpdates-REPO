@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_nugget",
   "displayname": "§9Key to Infested House Soul",
-  "nbttag": "{ExtraAttributes:{id:\"KEY_TO_KAT_SOUL\"},HideFlags:254,ItemModel:\"minecraft:gold_nugget\",display:{Lore:[0:\"§7Hold this item in your inventory\",1:\"§7to use the soul in the infested\",2:\"§7house.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Key to Infested House Soul\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"KEY_TO_KAT_SOUL\"},HideFlags:254,display:{Lore:[0:\"§7Hold this item in your inventory\",1:\"§7to use the soul in the infested\",2:\"§7house.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Key to Infested House Soul\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Hold this item in your inventory",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:pumpkin",
   "displayname": "§5Pumpkin Launcher",
-  "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_LAUNCHER\"},HideFlags:254,ItemModel:\"minecraft:carved_pumpkin\",display:{Lore:[0:\"§7Shoots §6Blast o' Lanterns§7. Deals §a2\",1:\"§7damage to §6Spooky §7enemies and §c3,000\",2:\"§7damage against non-scary enemies!\",3:\"\",4:\"§7Blast o' Lanterns: §60§8/20k\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Pumpkin Launcher\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_LAUNCHER\"},HideFlags:254,display:{Lore:[0:\"§7Shoots §6Blast o' Lanterns§7. Deals §a2\",1:\"§7damage to §6Spooky §7enemies and §c3,000\",2:\"§7damage against non-scary enemies!\",3:\"\",4:\"§7Blast o' Lanterns: §60§8/20k\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Pumpkin Launcher\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Shoots §6Blast o' Lanterns§7. Deals §a2",

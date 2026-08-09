@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aEnchanted Honeycomb",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HONEYCOMB\"},HideFlags:254,ItemModel:\"minecraft:honeycomb\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A block of sparkling honey. It smells\",3:\"§7incredible.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Honeycomb\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HONEYCOMB\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A block of sparkling honey. It smells\",3:\"§7incredible.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Honeycomb\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

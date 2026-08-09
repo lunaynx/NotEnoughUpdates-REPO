@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Oceandy",
-  "nbttag": "{ExtraAttributes:{id:\"OCEANDY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/oceandy\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b1.25❣ Charm Chance §7towards\",3:\"§aSea Creatures§7.\",4:\"§7Duration: §612h\",5:\"\",6:\"§eLeft-click to consume!\",7:\"\",8:\"§9§lRARE SALT\"],Name:\"§9Oceandy\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"OCEANDY\"},HideFlags:254,display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b1.25❣ Charm Chance §7towards\",3:\"§aSea Creatures§7.\",4:\"§7Duration: §612h\",5:\"\",6:\"§eLeft-click to consume!\",7:\"\",8:\"§9§lRARE SALT\"],Name:\"§9Oceandy\"}}",
   "damage": 0,
   "lore": [
     "§8Hunting Tool",

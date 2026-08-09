@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:feather",
   "displayname": "§aEnchanted Feather",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FEATHER\"},HideFlags:254,ItemModel:\"minecraft:feather\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Feather\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FEATHER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Feather\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

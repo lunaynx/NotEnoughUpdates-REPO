@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Shark Water Orb",
-  "nbttag": "{ExtraAttributes:{id:\"SHARK_WATER_ORB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/shark_water_orb\",display:{Lore:[0:\"§7A disgusting ball of mushed shark\",1:\"§7matter.\",2:\"\",3:\"§8Are those teeth sticking out?\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§6§lLEGENDARY\"],Name:\"§6Shark Water Orb\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SHARK_WATER_ORB\"},HideFlags:254,display:{Lore:[0:\"§7A disgusting ball of mushed shark\",1:\"§7matter.\",2:\"\",3:\"§8Are those teeth sticking out?\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§6§lLEGENDARY\"],Name:\"§6Shark Water Orb\"}}",
   "damage": 0,
   "lore": [
     "§7A disgusting ball of mushed shark",

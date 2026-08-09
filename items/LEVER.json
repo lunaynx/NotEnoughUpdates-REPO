@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lever",
   "displayname": "§fLever",
-  "nbttag": "{ExtraAttributes:{id:\"LEVER\"},HideFlags:254,ItemModel:\"minecraft:lever\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLever\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEVER\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLever\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

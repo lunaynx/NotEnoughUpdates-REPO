@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mutton",
   "displayname": "§fRaw Mutton",
-  "nbttag": "{ExtraAttributes:{id:\"MUTTON\"},HideFlags:254,ItemModel:\"minecraft:mutton\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fRaw Mutton\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MUTTON\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fRaw Mutton\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

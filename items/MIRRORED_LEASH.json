@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lead",
   "displayname": "§fdaeL",
-  "nbttag": "{ExtraAttributes:{id:\"MIRRORED_LEASH\"},HideFlags:254,ItemModel:\"minecraft:lead\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fdaeL\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MIRRORED_LEASH\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fdaeL\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

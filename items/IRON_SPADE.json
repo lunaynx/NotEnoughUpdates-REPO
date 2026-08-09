@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_shovel",
   "displayname": "§fIron Shovel",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_SPADE\"},HideFlags:254,ItemModel:\"minecraft:iron_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fIron Shovel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_SPADE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fIron Shovel\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+25",

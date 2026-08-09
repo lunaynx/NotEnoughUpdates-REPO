@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz_ore",
   "displayname": "§aNether Quartz Ore",
-  "nbttag": "{ExtraAttributes:{id:\"QUARTZ_ORE\"},HideFlags:254,ItemModel:\"minecraft:nether_quartz_ore\",display:{Lore:[0:\"§a§lUNCOMMON ORE\"],Name:\"§aNether Quartz Ore\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"QUARTZ_ORE\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON ORE\"],Name:\"§aNether Quartz Ore\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON ORE"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:chainmail_chestplate",
   "displayname": "§aWyld Chain Top",
-  "nbttag": "{ExtraAttributes:{id:\"WYLD_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:chainmail_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+15s\",1:\"\",2:\"§a§lUNCOMMON CHESTPLATE\"],Name:\"§aWyld Chain Top\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WYLD_CHESTPLATE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+15s\",1:\"\",2:\"§a§lUNCOMMON CHESTPLATE\"],Name:\"§aWyld Chain Top\"}}",
   "damage": 0,
   "lore": [
     "§7Rift Time: §a+15s",

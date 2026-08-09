@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glowstone",
   "displayname": "§fGlowstone",
-  "nbttag": "{ExtraAttributes:{id:\"GLOWSTONE\"},HideFlags:254,ItemModel:\"minecraft:glowstone\",display:{Lore:[0:\"§f§lCOMMON BLOCK\"],Name:\"§fGlowstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GLOWSTONE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON BLOCK\"],Name:\"§fGlowstone\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON BLOCK"

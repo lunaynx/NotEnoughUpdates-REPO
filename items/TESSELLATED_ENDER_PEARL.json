@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Tessellated Ender Pearl",
-  "nbttag": "{ExtraAttributes:{id:\"TESSELLATED_ENDER_PEARL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/tessalated_ender_pearl\",display:{Lore:[0:\"§6§lLEGENDARY\"],Name:\"§6Tessellated Ender Pearl\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TESSELLATED_ENDER_PEARL\"},HideFlags:254,display:{Lore:[0:\"§6§lLEGENDARY\"],Name:\"§6Tessellated Ender Pearl\"}}",
   "damage": 0,
   "lore": [
     "§6§lLEGENDARY"

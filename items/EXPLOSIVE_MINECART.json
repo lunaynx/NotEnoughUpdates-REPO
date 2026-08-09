@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:tnt_minecart",
   "displayname": "§fMinecart with TNT",
-  "nbttag": "{ExtraAttributes:{id:\"EXPLOSIVE_MINECART\"},HideFlags:254,ItemModel:\"minecraft:tnt_minecart\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMinecart with TNT\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EXPLOSIVE_MINECART\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMinecart with TNT\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

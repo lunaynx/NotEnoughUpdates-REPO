@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Enchanted Tungsten",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_TUNGSTEN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/tungsten/tungsten\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Tungsten\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_TUNGSTEN\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Tungsten\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

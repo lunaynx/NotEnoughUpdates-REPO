@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_leggings",
   "displayname": "§aDiamond Leggings",
-  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+30\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON LEGGINGS\"],Name:\"§aDiamond Leggings\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_LEGGINGS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+30\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON LEGGINGS\"],Name:\"§aDiamond Leggings\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+30",

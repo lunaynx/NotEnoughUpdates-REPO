@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:packed_ice",
   "displayname": "§9Ice Cube",
-  "nbttag": "{ExtraAttributes:{id:\"ICE_CUBE\"},HideFlags:254,ItemModel:\"minecraft:packed_ice\",display:{Lore:[0:\"§7Prevents all ice from melting on your\",1:\"§7private island.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Ice Cube\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ICE_CUBE\"},HideFlags:254,display:{Lore:[0:\"§7Prevents all ice from melting on your\",1:\"§7private island.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Ice Cube\"}}",
   "damage": 0,
   "lore": [
     "§7Prevents all ice from melting on your",

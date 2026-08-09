@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rabbit",
   "displayname": "§fRaw Rabbit",
-  "nbttag": "{ExtraAttributes:{id:\"RABBIT\"},HideFlags:254,ItemModel:\"minecraft:rabbit\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRaw Rabbit\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RABBIT\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRaw Rabbit\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

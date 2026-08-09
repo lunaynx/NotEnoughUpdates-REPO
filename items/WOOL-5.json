@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wool",
   "displayname": "§fLime Wool",
-  "nbttag": "{ExtraAttributes:{id:\"WOOL-5\"},HideFlags:254,ItemModel:\"minecraft:lime_wool\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLime Wool\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOL-5\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLime Wool\"}}",
   "damage": 5,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§9Scarf Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"SCARF_FRAGMENT\"},HideFlags:254,ItemModel:\"minecraft:poppy\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Scarf Fragment\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SCARF_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Scarf Fragment\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

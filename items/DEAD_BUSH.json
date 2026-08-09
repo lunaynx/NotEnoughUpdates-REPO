@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:deadbush",
   "displayname": "§fDead Bush",
-  "nbttag": "{ExtraAttributes:{id:\"DEAD_BUSH\"},HideFlags:254,ItemModel:\"minecraft:dead_bush\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDead Bush\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DEAD_BUSH\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDead Bush\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

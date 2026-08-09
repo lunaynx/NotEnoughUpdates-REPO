@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:birch_fence",
   "displayname": "§9Tuning Fork",
-  "nbttag": "{ExtraAttributes:{id:\"TUNING_FORK\",tuning_fork_tuning:7},HideFlags:254,ItemModel:\"minecraft:birch_fence\",display:{Lore:[0:\"§7Left-Click: §ePick tune!\",1:\"§7Right-Click Note Block: §bTune it!\",2:\"\",3:\"§7Tuning: §bC#\",4:\"\",5:\"§8Earned from perfecting Pachelbel on\",6:\"§8the personal harp.\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Tuning Fork\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TUNING_FORK\",tuning_fork_tuning:7},HideFlags:254,display:{Lore:[0:\"§7Left-Click: §ePick tune!\",1:\"§7Right-Click Note Block: §bTune it!\",2:\"\",3:\"§7Tuning: §bC#\",4:\"\",5:\"§8Earned from perfecting Pachelbel on\",6:\"§8the personal harp.\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Tuning Fork\"}}",
   "damage": 0,
   "lore": [
     "§7Left-Click: §ePick tune!",

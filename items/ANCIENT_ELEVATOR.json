@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz_stairs",
   "displayname": "§cAncient Elevator",
-  "nbttag": "{ExtraAttributes:{id:\"ANCIENT_ELEVATOR\"},HideFlags:254,ItemModel:\"minecraft:quartz_stairs\",display:{Lore:[0:\"§7§oManual operation.\",1:\"\",2:\"§7To: §c[ADMIN] Minikloon\",3:\"§7From: §c[ADMIN] Minikloon\",4:\"\",5:\"§8Edition #1\",6:\"§8September 2020\",7:\"\",8:\"§5§kX§5 Rift-Transferable §5§kX\",9:\"§c§lSPECIAL\"],Name:\"§cAncient Elevator\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ANCIENT_ELEVATOR\"},HideFlags:254,display:{Lore:[0:\"§7§oManual operation.\",1:\"\",2:\"§7To: §c[ADMIN] Minikloon\",3:\"§7From: §c[ADMIN] Minikloon\",4:\"\",5:\"§8Edition #1\",6:\"§8September 2020\",7:\"\",8:\"§5§kX§5 Rift-Transferable §5§kX\",9:\"§c§lSPECIAL\"],Name:\"§cAncient Elevator\"}}",
   "damage": 0,
   "lore": [
     "§7§oManual operation.",

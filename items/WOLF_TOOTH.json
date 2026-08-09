@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ghast_tear",
   "displayname": "§aWolf Tooth",
-  "nbttag": "{ExtraAttributes:{id:\"WOLF_TOOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/wolf/wolf_tooth\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aWolf Tooth\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"WOLF_TOOTH\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aWolf Tooth\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

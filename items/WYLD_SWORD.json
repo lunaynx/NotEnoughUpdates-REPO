@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_sword",
   "displayname": "§aWyld Sword",
-  "nbttag": "{ExtraAttributes:{id:\"WYLD_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/weapons/wyld_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Damage: §5+2\",1:\"\",2:\"§8Could become anything.\",3:\"§8It's a wyldcard!\",4:\"\",5:\"§a§lUNCOMMON SWORD\"],Name:\"§aWyld Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WYLD_SWORD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Rift Damage: §5+2\",1:\"\",2:\"§8Could become anything.\",3:\"§8It's a wyldcard!\",4:\"\",5:\"§a§lUNCOMMON SWORD\"],Name:\"§aWyld Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Rift Damage: §5+2",

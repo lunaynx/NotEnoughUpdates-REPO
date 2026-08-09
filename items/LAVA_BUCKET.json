@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lava_bucket",
   "displayname": "§fLava Bucket",
-  "nbttag": "{ExtraAttributes:{id:\"LAVA_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:lava_bucket\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLava Bucket\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LAVA_BUCKET\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLava Bucket\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

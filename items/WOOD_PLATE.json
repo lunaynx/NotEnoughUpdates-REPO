@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_pressure_plate",
   "displayname": "§fWooden Pressure Plate",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_PLATE\"},HideFlags:254,ItemModel:\"minecraft:oak_pressure_plate\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWooden Pressure Plate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_PLATE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWooden Pressure Plate\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

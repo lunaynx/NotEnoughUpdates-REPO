@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_nugget",
   "displayname": "§aAll-in Aloe Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"ALL_IN_ALOE_FRAGMENT\"},HideFlags:254,ItemModel:\"minecraft:gold_nugget\",display:{Lore:[0:\"§7Hope you hit it big!\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§8§l* §8Co-op Soulbound §8§l*\",5:\"§a§lUNCOMMON\"],Name:\"§aAll-in Aloe Fragment\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ALL_IN_ALOE_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§7Hope you hit it big!\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§8§l* §8Co-op Soulbound §8§l*\",5:\"§a§lUNCOMMON\"],Name:\"§aAll-in Aloe Fragment\"}}",
   "damage": 0,
   "lore": [
     "§7Hope you hit it big!",

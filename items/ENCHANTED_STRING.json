@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:string",
   "displayname": "§aEnchanted String",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_STRING\"},HideFlags:254,ItemModel:\"minecraft:string\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted String\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_STRING\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted String\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

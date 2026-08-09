@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ghast_tear",
   "displayname": "§9Thorn Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"THORN_FRAGMENT\"},HideFlags:254,ItemModel:\"minecraft:ghast_tear\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Thorn Fragment\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"THORN_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Thorn Fragment\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

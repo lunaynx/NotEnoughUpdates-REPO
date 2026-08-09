@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§aSewer Fish",
-  "nbttag": "{ExtraAttributes:{id:\"SEWER_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§7Where did you find these? They stink!\",1:\"\",2:\"§8§l* §8Co-op Soulbound §8§l*\",3:\"§a§lUNCOMMON\"],Name:\"§aSewer Fish\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SEWER_FISH\"},HideFlags:254,display:{Lore:[0:\"§7Where did you find these? They stink!\",1:\"\",2:\"§8§l* §8Co-op Soulbound §8§l*\",3:\"§a§lUNCOMMON\"],Name:\"§aSewer Fish\"}}",
   "damage": 0,
   "lore": [
     "§7Where did you find these? They stink!",

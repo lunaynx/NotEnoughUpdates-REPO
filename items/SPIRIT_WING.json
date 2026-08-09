@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Spirit Wing",
-  "nbttag": "{ExtraAttributes:{id:\"SPIRIT_WING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spirit_wing\",display:{Lore:[0:\"§7Spirits of bats often take refuge in\",1:\"§7their own wings. They sometimes grow\",2:\"§7in power and gain tremendous\",3:\"§7magical properties.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5Spirit Wing\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SPIRIT_WING\"},HideFlags:254,display:{Lore:[0:\"§7Spirits of bats often take refuge in\",1:\"§7their own wings. They sometimes grow\",2:\"§7in power and gain tremendous\",3:\"§7magical properties.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5Spirit Wing\"}}",
   "damage": 0,
   "lore": [
     "§7Spirits of bats often take refuge in",

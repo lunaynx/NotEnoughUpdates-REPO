@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sponge",
   "displayname": "§9Enchanted Wet Sponge",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_WET_SPONGE\"},HideFlags:254,ItemModel:\"minecraft:wet_sponge\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Wet Sponge\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_WET_SPONGE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Wet Sponge\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

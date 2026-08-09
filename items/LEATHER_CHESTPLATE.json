@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_chestplate",
   "displayname": "§fLeather Chestplate",
-  "nbttag": "{ExtraAttributes:{id:\"LEATHER_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON CHESTPLATE\"],Name:\"§fLeather Chestplate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEATHER_CHESTPLATE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON CHESTPLATE\"],Name:\"§fLeather Chestplate\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+15",

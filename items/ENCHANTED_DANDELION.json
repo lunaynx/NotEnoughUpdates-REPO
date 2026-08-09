@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:yellow_flower",
   "displayname": "§aEnchanted Dandelion",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DANDELION\"},HideFlags:254,ItemModel:\"minecraft:dandelion\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§8Machine Fuel\",3:\"\",4:\"§7Adds §2+360♢ Fuel §7to a refuelable\",5:\"§7machine.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Dandelion\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DANDELION\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§8Machine Fuel\",3:\"\",4:\"§7Adds §2+360♢ Fuel §7to a refuelable\",5:\"§7machine.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Dandelion\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

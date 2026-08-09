@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_slab2",
   "displayname": "§fRed Sandstone Slab",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_SLAB2\"},HideFlags:254,ItemModel:\"minecraft:red_sandstone_slab\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRed Sandstone Slab\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_SLAB2\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRed Sandstone Slab\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

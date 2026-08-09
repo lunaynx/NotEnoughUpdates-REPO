@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fence_gate",
   "displayname": "§aCountry Greenhouse Skin",
-  "nbttag": "{ExtraAttributes:{id:\"COUNTRY_GREENHOUSE_SKIN\"},HideFlags:254,ItemModel:\"minecraft:oak_fence_gate\",display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§aCountry Greenhouse Skin §7on §aThe\",2:\"§aGarden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCountry Greenhouse Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COUNTRY_GREENHOUSE_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§aCountry Greenhouse Skin §7on §aThe\",2:\"§aGarden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCountry Greenhouse Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the",

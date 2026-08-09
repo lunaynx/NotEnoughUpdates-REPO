@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Silver Lotus",
-  "nbttag": "{ExtraAttributes:{id:\"LOTUS_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/lotus/silver_lotus\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Silver Lotus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LOTUS_SILVER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Silver Lotus\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

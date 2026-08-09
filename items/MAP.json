@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:filled_map",
   "displayname": "§fMap",
-  "nbttag": "{ExtraAttributes:{id:\"MAP\"},HideFlags:254,ItemModel:\"minecraft:filled_map\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMap\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MAP\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMap\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

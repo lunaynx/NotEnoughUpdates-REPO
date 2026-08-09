@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Box of Seeds",
-  "nbttag": "{ExtraAttributes:{id:\"BOX_OF_SEEDS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/box_of_seeds\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Box of Seeds\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOX_OF_SEEDS\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Box of Seeds\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

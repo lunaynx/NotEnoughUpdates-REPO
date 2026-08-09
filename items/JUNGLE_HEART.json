@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Jungle Heart",
-  "nbttag": "{ExtraAttributes:{id:\"JUNGLE_HEART\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/jungle_heart\",display:{Lore:[0:\"§7Found in the deepest layers of the\",1:\"§7Jungle Temple.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Jungle Heart\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"JUNGLE_HEART\"},HideFlags:254,display:{Lore:[0:\"§7Found in the deepest layers of the\",1:\"§7Jungle Temple.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Jungle Heart\"}}",
   "damage": 0,
   "lore": [
     "§7Found in the deepest layers of the",

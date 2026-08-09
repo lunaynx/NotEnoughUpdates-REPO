@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:double_plant",
   "displayname": "§fWild Rose",
-  "nbttag": "{ExtraAttributes:{id:\"WILD_ROSE\"},HideFlags:254,ItemModel:\"minecraft:rose_bush\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fWild Rose\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WILD_ROSE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fWild Rose\"}}",
   "damage": 4,
   "lore": [
     "§8Collection Item",

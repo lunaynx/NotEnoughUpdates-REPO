@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Torrhus Belt",
-  "nbttag": "{ExtraAttributes:{id:\"TORRHUS_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/equipment/torrhus_belt\",display:{Lore:[0:\"§7Sweep: §2+2\",1:\"§7Foraging Fortune: §6+10\",2:\"\",3:\"§7Grants §a+10% §7more points towards\",4:\"§dStarlyn Contests§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aForaging Skill 24§c.\",10:\"§5§lEPIC BELT\"],Name:\"§5Torrhus Belt\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TORRHUS_BELT\"},HideFlags:254,display:{Lore:[0:\"§7Sweep: §2+2\",1:\"§7Foraging Fortune: §6+10\",2:\"\",3:\"§7Grants §a+10% §7more points towards\",4:\"§dStarlyn Contests§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aForaging Skill 24§c.\",10:\"§5§lEPIC BELT\"],Name:\"§5Torrhus Belt\"}}",
   "damage": 0,
   "lore": [
     "§7Sweep: §2+2",

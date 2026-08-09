@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cake",
   "displayname": "§aEnchanted Cake",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CAKE\"},HideFlags:254,ItemModel:\"minecraft:cake\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Cake\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CAKE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Cake\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

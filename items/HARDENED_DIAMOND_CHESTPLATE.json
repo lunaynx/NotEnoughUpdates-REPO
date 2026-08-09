@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_chestplate",
   "displayname": "§9Hardened Diamond Chestplate",
-  "nbttag": "{ExtraAttributes:{id:\"HARDENED_DIAMOND_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+120\",1:\"\",2:\"§8This item can be reforged!\",3:\"§9§lRARE CHESTPLATE\"],Name:\"§9Hardened Diamond Chestplate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HARDENED_DIAMOND_CHESTPLATE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+120\",1:\"\",2:\"§8This item can be reforged!\",3:\"§9§lRARE CHESTPLATE\"],Name:\"§9Hardened Diamond Chestplate\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+120",

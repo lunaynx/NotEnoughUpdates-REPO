@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aEnchanted Paper",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PAPER\"},HideFlags:254,ItemModel:\"minecraft:paper\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Paper\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PAPER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Paper\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

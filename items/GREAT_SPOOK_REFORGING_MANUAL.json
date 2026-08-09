@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:book",
   "displayname": "§5Great Spook Reforging Manual",
-  "nbttag": "{ExtraAttributes:{edition:203,id:\"GREAT_SPOOK_REFORGING_MANUAL\",year:2023},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§7Obtained during the §e2023 §5Alchemist\",1:\"§7experiments!\",2:\"\",3:\"§8Edition #203\",4:\"\",5:\"§7Unlocks the Boo Stone in the Tyashoi\",6:\"§7Alchemist's shop.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§5§lEPIC\"],Name:\"§5Great Spook Reforging Manual\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{edition:203,id:\"GREAT_SPOOK_REFORGING_MANUAL\",year:2023},HideFlags:254,display:{Lore:[0:\"§7Obtained during the §e2023 §5Alchemist\",1:\"§7experiments!\",2:\"\",3:\"§8Edition #203\",4:\"\",5:\"§7Unlocks the Boo Stone in the Tyashoi\",6:\"§7Alchemist's shop.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§5§lEPIC\"],Name:\"§5Great Spook Reforging Manual\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Obtained during the §e2023 §5Alchemist",

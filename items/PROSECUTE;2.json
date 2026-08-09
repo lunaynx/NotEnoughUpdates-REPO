@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§fEnchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{PROSECUTE:2},id:\"PROSECUTE;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Prosecute II\",1:\"§7Increases damage dealt by §a0.2%\",2:\"§7for each percent of health\",3:\"§7your target has.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fSword\",10:\"§7- §fFishing Weapon\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cExecute\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{enchantments:{PROSECUTE:2},id:\"PROSECUTE;2\"},HideFlags:254,display:{Lore:[0:\"§9Prosecute II\",1:\"§7Increases damage dealt by §a0.2%\",2:\"§7for each percent of health\",3:\"§7your target has.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fSword\",10:\"§7- §fFishing Weapon\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cExecute\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§9Prosecute II",

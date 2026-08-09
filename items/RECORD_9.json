@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_strad",
   "displayname": "§aMusic Disc - Strad",
-  "nbttag": "{ExtraAttributes:{id:\"RECORD_9\"},HideFlags:254,ItemModel:\"minecraft:music_disc_strad\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Strad\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RECORD_9\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Strad\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

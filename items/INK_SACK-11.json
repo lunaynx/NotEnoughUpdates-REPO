@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§fDandelion Yellow",
-  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-11\"},HideFlags:254,ItemModel:\"minecraft:yellow_dye\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDandelion Yellow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-11\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDandelion Yellow\"}}",
   "damage": 11,
   "lore": [
     "§f§lCOMMON"

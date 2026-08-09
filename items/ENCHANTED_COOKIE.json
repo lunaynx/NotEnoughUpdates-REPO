@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cookie",
   "displayname": "§9Enchanted Cookie",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COOKIE\"},HideFlags:254,ItemModel:\"minecraft:cookie\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Cookie\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COOKIE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Cookie\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

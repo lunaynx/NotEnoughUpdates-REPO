@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:feather",
   "displayname": "§9Griffin Feather",
-  "nbttag": "{ExtraAttributes:{id:\"GRIFFIN_FEATHER\"},HideFlags:254,ItemModel:\"minecraft:feather\",display:{Lore:[0:\"§7The feather of a mythical creature\",1:\"§7that was buried for centuries. It still\",2:\"§7retains its pleasant scent and\",3:\"§7fluffiness despite the damage.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Griffin Feather\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GRIFFIN_FEATHER\"},HideFlags:254,display:{Lore:[0:\"§7The feather of a mythical creature\",1:\"§7that was buried for centuries. It still\",2:\"§7retains its pleasant scent and\",3:\"§7fluffiness despite the damage.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Griffin Feather\"}}",
   "damage": 0,
   "lore": [
     "§7The feather of a mythical creature",

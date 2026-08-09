@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:jungle_stairs",
   "displayname": "§fJungle Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"JUNGLE_WOOD_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:jungle_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJungle Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"JUNGLE_WOOD_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJungle Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_block",
   "displayname": "§fBlock of Diamond",
-  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:diamond_block\",display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fBlock of Diamond\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fBlock of Diamond\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON ORE"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stick",
   "displayname": "§fBirch Forest Biome Stick",
-  "nbttag": "{ExtraAttributes:{id:\"BIRCH_FOREST_BIOME_STICK\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§7Allows you to change the biome at\",1:\"§7the §atargeted block §7on your private\",2:\"§7island to §bBirch Forest§7.\",3:\"\",4:\"§7Right-click to use or Left-click to\",5:\"§7change the radius it effects.\",6:\"\",7:\"§7Selected Radius: §b3\",8:\"\",9:\"§f§lCOMMON\"],Name:\"§fBirch Forest Biome Stick\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"BIRCH_FOREST_BIOME_STICK\"},HideFlags:254,display:{Lore:[0:\"§7Allows you to change the biome at\",1:\"§7the §atargeted block §7on your private\",2:\"§7island to §bBirch Forest§7.\",3:\"\",4:\"§7Right-click to use or Left-click to\",5:\"§7change the radius it effects.\",6:\"\",7:\"§7Selected Radius: §b3\",8:\"\",9:\"§f§lCOMMON\"],Name:\"§fBirch Forest Biome Stick\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Allows you to change the biome at",

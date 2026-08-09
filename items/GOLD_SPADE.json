@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_shovel",
   "displayname": "§fGolden Shovel",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_SPADE\"},HideFlags:254,ItemModel:\"minecraft:golden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fGolden Shovel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_SPADE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fGolden Shovel\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+15",

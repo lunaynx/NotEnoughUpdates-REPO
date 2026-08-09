@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carrot_on_a_stick",
   "displayname": "§aNearly Coherent doR gnihsiF",
-  "nbttag": "{ExtraAttributes:{id:\"NEARLY_COHERENT_ROD\"},HideFlags:254,ItemModel:\"minecraft:carrot_on_a_stick\",Unbreakable:1B,display:{Lore:[0:\"§7Hold this and §aChester §7will follow you\",1:\"§7instead of running away.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aNearly Coherent doR gnihsiF\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"NEARLY_COHERENT_ROD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Hold this and §aChester §7will follow you\",1:\"§7instead of running away.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aNearly Coherent doR gnihsiF\"}}",
   "damage": 0,
   "lore": [
     "§7Hold this and §aChester §7will follow you",

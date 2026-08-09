@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_block",
   "displayname": "§9Enchanted Iron Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_IRON_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:iron_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Iron Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_IRON_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Iron Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

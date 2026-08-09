@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wool",
   "displayname": "§aCube Barn Skin",
-  "nbttag": "{ExtraAttributes:{id:\"CUBE_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:red_wool\",display:{Lore:[0:\"§7Consume this item to unlock the §aCube\",1:\"§aBarn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCube Barn Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CUBE_BARN_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the §aCube\",1:\"§aBarn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCube Barn Skin\"}}",
   "damage": 14,
   "lore": [
     "§7Consume this item to unlock the §aCube",

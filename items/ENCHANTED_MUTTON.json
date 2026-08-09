@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mutton",
   "displayname": "§aEnchanted Raw Mutton",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MUTTON\"},HideFlags:254,ItemModel:\"minecraft:mutton\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Mutton\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MUTTON\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Mutton\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

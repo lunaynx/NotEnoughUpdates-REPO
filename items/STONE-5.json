@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone",
   "displayname": "§fAndesite",
-  "nbttag": "{ExtraAttributes:{id:\"STONE-5\"},HideFlags:254,ItemModel:\"minecraft:andesite\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAndesite\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE-5\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAndesite\"}}",
   "damage": 5,
   "lore": [
     "§f§lCOMMON"

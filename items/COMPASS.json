@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:compass",
   "displayname": "§fCompass",
-  "nbttag": "{ExtraAttributes:{id:\"COMPASS\"},HideFlags:254,ItemModel:\"minecraft:compass\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCompass\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COMPASS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCompass\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

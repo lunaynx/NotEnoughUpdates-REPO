@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ender_chest",
   "displayname": "§fEnder Chest",
-  "nbttag": "{ExtraAttributes:{id:\"ENDER_CHEST\"},HideFlags:254,ItemModel:\"minecraft:ender_chest\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEnder Chest\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ENDER_CHEST\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEnder Chest\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

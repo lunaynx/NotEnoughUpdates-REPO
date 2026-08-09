@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:book",
   "displayname": "§9Moby-Duck",
-  "nbttag": "{ExtraAttributes:{id:\"MOBY_DUCK\",seconds_held:0},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§7Consume to boost your §3☯ Fishing\",1:\"§3Wisdom §7for §a60m§7.\",2:\"\",3:\"§7Keep this item in your inventory to\",4:\"§7increase the bonus up to §3+30☯\",5:\"§3Fishing Wisdom§7, at which point the item\",6:\"§c§oevolves§7!\",7:\"\",8:\"§7Current Bonus: §3+0☯ Fishing Wisdom\",9:\"\",10:\"§8§oA series of tales following a fellow\",11:\"§8§onamed Moby and his waterfowl best\",12:\"§8§ofriend. Who would be so egregious as\",13:\"§8§oto thrust such a literary\",14:\"§8§omasterpiece into the sea?\",15:\"\",16:\"§9§lRARE\"],Name:\"§9Moby-Duck\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MOBY_DUCK\",seconds_held:0},HideFlags:254,display:{Lore:[0:\"§7Consume to boost your §3☯ Fishing\",1:\"§3Wisdom §7for §a60m§7.\",2:\"\",3:\"§7Keep this item in your inventory to\",4:\"§7increase the bonus up to §3+30☯\",5:\"§3Fishing Wisdom§7, at which point the item\",6:\"§c§oevolves§7!\",7:\"\",8:\"§7Current Bonus: §3+0☯ Fishing Wisdom\",9:\"\",10:\"§8§oA series of tales following a fellow\",11:\"§8§onamed Moby and his waterfowl best\",12:\"§8§ofriend. Who would be so egregious as\",13:\"§8§oto thrust such a literary\",14:\"§8§omasterpiece into the sea?\",15:\"\",16:\"§9§lRARE\"],Name:\"§9Moby-Duck\"}}",
   "damage": 0,
   "lore": [
     "§7Consume to boost your §3☯ Fishing",

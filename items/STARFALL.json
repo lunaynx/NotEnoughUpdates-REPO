@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Starfall",
-  "nbttag": "{ExtraAttributes:{id:\"STARFALL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/starfall\",display:{Lore:[0:\"§7No one knows how and when the\",1:\"§7Starfall appeared. All we know is that\",2:\"§7it was already there when the\",3:\"§7Dwarves discovered the cavern.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Starfall\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STARFALL\"},HideFlags:254,display:{Lore:[0:\"§7No one knows how and when the\",1:\"§7Starfall appeared. All we know is that\",2:\"§7it was already there when the\",3:\"§7Dwarves discovered the cavern.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Starfall\"}}",
   "damage": 0,
   "lore": [
     "§7No one knows how and when the",

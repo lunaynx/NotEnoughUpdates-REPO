@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:prismarine_shard",
   "displayname": "§aPyroclastic Scale",
-  "nbttag": "{ExtraAttributes:{id:\"PYROCLASTIC_SCALE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/pyroclastic_scale\",display:{Lore:[0:\"§7Makes pretty \\\"drip\\\" necklaces,\",1:\"§7according to the local youth.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aPyroclastic Scale\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"PYROCLASTIC_SCALE\"},HideFlags:254,display:{Lore:[0:\"§7Makes pretty \\\"drip\\\" necklaces,\",1:\"§7according to the local youth.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aPyroclastic Scale\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Makes pretty \"drip\" necklaces,",

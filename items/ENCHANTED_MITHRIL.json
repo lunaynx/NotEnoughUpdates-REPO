@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:prismarine_crystals",
   "displayname": "§9Enchanted Mithril",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MITHRIL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/mithril\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Mithril\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MITHRIL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Mithril\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

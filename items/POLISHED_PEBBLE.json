@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flint",
   "displayname": "§fPolished Pebble",
-  "nbttag": "{ExtraAttributes:{id:\"POLISHED_PEBBLE\"},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§f§lCOMMON\"],Name:\"§fPolished Pebble\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"POLISHED_PEBBLE\"},HideFlags:254,display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§f§lCOMMON\"],Name:\"§fPolished Pebble\"}}",
   "damage": 0,
   "lore": [
     "§8§l* §8Co-op Soulbound §8§l*",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§aEnchanted Raw Cod",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Cod\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_FISH\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Cod\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

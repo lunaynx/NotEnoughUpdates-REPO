@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:torch",
   "displayname": "§fTorch",
-  "nbttag": "{ExtraAttributes:{id:\"TORCH\"},HideFlags:254,ItemModel:\"minecraft:torch\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fTorch\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TORCH\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fTorch\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

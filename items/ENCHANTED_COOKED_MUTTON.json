@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_mutton",
   "displayname": "§9Enchanted Cooked Mutton",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COOKED_MUTTON\"},HideFlags:254,ItemModel:\"minecraft:cooked_mutton\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Cooked Mutton\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COOKED_MUTTON\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Cooked Mutton\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:hardened_clay",
   "displayname": "§fHardened Clay",
-  "nbttag": "{ExtraAttributes:{id:\"HARD_CLAY\"},HideFlags:254,ItemModel:\"minecraft:terracotta\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHardened Clay\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HARD_CLAY\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHardened Clay\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

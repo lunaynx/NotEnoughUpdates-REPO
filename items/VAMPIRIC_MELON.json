@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:melon_block",
   "displayname": "§aVampiric Melon",
-  "nbttag": "{ExtraAttributes:{id:\"VAMPIRIC_MELON\"},HideFlags:254,ItemModel:\"minecraft:melon\",display:{Lore:[0:\"§7Perfect ingredient for a healing\",1:\"§7melon.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aVampiric Melon\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"VAMPIRIC_MELON\"},HideFlags:254,display:{Lore:[0:\"§7Perfect ingredient for a healing\",1:\"§7melon.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aVampiric Melon\"}}",
   "damage": 0,
   "lore": [
     "§7Perfect ingredient for a healing",

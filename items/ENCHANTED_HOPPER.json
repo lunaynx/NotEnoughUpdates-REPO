@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:hopper",
   "displayname": "§9Enchanted Hopper",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HOPPER\"},HideFlags:254,ItemModel:\"minecraft:hopper\",display:{Lore:[0:\"§8Minion Shipping\",1:\"\",2:\"§7This item can be placed inside any\",3:\"§7minion. Automatically sells generated\",4:\"§7items when the minion has no space.\",5:\"§7Items are sold for §a70% §7of their\",6:\"§7selling price.\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Enchanted Hopper\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HOPPER\"},HideFlags:254,display:{Lore:[0:\"§8Minion Shipping\",1:\"\",2:\"§7This item can be placed inside any\",3:\"§7minion. Automatically sells generated\",4:\"§7items when the minion has no space.\",5:\"§7Items are sold for §a70% §7of their\",6:\"§7selling price.\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Enchanted Hopper\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Minion Shipping",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_sword",
   "displayname": "§fSpider Sword",
-  "nbttag": "{ExtraAttributes:{id:\"SPIDER_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§7Deals §a+100% §7damage to §4 Arthropod\",3:\"§7mobs.\",4:\"\",5:\"§4This item is Arachnal !\",6:\"\",7:\"§8This item can be reforged!\",8:\"§f§lCOMMON SWORD\"],Name:\"§fSpider Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SPIDER_SWORD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§7Deals §a+100% §7damage to §4 Arthropod\",3:\"§7mobs.\",4:\"\",5:\"§4This item is Arachnal !\",6:\"\",7:\"§8This item can be reforged!\",8:\"§f§lCOMMON SWORD\"],Name:\"§fSpider Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+30",

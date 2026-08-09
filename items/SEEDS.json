@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wheat_seeds",
   "displayname": "§fSeeds",
-  "nbttag": "{ExtraAttributes:{id:\"SEEDS\"},HideFlags:254,ItemModel:\"minecraft:wheat_seeds\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fSeeds\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SEEDS\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fSeeds\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

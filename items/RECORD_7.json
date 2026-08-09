@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_mellohi",
   "displayname": "§aMusic Disc - Mellohi",
-  "nbttag": "{ExtraAttributes:{id:\"RECORD_7\"},HideFlags:254,ItemModel:\"minecraft:music_disc_mellohi\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Mellohi\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RECORD_7\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Mellohi\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

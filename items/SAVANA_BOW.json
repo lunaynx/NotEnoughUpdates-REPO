@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bow",
   "displayname": "§aSavanna Bow",
-  "nbttag": "{ExtraAttributes:{id:\"SAVANA_BOW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/savanna_bow\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+50\",1:\"\",2:\"§7All damage dealt with this bow is\",3:\"§adoubled§7.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON BOW\"],Name:\"§aSavanna Bow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SAVANA_BOW\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+50\",1:\"\",2:\"§7All damage dealt with this bow is\",3:\"§adoubled§7.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON BOW\"],Name:\"§aSavanna Bow\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+50",

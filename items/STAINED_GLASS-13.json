@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stained_glass",
   "displayname": "§fGreen Stained Glass",
-  "nbttag": "{ExtraAttributes:{id:\"STAINED_GLASS-13\"},HideFlags:254,ItemModel:\"minecraft:green_stained_glass\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGreen Stained Glass\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STAINED_GLASS-13\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGreen Stained Glass\"}}",
   "damage": 13,
   "lore": [
     "§f§lCOMMON"

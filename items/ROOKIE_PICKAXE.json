@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_pickaxe",
   "displayname": "§fRookie Pickaxe",
-  "nbttag": "{ExtraAttributes:{id:\"ROOKIE_PICKAXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/rookie_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 2\",1:\"\",2:\"§7Damage: §c+15\",3:\"§7Mining Speed: §6+150\",4:\"§7Ore Fortune: §6+5\",5:\"\",6:\"§8This item can be reforged!\",7:\"§f§lCOMMON PICKAXE\"],Name:\"§fRookie Pickaxe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ROOKIE_PICKAXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 2\",1:\"\",2:\"§7Damage: §c+15\",3:\"§7Mining Speed: §6+150\",4:\"§7Ore Fortune: §6+5\",5:\"\",6:\"§8This item can be reforged!\",7:\"§f§lCOMMON PICKAXE\"],Name:\"§fRookie Pickaxe\"}}",
   "damage": 0,
   "lore": [
     "§8Breaking Power 2",

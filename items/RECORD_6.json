@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_mall",
   "displayname": "§aMusic Disc - Mall",
-  "nbttag": "{ExtraAttributes:{id:\"RECORD_6\"},HideFlags:254,ItemModel:\"minecraft:music_disc_mall\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Mall\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RECORD_6\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Mall\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:web",
   "displayname": "§aWeb",
-  "nbttag": "{ExtraAttributes:{id:\"WEB\"},HideFlags:254,ItemModel:\"minecraft:cobweb\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aWeb\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WEB\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aWeb\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_sandstone_stairs",
   "displayname": "§fRed Sandstone Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"RED_SANDSTONE_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:red_sandstone_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRed Sandstone Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RED_SANDSTONE_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRed Sandstone Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_leggings",
   "displayname": "§fGolden Leggings",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:golden_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON LEGGINGS\"],Name:\"§fGolden Leggings\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_LEGGINGS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON LEGGINGS\"],Name:\"§fGolden Leggings\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+15",

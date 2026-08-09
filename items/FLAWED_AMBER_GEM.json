@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§a Flawed Amber Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FLAWED_AMBER_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/amber/flawed_amber_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §6Amber§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Mining Speed§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Amber Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLAWED_AMBER_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §6Amber§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Mining Speed§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Amber Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

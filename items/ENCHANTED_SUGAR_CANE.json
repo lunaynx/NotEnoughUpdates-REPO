@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:reeds",
   "displayname": "§9Enchanted Sugar Cane",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SUGAR_CANE\"},HideFlags:254,ItemModel:\"minecraft:sugar_cane\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Sugar Cane\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SUGAR_CANE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Sugar Cane\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§aZombie (Monster)",
-  "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:zombie_head\",display:{Lore:[0:\"§7The Zombie is a natural mob in Minecraft. Zombies\",1:\"\",2:\"§c❤ Health§8: §c100 - 707\"],Name:\"§aZombie (Monster)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_MONSTER\"},HideFlags:254,display:{Lore:[0:\"§7The Zombie is a natural mob in Minecraft. Zombies\",1:\"\",2:\"§c❤ Health§8: §c100 - 707\"],Name:\"§aZombie (Monster)\"}}",
   "damage": 2,
   "lore": [
     "§7The Zombie is a natural mob in Minecraft. Zombies",

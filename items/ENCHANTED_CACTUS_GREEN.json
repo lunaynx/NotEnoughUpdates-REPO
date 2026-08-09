@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§aEnchanted Cactus Green",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CACTUS_GREEN\"},HideFlags:254,ItemModel:\"minecraft:green_dye\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Cactus Green\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CACTUS_GREEN\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Cactus Green\"},ench:[]}",
   "damage": 2,
   "lore": [
     "§8Brewing Ingredient",

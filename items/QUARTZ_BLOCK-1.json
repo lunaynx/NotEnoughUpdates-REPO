@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz_block",
   "displayname": "§fChiseled Quartz Block",
-  "nbttag": "{ExtraAttributes:{id:\"QUARTZ_BLOCK-1\"},HideFlags:254,ItemModel:\"minecraft:chiseled_quartz_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fChiseled Quartz Block\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"QUARTZ_BLOCK-1\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fChiseled Quartz Block\"}}",
   "damage": 1,
   "lore": [
     "§f§lCOMMON"

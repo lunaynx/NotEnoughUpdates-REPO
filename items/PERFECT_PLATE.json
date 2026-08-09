@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Perfect Plate",
-  "nbttag": "{ExtraAttributes:{id:\"PERFECT_PLATE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/uncategorized/perfect_plate\",display:{Lore:[0:\"§7A plate forged from an assortment\",1:\"§7of the most durable materials found\",2:\"§7in this world.\",3:\"\",4:\"§6§lLEGENDARY\"],Name:\"§6Perfect Plate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PERFECT_PLATE\"},HideFlags:254,display:{Lore:[0:\"§7A plate forged from an assortment\",1:\"§7of the most durable materials found\",2:\"§7in this world.\",3:\"\",4:\"§6§lLEGENDARY\"],Name:\"§6Perfect Plate\"}}",
   "damage": 0,
   "lore": [
     "§7A plate forged from an assortment",

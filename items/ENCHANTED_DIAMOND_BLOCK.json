@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_block",
   "displayname": "§9Enchanted Diamond Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DIAMOND_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:diamond_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Diamond Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DIAMOND_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Diamond Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

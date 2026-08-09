@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§cTree the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"TREE_THE_FISH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/fish_family/tree_the_fish\",display:{Lore:[0:\"§7Fish grow on trees.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cTree the Fish\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TREE_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7Fish grow on trees.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cTree the Fish\"}}",
   "damage": 0,
   "lore": [
     "§7Fish grow on trees.",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fermented_spider_eye",
   "displayname": "§aEnchanted Fermented Spider Eye",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FERMENTED_SPIDER_EYE\"},HideFlags:254,ItemModel:\"minecraft:fermented_spider_eye\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Fermented Spider Eye\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FERMENTED_SPIDER_EYE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Fermented Spider Eye\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

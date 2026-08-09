@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Lotus Water Orb",
-  "nbttag": "{ExtraAttributes:{id:\"LOTUS_WATER_ORB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/lotus_atoll/lotus_water_orb\",display:{Lore:[0:\"§7Smells of rust and Lotus... what an\",1:\"§7interesting mix.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Lotus Water Orb\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LOTUS_WATER_ORB\"},HideFlags:254,display:{Lore:[0:\"§7Smells of rust and Lotus... what an\",1:\"§7interesting mix.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Lotus Water Orb\"}}",
   "damage": 0,
   "lore": [
     "§7Smells of rust and Lotus... what an",

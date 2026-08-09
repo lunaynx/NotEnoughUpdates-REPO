@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:web",
   "displayname": "§5Flycatcher",
-  "nbttag": "{ExtraAttributes:{id:\"FLYCATCHER_UPGRADE\"},HideFlags:254,ItemModel:\"minecraft:cobweb\",display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade. Prevents your minions from\",4:\"§7getting distracted by flies.\",5:\"§7Increases the speed of your minion\",6:\"§7by §a20%§7.\",7:\"\",8:\"§4☠ §cRequires §5Spider Slayer 6§c.\",9:\"§5§lEPIC\"],Name:\"§5Flycatcher\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"FLYCATCHER_UPGRADE\"},HideFlags:254,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade. Prevents your minions from\",4:\"§7getting distracted by flies.\",5:\"§7Increases the speed of your minion\",6:\"§7by §a20%§7.\",7:\"\",8:\"§4☠ §cRequires §5Spider Slayer 6§c.\",9:\"§5§lEPIC\"],Name:\"§5Flycatcher\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Minion Upgrade",

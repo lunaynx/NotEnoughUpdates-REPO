@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:log",
   "displayname": "§aEnchanted Birch Log",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BIRCH_LOG\"},HideFlags:254,ItemModel:\"minecraft:birch_log\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Birch Log\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BIRCH_LOG\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Birch Log\"},ench:[]}",
   "damage": 2,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:prismarine_crystals",
   "displayname": "§aEnchanted Prismarine Crystals",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PRISMARINE_CRYSTALS\"},HideFlags:254,ItemModel:\"minecraft:prismarine_crystals\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Prismarine Crystals\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PRISMARINE_CRYSTALS\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Prismarine Crystals\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_button",
   "displayname": "§fWooden Button",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_BUTTON\"},HideFlags:254,ItemModel:\"minecraft:oak_button\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWooden Button\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_BUTTON\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWooden Button\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

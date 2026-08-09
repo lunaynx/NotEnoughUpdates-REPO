@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§6Plasma Nucleus",
-  "nbttag": "{ExtraAttributes:{id:\"PLASMA_NUCLEUS\"},HideFlags:254,ItemModel:\"minecraft:purple_dye\",display:{Lore:[0:\"§7Combine with an §5Overflux Power Orb\",1:\"§7to increase its strength and create\",2:\"§7a §6Plasmaflux Power Orb§7.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§6Plasma Nucleus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PLASMA_NUCLEUS\"},HideFlags:254,display:{Lore:[0:\"§7Combine with an §5Overflux Power Orb\",1:\"§7to increase its strength and create\",2:\"§7a §6Plasmaflux Power Orb§7.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§6Plasma Nucleus\"}}",
   "damage": 5,
   "lore": [
     "§7Combine with an §5Overflux Power Orb",

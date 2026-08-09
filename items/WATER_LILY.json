@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:waterlily",
   "displayname": "§fLily Pad",
-  "nbttag": "{ExtraAttributes:{id:\"WATER_LILY\"},HideFlags:254,ItemModel:\"minecraft:lily_pad\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fLily Pad\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WATER_LILY\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fLily Pad\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:pumpkin_seeds",
   "displayname": "§fPumpkin Seeds",
-  "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_SEEDS\"},HideFlags:254,ItemModel:\"minecraft:pumpkin_seeds\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPumpkin Seeds\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_SEEDS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPumpkin Seeds\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

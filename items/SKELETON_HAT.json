@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§fSkeleton Hat",
-  "nbttag": "{ExtraAttributes:{id:\"SKELETON_HAT\"},HideFlags:254,ItemModel:\"minecraft:skeleton_skull\",display:{Lore:[0:\"§7Intelligence: §b+10\",1:\"§7Speed: §f+2\",2:\"\",3:\"§7Your arrows have a §a20% §7chance to\",4:\"§7explode on impact dealing §a50 §7base\",5:\"§7Magic Damage to enemies within §a8\",6:\"§7blocks.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§f§lCOMMON HELMET\"],Name:\"§fSkeleton Hat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SKELETON_HAT\"},HideFlags:254,display:{Lore:[0:\"§7Intelligence: §b+10\",1:\"§7Speed: §f+2\",2:\"\",3:\"§7Your arrows have a §a20% §7chance to\",4:\"§7explode on impact dealing §a50 §7base\",5:\"§7Magic Damage to enemies within §a8\",6:\"§7blocks.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§f§lCOMMON HELMET\"],Name:\"§fSkeleton Hat\"}}",
   "damage": 0,
   "lore": [
     "§7Intelligence: §b+10",

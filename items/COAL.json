@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:coal",
   "displayname": "§fCoal",
-  "nbttag": "{ExtraAttributes:{id:\"COAL\"},HideFlags:254,ItemModel:\"minecraft:coal\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§7Increases the speed of\",4:\"§7your minion by §a5%§7 for 30\",5:\"§7minutes!\",6:\"\",7:\"§f§lCOMMON ORE\"],Name:\"§fCoal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COAL\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§7Increases the speed of\",4:\"§7your minion by §a5%§7 for 30\",5:\"§7minutes!\",6:\"\",7:\"§f§lCOMMON ORE\"],Name:\"§fCoal\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aBurning Eye",
-  "nbttag": "{ExtraAttributes:{id:\"BURNING_EYE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/burning_eye\",display:{Lore:[0:\"§7Probably the single most regrettable\",1:\"§7effect of Sulphur on the island's\",2:\"§7fauna. You can't kill a spider with\",3:\"§7fire if it's already burning.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBurning Eye\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BURNING_EYE\"},HideFlags:254,display:{Lore:[0:\"§7Probably the single most regrettable\",1:\"§7effect of Sulphur on the island's\",2:\"§7fauna. You can't kill a spider with\",3:\"§7fire if it's already burning.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBurning Eye\"}}",
   "damage": 0,
   "lore": [
     "§7Probably the single most regrettable",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:nether_wart",
   "displayname": "§aEnchanted Nether Wart",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_NETHER_STALK\"},HideFlags:254,ItemModel:\"minecraft:nether_wart\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Nether Wart\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_NETHER_STALK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Nether Wart\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

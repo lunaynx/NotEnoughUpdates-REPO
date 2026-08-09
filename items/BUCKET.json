@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bucket",
   "displayname": "§fBucket",
-  "nbttag": "{ExtraAttributes:{id:\"BUCKET\"},HideFlags:254,ItemModel:\"minecraft:bucket\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBucket\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BUCKET\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBucket\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

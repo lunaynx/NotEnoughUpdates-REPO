@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_slab",
   "displayname": "§fCobblestone Slab",
-  "nbttag": "{ExtraAttributes:{id:\"STEP-3\"},HideFlags:254,ItemModel:\"minecraft:cobblestone_slab\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCobblestone Slab\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STEP-3\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCobblestone Slab\"}}",
   "damage": 3,
   "lore": [
     "§f§lCOMMON"

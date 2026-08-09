@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:double_plant",
   "displayname": "§fSunflower",
-  "nbttag": "{ExtraAttributes:{id:\"DOUBLE_PLANT\"},HideFlags:254,ItemModel:\"minecraft:sunflower\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fSunflower\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DOUBLE_PLANT\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fSunflower\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

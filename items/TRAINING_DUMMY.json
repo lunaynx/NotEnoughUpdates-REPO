@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:polar_bear_spawn_egg",
   "displayname": "§aTraining Dummy",
-  "nbttag": "{ExtraAttributes:{id:\"TRAINING_DUMMY\"},HideFlags:254,ItemModel:\"minecraft:iron_golem_spawn_egg\",display:{Lore:[0:\"§7Places a Training Dummy that can be\",1:\"§7used to test out weapons and other\",2:\"§7damage sources. A Training Dummy\",3:\"§7can take the form of almost any mob.\",4:\"§7Right-click to access its settings.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aTraining Dummy\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TRAINING_DUMMY\"},HideFlags:254,display:{Lore:[0:\"§7Places a Training Dummy that can be\",1:\"§7used to test out weapons and other\",2:\"§7damage sources. A Training Dummy\",3:\"§7can take the form of almost any mob.\",4:\"§7Right-click to access its settings.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aTraining Dummy\"}}",
   "damage": 0,
   "lore": [
     "§7Places a Training Dummy that can be",

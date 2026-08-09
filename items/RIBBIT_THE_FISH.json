@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_fish",
   "displayname": "§cRibbit the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"RIBBIT_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cooked_cod\",display:{Lore:[0:\"§7What does the fish say? Probably\",1:\"§7not ribbit.\",2:\"\",3:\"§4❣ §cRequires Master Frog Collector.\",4:\"§8§l* §8Soulbound §8§l*\",5:\"§c§lSPECIAL\"],Name:\"§cRibbit the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"RIBBIT_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7What does the fish say? Probably\",1:\"§7not ribbit.\",2:\"\",3:\"§4❣ §cRequires Master Frog Collector.\",4:\"§8§l* §8Soulbound §8§l*\",5:\"§c§lSPECIAL\"],Name:\"§cRibbit the Fish\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7What does the fish say? Probably",

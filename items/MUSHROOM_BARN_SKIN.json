@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_mushroom",
   "displayname": "§6Mushroom Barn Skin",
-  "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:red_mushroom\",display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§6Mushroom Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Mushroom Barn Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_BARN_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§6Mushroom Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Mushroom Barn Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:noteblock",
   "displayname": "§aSilence Block",
-  "nbttag": "{ExtraAttributes:{id:\"SILENCE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:note_block\",display:{Lore:[0:\"§7Prevents all mobs from making noise\",1:\"§7on your private island.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aSilence Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SILENCE_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§7Prevents all mobs from making noise\",1:\"§7on your private island.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aSilence Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Prevents all mobs from making noise",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:brick_block",
   "displayname": "§9Botanical Garden Greenhouse Skin",
-  "nbttag": "{ExtraAttributes:{id:\"BOTANICAL_GREENHOUSE_SKIN\"},HideFlags:254,ItemModel:\"minecraft:bricks\",display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§9Botanical Garden Greenhouse Skin §7on\",2:\"§aThe Garden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§9§lRARE COSMETIC\"],Name:\"§9Botanical Garden Greenhouse Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOTANICAL_GREENHOUSE_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§9Botanical Garden Greenhouse Skin §7on\",2:\"§aThe Garden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§9§lRARE COSMETIC\"],Name:\"§9Botanical Garden Greenhouse Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz_stairs",
   "displayname": "§fQuartz Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"QUARTZ_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:quartz_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fQuartz Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"QUARTZ_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fQuartz Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

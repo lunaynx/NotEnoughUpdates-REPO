@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:spider_eye",
   "displayname": "§fSpider Eye",
-  "nbttag": "{ExtraAttributes:{id:\"SPIDER_EYE\"},HideFlags:254,ItemModel:\"minecraft:spider_eye\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fSpider Eye\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SPIDER_EYE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fSpider Eye\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

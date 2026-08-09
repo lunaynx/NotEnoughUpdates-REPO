@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mycelium",
   "displayname": "§aEnchanted Mycelium",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MYCELIUM\"},HideFlags:254,ItemModel:\"minecraft:mycelium\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Mycelium\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MYCELIUM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Mycelium\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_stal",
   "displayname": "§aMusic Disc - Stal",
-  "nbttag": "{ExtraAttributes:{id:\"RECORD_8\"},HideFlags:254,ItemModel:\"minecraft:music_disc_stal\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Stal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RECORD_8\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Stal\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

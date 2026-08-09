@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glass_bottle",
   "displayname": "§aEmpty Odonata Bottle",
-  "nbttag": "{ExtraAttributes:{id:\"EMPTY_ODONATA_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:glass_bottle\",display:{Lore:[0:\"§7Hold this and look at an\",1:\"§9Odonata §7for §a3s §7while\",2:\"§7very close to bottle it.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aEmpty Odonata Bottle\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EMPTY_ODONATA_BOTTLE\"},HideFlags:254,display:{Lore:[0:\"§7Hold this and look at an\",1:\"§9Odonata §7for §a3s §7while\",2:\"§7very close to bottle it.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aEmpty Odonata Bottle\"}}",
   "damage": 0,
   "lore": [
     "§7Hold this and look at an",

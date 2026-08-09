@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carpet",
   "displayname": "§fCarpet",
-  "nbttag": "{ExtraAttributes:{id:\"CARPET\"},HideFlags:254,ItemModel:\"minecraft:white_carpet\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCarpet\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CARPET\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCarpet\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

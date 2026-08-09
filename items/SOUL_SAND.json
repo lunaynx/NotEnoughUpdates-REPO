@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:soul_sand",
   "displayname": "§fSoul Sand",
-  "nbttag": "{ExtraAttributes:{id:\"SOUL_SAND\"},HideFlags:254,ItemModel:\"minecraft:soul_sand\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSoul Sand\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SOUL_SAND\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSoul Sand\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

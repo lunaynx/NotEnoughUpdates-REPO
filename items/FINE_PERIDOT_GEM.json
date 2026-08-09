@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9 Fine Peridot Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FINE_PERIDOT_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/peridot/fine_peridot_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A type of §2Peridot §7that has clearly\",3:\"§7been treated with care.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Farming Fortune§7; others say it\",8:\"§7might give bonus §fFossil Essence§7.\",9:\"\",10:\"§9§lRARE GEMSTONE\"],Name:\"§9 Fine Peridot Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FINE_PERIDOT_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A type of §2Peridot §7that has clearly\",3:\"§7been treated with care.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Farming Fortune§7; others say it\",8:\"§7might give bonus §fFossil Essence§7.\",9:\"\",10:\"§9§lRARE GEMSTONE\"],Name:\"§9 Fine Peridot Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

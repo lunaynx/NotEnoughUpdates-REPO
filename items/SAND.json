@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sand",
   "displayname": "§fSand",
-  "nbttag": "{ExtraAttributes:{id:\"SAND\"},HideFlags:254,ItemModel:\"minecraft:sand\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fSand\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SAND\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fSand\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

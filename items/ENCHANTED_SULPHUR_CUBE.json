@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Enchanted Sulphur Cube",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SULPHUR_CUBE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/enchanted_sulphur_cube\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Sulphur Cube\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SULPHUR_CUBE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Sulphur Cube\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

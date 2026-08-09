@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:obsidian",
   "displayname": "§aEnchanted Obsidian",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_OBSIDIAN\"},HideFlags:254,ItemModel:\"minecraft:obsidian\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Obsidian\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_OBSIDIAN\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Obsidian\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aBlessed Bait",
-  "nbttag": "{ExtraAttributes:{id:\"BLESSED_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/blessed_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Increases the chance for §6Treasure\",4:\"§7catches to be §6§lGREAT §7or\",5:\"§d§lOUTSTANDING §7by §a50%§7.\",6:\"\",7:\"§a§lUNCOMMON BAIT\"],Name:\"§aBlessed Bait\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BLESSED_BAIT\"},HideFlags:254,display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Increases the chance for §6Treasure\",4:\"§7catches to be §6§lGREAT §7or\",5:\"§d§lOUTSTANDING §7by §a50%§7.\",6:\"\",7:\"§a§lUNCOMMON BAIT\"],Name:\"§aBlessed Bait\"}}",
   "damage": 0,
   "lore": [
     "§8Fishing Bait",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:light_weighted_pressure_plate",
   "displayname": "§fLight Weighted Pressure Plate",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_PLATE\"},HideFlags:254,ItemModel:\"minecraft:light_weighted_pressure_plate\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLight Weighted Pressure Plate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_PLATE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLight Weighted Pressure Plate\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

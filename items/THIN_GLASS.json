@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glass_pane",
   "displayname": "§fGlass Pane",
-  "nbttag": "{ExtraAttributes:{id:\"THIN_GLASS\"},HideFlags:254,ItemModel:\"minecraft:glass_pane\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGlass Pane\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"THIN_GLASS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGlass Pane\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

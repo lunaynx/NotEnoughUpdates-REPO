@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§a Flawed Jade Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FLAWED_JADE_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/jade/flawed_jade_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §aJade§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Mining Fortune§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Jade Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLAWED_JADE_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §aJade§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Mining Fortune§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Jade Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

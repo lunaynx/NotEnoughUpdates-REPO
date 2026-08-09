@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:emerald",
   "displayname": "§aEnchanted Emerald",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_EMERALD\"},HideFlags:254,ItemModel:\"minecraft:emerald\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Emerald\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_EMERALD\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Emerald\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

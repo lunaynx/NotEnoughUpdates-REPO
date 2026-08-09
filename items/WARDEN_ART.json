@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:filled_map",
   "displayname": "§cWarden Art",
-  "nbttag": "{ExtraAttributes:{id:\"WARDEN_ART\"},HideFlags:254,ItemModel:\"minecraft:filled_map\",display:{Lore:[0:\"§7Obtained from the §dA Honk and Seek\",1:\"§dAdventure §7event during April Fools.\",2:\"\",3:\"§8§oArt so good, even the bars took a\",4:\"§8§obreak to appreciate it!\",5:\"\",6:\"§c§lSPECIAL\"],Name:\"§cWarden Art\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WARDEN_ART\"},HideFlags:254,display:{Lore:[0:\"§7Obtained from the §dA Honk and Seek\",1:\"§dAdventure §7event during April Fools.\",2:\"\",3:\"§8§oArt so good, even the bars took a\",4:\"§8§obreak to appreciate it!\",5:\"\",6:\"§c§lSPECIAL\"],Name:\"§cWarden Art\"}}",
   "damage": 30891,
   "lore": [
     "§7Obtained from the §dA Honk and Seek",

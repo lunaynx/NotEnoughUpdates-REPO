@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Unlucky Doubloon",
-  "nbttag": "{ExtraAttributes:{id:\"UNLUCKY_DOUBLOON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/lotus_atoll/unlucky_doubloon\",display:{Lore:[0:\"§7The prized possession of an\",1:\"§7ill-fated captain. It was thought by\",2:\"§7his crew to bring him good luck.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Unlucky Doubloon\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"UNLUCKY_DOUBLOON\"},HideFlags:254,display:{Lore:[0:\"§7The prized possession of an\",1:\"§7ill-fated captain. It was thought by\",2:\"§7his crew to bring him good luck.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Unlucky Doubloon\"}}",
   "damage": 0,
   "lore": [
     "§7The prized possession of an",

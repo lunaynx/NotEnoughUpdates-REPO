@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cEon the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"EON_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§7Back in my day, we swam upstream\",1:\"§7for hours to get to school, and we\",2:\"§7didn't complain!\",3:\"\",4:\"§c§lSPECIAL\"],Name:\"§cEon the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"EON_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7Back in my day, we swam upstream\",1:\"§7for hours to get to school, and we\",2:\"§7didn't complain!\",3:\"\",4:\"§c§lSPECIAL\"],Name:\"§cEon the Fish\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Back in my day, we swam upstream",

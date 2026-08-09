@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Refined Tungsten",
-  "nbttag": "{ExtraAttributes:{id:\"REFINED_TUNGSTEN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/tungsten/refined_tungsten\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§5§lEPIC DWARVEN METAL\"],Name:\"§5Refined Tungsten\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REFINED_TUNGSTEN\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§5§lEPIC DWARVEN METAL\"],Name:\"§5Refined Tungsten\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

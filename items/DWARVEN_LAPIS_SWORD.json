@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_sword",
   "displayname": "§cScavenged Lapis Sword",
-  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_LAPIS_SWORD\"},HideFlags:254,ItemModel:\"minecraft:diamond_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Quest Item\",1:\"\",2:\"§7Bring to the §6Keeper of Lapis §7in the\",3:\"§2Mines of Divan§7.\",4:\"\",5:\"§c§lSPECIAL\"],Name:\"§cScavenged Lapis Sword\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_LAPIS_SWORD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Quest Item\",1:\"\",2:\"§7Bring to the §6Keeper of Lapis §7in the\",3:\"§2Mines of Divan§7.\",4:\"\",5:\"§c§lSPECIAL\"],Name:\"§cScavenged Lapis Sword\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Quest Item",

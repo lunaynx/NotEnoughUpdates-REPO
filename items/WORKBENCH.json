@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:crafting_table",
   "displayname": "§fCrafting Table",
-  "nbttag": "{ExtraAttributes:{id:\"WORKBENCH\"},HideFlags:254,ItemModel:\"minecraft:crafting_table\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCrafting Table\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WORKBENCH\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCrafting Table\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

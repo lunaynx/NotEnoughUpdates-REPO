@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§9Mycelium Dust",
-  "nbttag": "{ExtraAttributes:{id:\"MYCELIUM_DUST\"},HideFlags:254,ItemModel:\"minecraft:pink_dye\",display:{Lore:[0:\"§7Instantly grows crops and saplings\",1:\"§7in a 3x3 square.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Mycelium Dust\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MYCELIUM_DUST\"},HideFlags:254,display:{Lore:[0:\"§7Instantly grows crops and saplings\",1:\"§7in a 3x3 square.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Mycelium Dust\"}}",
   "damage": 9,
   "lore": [
     "§7Instantly grows crops and saplings",

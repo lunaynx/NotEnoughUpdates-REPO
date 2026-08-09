@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather",
   "displayname": "§aMoogma Pelt",
-  "nbttag": "{ExtraAttributes:{id:\"MOOGMA_PELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/moogma_pelt\",display:{Lore:[0:\"§7The bottom of the volcano is filled\",1:\"§7with it, Moogmas keep on moulting. It's\",2:\"§7a problem.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aMoogma Pelt\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"MOOGMA_PELT\"},HideFlags:254,display:{Lore:[0:\"§7The bottom of the volcano is filled\",1:\"§7with it, Moogmas keep on moulting. It's\",2:\"§7a problem.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aMoogma Pelt\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7The bottom of the volcano is filled",

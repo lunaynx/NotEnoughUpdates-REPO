@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sapling",
   "displayname": "§fJungle Sapling",
-  "nbttag": "{ExtraAttributes:{id:\"SAPLING-3\"},HideFlags:254,ItemModel:\"minecraft:jungle_sapling\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJungle Sapling\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SAPLING-3\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJungle Sapling\"}}",
   "damage": 3,
   "lore": [
     "§f§lCOMMON"

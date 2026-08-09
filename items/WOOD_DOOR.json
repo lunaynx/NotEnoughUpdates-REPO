@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_door",
   "displayname": "§fOak Door",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_DOOR\"},HideFlags:254,ItemModel:\"minecraft:oak_door\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Door\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_DOOR\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Door\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bow",
   "displayname": "§fBow",
-  "nbttag": "{ExtraAttributes:{id:\"BOW\"},HideFlags:254,ItemModel:\"minecraft:bow\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON BOW\"],Name:\"§fBow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOW\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON BOW\"],Name:\"§fBow\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+30",

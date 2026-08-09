@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lapis_block",
   "displayname": "§aWeather Node",
-  "nbttag": "{ExtraAttributes:{id:\"WEATHER_NODE\"},HideFlags:254,ItemModel:\"minecraft:lapis_block\",display:{Lore:[0:\"§7Change the weather on your private\",1:\"§7island.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aWeather Node\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WEATHER_NODE\"},HideFlags:254,display:{Lore:[0:\"§7Change the weather on your private\",1:\"§7island.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aWeather Node\"}}",
   "damage": 0,
   "lore": [
     "§7Change the weather on your private",

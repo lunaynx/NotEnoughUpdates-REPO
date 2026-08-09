@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bread",
   "displayname": "§fEnchanted Bread",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BREAD\"},HideFlags:254,ItemModel:\"minecraft:bread\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a5%§7 for 12\",4:\"§7hours!\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§fEnchanted Bread\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BREAD\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a5%§7 for 12\",4:\"§7hours!\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§fEnchanted Bread\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

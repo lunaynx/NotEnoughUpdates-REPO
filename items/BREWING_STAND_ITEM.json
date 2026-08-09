@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:brewing_stand",
   "displayname": "§fBrewing Stand",
-  "nbttag": "{ExtraAttributes:{id:\"BREWING_STAND_ITEM\"},HideFlags:254,ItemModel:\"minecraft:brewing_stand\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBrewing Stand\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BREWING_STAND_ITEM\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBrewing Stand\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:blaze_rod",
   "displayname": "§aEmmett Pointer",
-  "nbttag": "{ExtraAttributes:{id:\"EMMETT_POINTER\"},HideFlags:254,ItemModel:\"minecraft:blaze_rod\",display:{Lore:[0:\"§6Ability: Lazer §e§lRIGHT CLICK\",1:\"§7Point something.\",2:\"§8Cooldown: §a2s\",3:\"\",4:\"§8He's not a vampire, he's a\",5:\"§8scientist.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEmmett Pointer\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EMMETT_POINTER\"},HideFlags:254,display:{Lore:[0:\"§6Ability: Lazer §e§lRIGHT CLICK\",1:\"§7Point something.\",2:\"§8Cooldown: §a2s\",3:\"\",4:\"§8He's not a vampire, he's a\",5:\"§8scientist.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEmmett Pointer\"}}",
   "damage": 0,
   "lore": [
     "§6Ability: Lazer §e§lRIGHT CLICK",

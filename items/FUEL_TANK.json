@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Fuel Canister",
-  "nbttag": "{ExtraAttributes:{id:\"FUEL_TANK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/fuel_canister\",display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Fuel Canister\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FUEL_TANK\"},HideFlags:254,display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Fuel Canister\"}}",
   "damage": 0,
   "lore": [
     "§9§lRARE"

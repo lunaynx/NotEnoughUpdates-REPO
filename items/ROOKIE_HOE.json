@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_hoe",
   "displayname": "§fRookie Hoe",
-  "nbttag": "{ExtraAttributes:{id:\"ROOKIE_HOE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/rookie_hoe\",Unbreakable:1B,display:{Lore:[0:\"§7Farming Fortune: §6+5\",1:\"\",2:\"§6 Farming Fortune §7increases your\",3:\"§7chance of dropping multiple crops\",4:\"§7when farming!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aFarming Skill 1§c.\",8:\"§f§lCOMMON FARMING TOOL\"],Name:\"§fRookie Hoe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ROOKIE_HOE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Farming Fortune: §6+5\",1:\"\",2:\"§6 Farming Fortune §7increases your\",3:\"§7chance of dropping multiple crops\",4:\"§7when farming!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aFarming Skill 1§c.\",8:\"§f§lCOMMON FARMING TOOL\"],Name:\"§fRookie Hoe\"}}",
   "damage": 0,
   "lore": [
     "§7Farming Fortune: §6+5",

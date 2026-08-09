@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glass_bottle",
   "displayname": "§fGlass Bottle",
-  "nbttag": "{ExtraAttributes:{id:\"GLASS_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:glass_bottle\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGlass Bottle\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GLASS_BOTTLE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGlass Bottle\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:brick_stairs",
   "displayname": "§fBrick Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"BRICK_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:brick_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBrick Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BRICK_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBrick Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

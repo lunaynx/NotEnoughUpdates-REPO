@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Magma Lord Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"MAGMA_LORD_FRAGMENT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/magma_lord_fragment\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Magma Lord Fragment\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MAGMA_LORD_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Magma Lord Fragment\"}}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dispenser",
   "displayname": "§6Personal Deletor 7000",
-  "nbttag": "{ExtraAttributes:{id:\"PERSONAL_DELETOR_7000\"},HideFlags:254,ItemModel:\"minecraft:dispenser\",display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Automatically delete specific items on\",3:\"§7pickup.\",4:\"\",5:\"§eRight-click to configure!\",6:\"\",7:\"§8Works while in Accessory Bag!\",8:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Personal Deletor 7000\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"PERSONAL_DELETOR_7000\"},HideFlags:254,display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Automatically delete specific items on\",3:\"§7pickup.\",4:\"\",5:\"§eRight-click to configure!\",6:\"\",7:\"§8Works while in Accessory Bag!\",8:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Personal Deletor 7000\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Accessory Power: §6+16",

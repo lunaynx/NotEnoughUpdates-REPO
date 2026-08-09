@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:netherbrick",
   "displayname": "§9Livid Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"LIVID_FRAGMENT\"},HideFlags:254,ItemModel:\"minecraft:nether_brick\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Livid Fragment\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"LIVID_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9Livid Fragment\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

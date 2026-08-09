@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rail",
   "displayname": "§fRail",
-  "nbttag": "{ExtraAttributes:{id:\"RAILS\"},HideFlags:254,ItemModel:\"minecraft:rail\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRail\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RAILS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRail\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

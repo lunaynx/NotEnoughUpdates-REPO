@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_ingot",
   "displayname": "§fIron Ingot",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_INGOT\"},HideFlags:254,ItemModel:\"minecraft:iron_ingot\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON ORE\"],Name:\"§fIron Ingot\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_INGOT\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON ORE\"],Name:\"§fIron Ingot\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

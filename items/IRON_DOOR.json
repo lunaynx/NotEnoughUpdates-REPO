@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_door",
   "displayname": "§fIron Door",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_DOOR\"},HideFlags:254,ItemModel:\"minecraft:iron_door\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fIron Door\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_DOOR\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fIron Door\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

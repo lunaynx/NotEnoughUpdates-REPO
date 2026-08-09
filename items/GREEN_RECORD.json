@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_cat",
   "displayname": "§aMusic Disc - Cat",
-  "nbttag": "{ExtraAttributes:{id:\"GREEN_RECORD\"},HideFlags:254,ItemModel:\"minecraft:music_disc_cat\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Cat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GREEN_RECORD\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Cat\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

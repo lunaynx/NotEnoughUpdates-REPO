@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:packed_ice",
   "displayname": "§9Enchanted Packed Ice",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PACKED_ICE\"},HideFlags:254,ItemModel:\"minecraft:packed_ice\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE BLOCK\"],Name:\"§9Enchanted Packed Ice\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PACKED_ICE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE BLOCK\"],Name:\"§9Enchanted Packed Ice\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

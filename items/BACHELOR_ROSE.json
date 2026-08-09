@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§cBachelor's Rose",
-  "nbttag": "{ExtraAttributes:{id:\"BACHELOR_ROSE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/greenhouse/wild_rose/bachelors_rose\",display:{Lore:[0:\"§7Can be gifted to any eligible NPC to\",1:\"§7invite them to visit your §aGarden§7.\",2:\"\",3:\"§eRight-click on an NPC to use!\",4:\"\",5:\"§c§lSPECIAL\"],Name:\"§cBachelor's Rose\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"BACHELOR_ROSE\"},HideFlags:254,display:{Lore:[0:\"§7Can be gifted to any eligible NPC to\",1:\"§7invite them to visit your §aGarden§7.\",2:\"\",3:\"§eRight-click on an NPC to use!\",4:\"\",5:\"§c§lSPECIAL\"],Name:\"§cBachelor's Rose\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Can be gifted to any eligible NPC to",

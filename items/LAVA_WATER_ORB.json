@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Lava Water Orb",
-  "nbttag": "{ExtraAttributes:{id:\"LAVA_WATER_ORB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/lava_water_orb\",display:{Lore:[0:\"§7Extremely hot to the touch.\",1:\"\",2:\"§8Shouldn't this be steam..?\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§6Lava Water Orb\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LAVA_WATER_ORB\"},HideFlags:254,display:{Lore:[0:\"§7Extremely hot to the touch.\",1:\"\",2:\"§8Shouldn't this be steam..?\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§6Lava Water Orb\"}}",
   "damage": 0,
   "lore": [
     "§7Extremely hot to the touch.",

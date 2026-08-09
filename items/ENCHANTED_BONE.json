@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bone",
   "displayname": "§aEnchanted Bone",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE\"},HideFlags:254,ItemModel:\"minecraft:bone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Bone\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Bone\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

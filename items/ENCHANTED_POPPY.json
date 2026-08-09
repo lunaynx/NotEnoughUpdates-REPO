@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§aEnchanted Poppy",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_POPPY\"},HideFlags:254,ItemModel:\"minecraft:poppy\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§8Machine Fuel\",3:\"\",4:\"§7Adds §2+1,024♢ Fuel §7to a refuelable\",5:\"§7machine.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Poppy\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_POPPY\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§8Machine Fuel\",3:\"\",4:\"§7Adds §2+1,024♢ Fuel §7to a refuelable\",5:\"§7machine.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Poppy\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

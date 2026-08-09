@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Super Jacob Entertainment System",
-  "nbttag": "{ExtraAttributes:{id:\"SUPER_JACOB_SYSTEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/super_jacob_system\",display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade. Place it in ONE §aFarming\",4:\"§aMinion §7and it will generate a §aJacob's\",5:\"§aTicket §7once every §a3h§7.\",6:\"\",7:\"§8§oThe console spits out a Jacob's\",8:\"§8§oTicket every time the player manages\",9:\"§8§oto beat the last level of Jacob's\",10:\"§8§oHarvest III -- Dull Plows.\",11:\"\",12:\"§5§lEPIC\"],Name:\"§5Super Jacob Entertainment System\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SUPER_JACOB_SYSTEM\"},HideFlags:254,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade. Place it in ONE §aFarming\",4:\"§aMinion §7and it will generate a §aJacob's\",5:\"§aTicket §7once every §a3h§7.\",6:\"\",7:\"§8§oThe console spits out a Jacob's\",8:\"§8§oTicket every time the player manages\",9:\"§8§oto beat the last level of Jacob's\",10:\"§8§oHarvest III -- Dull Plows.\",11:\"\",12:\"§5§lEPIC\"],Name:\"§5Super Jacob Entertainment System\"}}",
   "damage": 0,
   "lore": [
     "§8Minion Upgrade",

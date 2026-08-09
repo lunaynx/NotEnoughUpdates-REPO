@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5 Flawless Amethyst Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FLAWLESS_AMETHYST_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/amethyst/flawless_amethyst_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A near perfect version of §5Amethyst§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§a Defense§7.\",7:\"\",8:\"§5§lEPIC GEMSTONE\"],Name:\"§5 Flawless Amethyst Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLAWLESS_AMETHYST_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A near perfect version of §5Amethyst§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§a Defense§7.\",7:\"\",8:\"§5§lEPIC GEMSTONE\"],Name:\"§5 Flawless Amethyst Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

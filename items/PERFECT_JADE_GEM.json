@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6 Perfect Jade Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"PERFECT_JADE_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/jade/perfect_jade_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A perfectly §arefined Jade§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§6 Mining Fortune§7.\",7:\"\",8:\"§6§lLEGENDARY GEMSTONE\"],Name:\"§6 Perfect Jade Gemstone\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"PERFECT_JADE_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A perfectly §arefined Jade§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§6 Mining Fortune§7.\",7:\"\",8:\"§6§lLEGENDARY GEMSTONE\"],Name:\"§6 Perfect Jade Gemstone\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

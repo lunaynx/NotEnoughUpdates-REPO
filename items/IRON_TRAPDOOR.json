@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_trapdoor",
   "displayname": "§fIron Trapdoor",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_TRAPDOOR\"},HideFlags:254,ItemModel:\"minecraft:iron_trapdoor\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fIron Trapdoor\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_TRAPDOOR\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fIron Trapdoor\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

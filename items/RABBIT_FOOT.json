@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rabbit_foot",
   "displayname": "§fRabbit's Foot",
-  "nbttag": "{ExtraAttributes:{id:\"RABBIT_FOOT\"},HideFlags:254,ItemModel:\"minecraft:rabbit_foot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fRabbit's Foot\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RABBIT_FOOT\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fRabbit's Foot\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

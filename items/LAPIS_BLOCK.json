@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lapis_block",
   "displayname": "§fLapis Lazuli Block",
-  "nbttag": "{ExtraAttributes:{id:\"LAPIS_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:lapis_block\",display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fLapis Lazuli Block\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LAPIS_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON ORE\"],Name:\"§fLapis Lazuli Block\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON ORE"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:log",
   "displayname": "§fSpruce Log",
-  "nbttag": "{ExtraAttributes:{id:\"LOG-1\"},HideFlags:254,ItemModel:\"minecraft:spruce_log\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fSpruce Log\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LOG-1\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fSpruce Log\"}}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

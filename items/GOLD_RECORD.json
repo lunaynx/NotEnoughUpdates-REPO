@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_13",
   "displayname": "§aMusic Disc - 13",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_RECORD\"},HideFlags:254,ItemModel:\"minecraft:music_disc_13\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - 13\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_RECORD\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - 13\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

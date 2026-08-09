@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:slime",
   "displayname": "§cGlobulate Timecharm",
-  "nbttag": "{ExtraAttributes:{id:\"RIFT_TROPHY_SLIME\"},HideFlags:254,ItemModel:\"minecraft:slime_block\",display:{Lore:[0:\"§7Place this timecharm in the §dRift\",1:\"§dGallery §7to secure it forever!\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cGlobulate Timecharm\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"RIFT_TROPHY_SLIME\"},HideFlags:254,display:{Lore:[0:\"§7Place this timecharm in the §dRift\",1:\"§dGallery §7to secure it forever!\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cGlobulate Timecharm\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Place this timecharm in the §dRift",

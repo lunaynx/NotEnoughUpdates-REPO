@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Super Enchanted Egg",
-  "nbttag": "{ExtraAttributes:{id:\"SUPER_EGG\"},HideFlags:254,ItemModel:\"minecraft:turtle_egg\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Used to craft more advanced pets.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Super Enchanted Egg\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SUPER_EGG\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Used to craft more advanced pets.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Super Enchanted Egg\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

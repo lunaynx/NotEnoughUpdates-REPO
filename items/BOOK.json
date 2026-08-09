@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:book",
   "displayname": "§fBook",
-  "nbttag": "{ExtraAttributes:{id:\"BOOK\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBook\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOOK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBook\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

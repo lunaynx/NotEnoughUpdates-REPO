@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Hunk of Blue Ice",
-  "nbttag": "{ExtraAttributes:{id:\"BLUE_ICE_HUNK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/hunk_of_blue_ice\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Hunk of Blue Ice\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BLUE_ICE_HUNK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Hunk of Blue Ice\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

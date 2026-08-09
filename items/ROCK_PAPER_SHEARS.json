@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:shears",
   "displayname": "§aRock Paper Shears",
-  "nbttag": "{ExtraAttributes:{id:\"ROCK_PAPER_SHEARS\"},HideFlags:254,ItemModel:\"minecraft:shears\",Unbreakable:1B,display:{Lore:[0:\"§7Click this item to initiate a tournament\",1:\"§7of Rock Paper Shears with all of the\",2:\"§7players on your island!\",3:\"\",4:\"§7Outsmart your opponents by\",5:\"§7choosing the least picked option to\",6:\"§7win the round! Final round uses\",7:\"§7classic rules.\",8:\"\",9:\"§4❣ §cRequires §aSocial Skill 8§c.\",10:\"§a§lUNCOMMON\"],Name:\"§aRock Paper Shears\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ROCK_PAPER_SHEARS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Click this item to initiate a tournament\",1:\"§7of Rock Paper Shears with all of the\",2:\"§7players on your island!\",3:\"\",4:\"§7Outsmart your opponents by\",5:\"§7choosing the least picked option to\",6:\"§7win the round! Final round uses\",7:\"§7classic rules.\",8:\"\",9:\"§4❣ §cRequires §aSocial Skill 8§c.\",10:\"§a§lUNCOMMON\"],Name:\"§aRock Paper Shears\"}}",
   "damage": 0,
   "lore": [
     "§7Click this item to initiate a tournament",

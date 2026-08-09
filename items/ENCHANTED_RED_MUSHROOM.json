@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_mushroom",
   "displayname": "§aEnchanted Red Mushroom",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RED_MUSHROOM\"},HideFlags:254,ItemModel:\"minecraft:red_mushroom\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Red Mushroom\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RED_MUSHROOM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Red Mushroom\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

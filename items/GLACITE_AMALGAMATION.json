@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Glacite Amalgamation",
-  "nbttag": "{ExtraAttributes:{id:\"GLACITE_AMALGAMATION\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/glacite/glacite_amalgamation\",display:{Lore:[0:\"§7Glacite resists even the heat of the\",1:\"§7great Dwarven Forge. The key is to\",2:\"§7combine rather than to try to reduce.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Glacite Amalgamation\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GLACITE_AMALGAMATION\"},HideFlags:254,display:{Lore:[0:\"§7Glacite resists even the heat of the\",1:\"§7great Dwarven Forge. The key is to\",2:\"§7combine rather than to try to reduce.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Glacite Amalgamation\"}}",
   "damage": 0,
   "lore": [
     "§7Glacite resists even the heat of the",

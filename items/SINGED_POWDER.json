@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aSinged Powder",
-  "nbttag": "{ExtraAttributes:{id:\"SINGED_POWDER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/misc/singed_powder\",display:{Lore:[0:\"§7Before she mastered this ingredient,\",1:\"§7the §5Fireproof Witch §7was but a mere\",2:\"§7witch.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aSinged Powder\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SINGED_POWDER\"},HideFlags:254,display:{Lore:[0:\"§7Before she mastered this ingredient,\",1:\"§7the §5Fireproof Witch §7was but a mere\",2:\"§7witch.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aSinged Powder\"}}",
   "damage": 0,
   "lore": [
     "§7Before she mastered this ingredient,",

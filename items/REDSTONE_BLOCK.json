@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:redstone_block",
   "displayname": "§fBlock of Redstone",
-  "nbttag": "{ExtraAttributes:{id:\"REDSTONE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:redstone_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Redstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REDSTONE_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Redstone\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

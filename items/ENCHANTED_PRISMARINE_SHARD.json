@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:prismarine_shard",
   "displayname": "§aEnchanted Prismarine Shard",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PRISMARINE_SHARD\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Prismarine Shard\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PRISMARINE_SHARD\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Prismarine Shard\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

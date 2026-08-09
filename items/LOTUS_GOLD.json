@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Gold Lotus",
-  "nbttag": "{ExtraAttributes:{id:\"LOTUS_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/lotus/gold_lotus\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Gold Lotus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LOTUS_GOLD\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Gold Lotus\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

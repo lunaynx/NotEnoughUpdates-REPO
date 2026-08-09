@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:soul_sand",
   "displayname": "§cChicken N Egg Timecharm",
-  "nbttag": "{ExtraAttributes:{id:\"RIFT_TROPHY_CHICKEN_N_EGG\"},HideFlags:254,ItemModel:\"minecraft:soul_sand\",display:{Lore:[0:\"§7Place this timecharm in the §dRift\",1:\"§dGallery §7to secure it forever!\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cChicken N Egg Timecharm\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"RIFT_TROPHY_CHICKEN_N_EGG\"},HideFlags:254,display:{Lore:[0:\"§7Place this timecharm in the §dRift\",1:\"§dGallery §7to secure it forever!\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cChicken N Egg Timecharm\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Place this timecharm in the §dRift",

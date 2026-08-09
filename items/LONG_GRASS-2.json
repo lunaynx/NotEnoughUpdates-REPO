@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:tallgrass",
   "displayname": "§fFern",
-  "nbttag": "{ExtraAttributes:{id:\"LONG_GRASS-2\"},HideFlags:254,ItemModel:\"minecraft:fern\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFern\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LONG_GRASS-2\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFern\"}}",
   "damage": 2,
   "lore": [
     "§f§lCOMMON"

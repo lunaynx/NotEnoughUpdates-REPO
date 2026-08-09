@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:comparator",
   "displayname": "§fComparator",
-  "nbttag": "{ExtraAttributes:{id:\"REDSTONE_COMPARATOR\"},HideFlags:254,ItemModel:\"minecraft:comparator\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fComparator\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REDSTONE_COMPARATOR\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fComparator\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

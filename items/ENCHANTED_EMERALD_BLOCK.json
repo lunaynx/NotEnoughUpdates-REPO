@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:emerald_block",
   "displayname": "§9Enchanted Emerald Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_EMERALD_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:emerald_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Emerald Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_EMERALD_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Emerald Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

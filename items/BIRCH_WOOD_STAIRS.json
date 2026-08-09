@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:birch_stairs",
   "displayname": "§fBirch Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"BIRCH_WOOD_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:birch_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBirch Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BIRCH_WOOD_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBirch Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

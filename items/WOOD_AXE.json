@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_axe",
   "displayname": "§fWooden Axe",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_AXE\"},HideFlags:254,ItemModel:\"minecraft:wooden_axe\",display:{Lore:[0:\"§7Damage: §c+10\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fWooden Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_AXE\"},HideFlags:254,display:{Lore:[0:\"§7Damage: §c+10\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fWooden Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+10",

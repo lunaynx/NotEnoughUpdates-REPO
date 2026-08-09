@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Mangcore",
-  "nbttag": "{ExtraAttributes:{id:\"MANGCORE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oMangroves' finest gift, a shard\",3:\"§7§oechoing with tales of brine and\",4:\"§7§obristle.\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Mangcore\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MANGCORE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oMangroves' finest gift, a shard\",3:\"§7§oechoing with tales of brine and\",4:\"§7§obristle.\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Mangcore\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

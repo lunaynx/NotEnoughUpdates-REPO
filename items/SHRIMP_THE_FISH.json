@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cShrimp the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"SHRIMP_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§7I achieved nothing.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cShrimp the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SHRIMP_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7I achieved nothing.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cShrimp the Fish\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7I achieved nothing.",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stonebrick",
   "displayname": "§fChiseled Stone Bricks",
-  "nbttag": "{ExtraAttributes:{id:\"SMOOTH_BRICK-3\"},HideFlags:254,ItemModel:\"minecraft:chiseled_stone_bricks\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fChiseled Stone Bricks\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SMOOTH_BRICK-3\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fChiseled Stone Bricks\"}}",
   "damage": 3,
   "lore": [
     "§f§lCOMMON"

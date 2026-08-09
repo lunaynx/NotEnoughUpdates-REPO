@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Busted Belt Buckle",
-  "nbttag": "{ExtraAttributes:{id:\"BUSTED_BELT_BUCKLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/junk/busted_belt_buckle\",display:{Lore:[0:\"§7A piece of §2Junk§7. Bring it to §2Junker\",1:\"§2Joel§7!\",2:\"\",3:\"§8§oSomehow still intact, but covered in\",4:\"§8§omoss.\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Busted Belt Buckle\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BUSTED_BELT_BUCKLE\"},HideFlags:254,display:{Lore:[0:\"§7A piece of §2Junk§7. Bring it to §2Junker\",1:\"§2Joel§7!\",2:\"\",3:\"§8§oSomehow still intact, but covered in\",4:\"§8§omoss.\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Busted Belt Buckle\"}}",
   "damage": 0,
   "lore": [
     "§7A piece of §2Junk§7. Bring it to §2Junker",

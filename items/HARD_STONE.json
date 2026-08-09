@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone",
   "displayname": "§fHard Stone",
-  "nbttag": "{ExtraAttributes:{id:\"HARD_STONE\"},HideFlags:254,ItemModel:\"minecraft:stone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A condensed form of rock only\",3:\"§7found at extreme depths.\",4:\"\",5:\"§f§lCOMMON BLOCK\"],Name:\"§fHard Stone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HARD_STONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A condensed form of rock only\",3:\"§7found at extreme depths.\",4:\"\",5:\"§f§lCOMMON BLOCK\"],Name:\"§fHard Stone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

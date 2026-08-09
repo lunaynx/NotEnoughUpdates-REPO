@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:netherrack",
   "displayname": "§fNetherrack",
-  "nbttag": "{ExtraAttributes:{id:\"NETHERRACK\"},HideFlags:254,ItemModel:\"minecraft:netherrack\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON BLOCK\"],Name:\"§fNetherrack\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"NETHERRACK\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON BLOCK\"],Name:\"§fNetherrack\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

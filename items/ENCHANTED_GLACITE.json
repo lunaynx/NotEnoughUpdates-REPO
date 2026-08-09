@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:packed_ice",
   "displayname": "§9Enchanted Glacite",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GLACITE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/glacite/glacite\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Glacite\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GLACITE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Glacite\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

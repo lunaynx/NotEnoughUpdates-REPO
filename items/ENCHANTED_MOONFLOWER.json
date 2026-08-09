@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§aEnchanted Moonflower",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MOONFLOWER\"},HideFlags:254,ItemModel:\"minecraft:blue_orchid\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Moonflower\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MOONFLOWER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Moonflower\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

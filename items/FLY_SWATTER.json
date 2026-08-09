@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Fly Swatter",
-  "nbttag": "{ExtraAttributes:{id:\"FLY_SWATTER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/spider/fly_swatter\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Fly Swatter\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"FLY_SWATTER\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Fly Swatter\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

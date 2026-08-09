@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:chicken",
   "displayname": "§aEnchanted Raw Chicken",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_CHICKEN\"},HideFlags:254,ItemModel:\"minecraft:chicken\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Chicken\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_CHICKEN\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Chicken\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

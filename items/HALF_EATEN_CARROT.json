@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carrot",
   "displayname": "§fHalf-Eaten Carrot",
-  "nbttag": "{ExtraAttributes:{id:\"HALF_EATEN_CARROT\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHalf-Eaten Carrot\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HALF_EATEN_CARROT\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHalf-Eaten Carrot\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Null Blade",
-  "nbttag": "{ExtraAttributes:{id:\"NULL_BLADE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/enderman/crafts/null_blade\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Null Blade\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"NULL_BLADE\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Null Blade\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

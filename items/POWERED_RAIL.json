@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_rail",
   "displayname": "§fPowered Rail",
-  "nbttag": "{ExtraAttributes:{id:\"POWERED_RAIL\"},HideFlags:254,ItemModel:\"minecraft:powered_rail\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPowered Rail\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"POWERED_RAIL\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPowered Rail\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

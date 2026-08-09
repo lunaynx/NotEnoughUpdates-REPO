@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§aEnchanted Tropical Fish",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CLOWNFISH\"},HideFlags:254,ItemModel:\"minecraft:tropical_fish\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Tropical Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CLOWNFISH\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Tropical Fish\"},ench:[]}",
   "damage": 2,
   "lore": [
     "§8Collection Item",

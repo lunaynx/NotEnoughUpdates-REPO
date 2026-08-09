@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§9Researcher Ribery (NPC)",
-  "nbttag": "{ExtraAttributes:{id:\"RESEARCHER_RIBERY_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"de5daea7-a7d2-238b-a2f6-6afcccab2e23\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewoJInRleHR1cmVzIjogewoJCSJTS0lOIjogewoJCQkidXJsIjogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE2Y2QxZGRjZjdlY2YxZjg4YjZhMzczNmNjNzVmMzlkMTgzYWQ3Yzg1NjA5MzhkNmIyNzU1N2UzMjczMDA0NiIsCgkJCSJtZXRhZGF0YSI6IHt9CgkJfQoJfSwKCSJwcm9maWxlSWQiOiAiZGU1ZGFlYTdhN2QyMjM4YmEyZjY2YWZjY2NhYjJlMjMiLAoJInByb2ZpbGVOYW1lIjogIm5lYTg5IiwKCSJpc1B1YmxpYyI6IHRydWUsCgkidGltZXN0YW1wIjogMTc3ODEwNDM5NDg4Mgp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Researcher Ribery (NPC)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RESEARCHER_RIBERY_NPC\"},HideFlags:254,SkullOwner:{Id:\"de5daea7-a7d2-238b-a2f6-6afcccab2e23\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewoJInRleHR1cmVzIjogewoJCSJTS0lOIjogewoJCQkidXJsIjogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE2Y2QxZGRjZjdlY2YxZjg4YjZhMzczNmNjNzVmMzlkMTgzYWQ3Yzg1NjA5MzhkNmIyNzU1N2UzMjczMDA0NiIsCgkJCSJtZXRhZGF0YSI6IHt9CgkJfQoJfSwKCSJwcm9maWxlSWQiOiAiZGU1ZGFlYTdhN2QyMjM4YmEyZjY2YWZjY2NhYjJlMjMiLAoJInByb2ZpbGVOYW1lIjogIm5lYTg5IiwKCSJpc1B1YmxpYyI6IHRydWUsCgkidGltZXN0YW1wIjogMTc3ODEwNDM5NDg4Mgp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Researcher Ribery (NPC)\"}}",
   "damage": 3,
   "lore": [
     ""

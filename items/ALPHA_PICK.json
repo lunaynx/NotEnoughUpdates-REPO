@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:wooden_pickaxe",
   "displayname": "§cPioneer Pickaxe",
-  "nbttag": "{ExtraAttributes:{id:\"ALPHA_PICK\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/alpha_pick\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 1\",1:\"\",2:\"§7Mining Speed: §6+1\",3:\"\",4:\"§8§oThe very first pickaxe model!\",5:\"§8§oInvented by the famous Thomas\",6:\"§8§oPickson.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§c§lSPECIAL PICKAXE\"],Name:\"§cPioneer Pickaxe\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ALPHA_PICK\",originTag:\"UNKNOWN\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 1\",1:\"\",2:\"§7Mining Speed: §6+1\",3:\"\",4:\"§8§oThe very first pickaxe model!\",5:\"§8§oInvented by the famous Thomas\",6:\"§8§oPickson.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§c§lSPECIAL PICKAXE\"],Name:\"§cPioneer Pickaxe\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Breaking Power 1",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bowl",
   "displayname": "§fBowl",
-  "nbttag": "{ExtraAttributes:{id:\"BOWL\"},HideFlags:254,ItemModel:\"minecraft:bowl\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBowl\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOWL\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBowl\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

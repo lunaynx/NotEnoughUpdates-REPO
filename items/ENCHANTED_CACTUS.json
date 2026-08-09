@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cactus",
   "displayname": "§9Enchanted Cactus",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CACTUS\"},HideFlags:254,ItemModel:\"minecraft:cactus\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Cactus\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CACTUS\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Enchanted Cactus\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

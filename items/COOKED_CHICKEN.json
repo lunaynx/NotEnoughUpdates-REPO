@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_chicken",
   "displayname": "§fCooked Chicken",
-  "nbttag": "{ExtraAttributes:{id:\"COOKED_CHICKEN\"},HideFlags:254,ItemModel:\"minecraft:cooked_chicken\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Chicken\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COOKED_CHICKEN\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Chicken\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

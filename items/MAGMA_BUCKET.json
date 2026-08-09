@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Magma Bucket",
-  "nbttag": "{ExtraAttributes:{id:\"MAGMA_BUCKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/magma_bucket\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a30%§7. Unlimited Duration!\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Magma Bucket\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"MAGMA_BUCKET\"},HideFlags:254,display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a30%§7. Unlimited Duration!\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Magma Bucket\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Increases the speed of your minion",

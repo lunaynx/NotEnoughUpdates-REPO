@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:egg",
   "displayname": "§fEgg",
-  "nbttag": "{ExtraAttributes:{id:\"EGG\"},HideFlags:254,ItemModel:\"minecraft:egg\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEgg\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EGG\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEgg\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

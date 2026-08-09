@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lead",
   "displayname": "§fLead",
-  "nbttag": "{ExtraAttributes:{id:\"LEASH\"},HideFlags:254,ItemModel:\"minecraft:lead\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLead\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEASH\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLead\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

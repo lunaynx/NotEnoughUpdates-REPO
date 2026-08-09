@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§f Rough Onyx Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"ROUGH_ONYX_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/onyx/rough_onyx_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Mined from the cold depths of the\",3:\"§bGlacite Tunnels§7.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§9 Crit Damage§7; others say it might\",8:\"§7give §ebonus treasures§7.\",9:\"\",10:\"§f§lCOMMON GEMSTONE\"],Name:\"§f Rough Onyx Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ROUGH_ONYX_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Mined from the cold depths of the\",3:\"§bGlacite Tunnels§7.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§9 Crit Damage§7; others say it might\",8:\"§7give §ebonus treasures§7.\",9:\"\",10:\"§f§lCOMMON GEMSTONE\"],Name:\"§f Rough Onyx Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:egg",
   "displayname": "§fStone Platform",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_BRIDGE\"},HideFlags:254,ItemModel:\"minecraft:egg\",display:{Lore:[0:\"§7Creates a stone platform in the air\",1:\"§7after traveling 10 blocks. Perfect\",2:\"§7for building below your island!\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fStone Platform\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_BRIDGE\"},HideFlags:254,display:{Lore:[0:\"§7Creates a stone platform in the air\",1:\"§7after traveling 10 blocks. Perfect\",2:\"§7for building below your island!\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fStone Platform\"}}",
   "damage": 0,
   "lore": [
     "§7Creates a stone platform in the air",

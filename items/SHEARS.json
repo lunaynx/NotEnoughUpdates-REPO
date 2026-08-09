@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:shears",
   "displayname": "§fShears",
-  "nbttag": "{ExtraAttributes:{id:\"SHEARS\"},HideFlags:254,ItemModel:\"minecraft:shears\",Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON SHEARS\"],Name:\"§fShears\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SHEARS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON SHEARS\"],Name:\"§fShears\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON SHEARS"

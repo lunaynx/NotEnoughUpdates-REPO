@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cauldron",
   "displayname": "§fCauldron",
-  "nbttag": "{ExtraAttributes:{id:\"CAULDRON_ITEM\"},HideFlags:254,ItemModel:\"minecraft:cauldron\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCauldron\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CAULDRON_ITEM\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCauldron\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

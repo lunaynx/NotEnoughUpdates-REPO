@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_pressure_plate",
   "displayname": "§fStone Pressure Plate",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_PLATE\"},HideFlags:254,ItemModel:\"minecraft:stone_pressure_plate\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fStone Pressure Plate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_PLATE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fStone Pressure Plate\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

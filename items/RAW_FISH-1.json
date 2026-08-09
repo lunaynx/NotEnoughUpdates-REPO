@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§fRaw Salmon",
-  "nbttag": "{ExtraAttributes:{id:\"RAW_FISH-1\"},HideFlags:254,ItemModel:\"minecraft:salmon\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fRaw Salmon\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RAW_FISH-1\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fRaw Salmon\"}}",
   "damage": 1,
   "lore": [
     "§8Brewing Ingredient",

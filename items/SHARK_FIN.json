@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:prismarine_shard",
   "displayname": "§9Shark Fin",
-  "nbttag": "{ExtraAttributes:{id:\"SHARK_FIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/shark_fin\",display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Shark Fin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SHARK_FIN\"},HideFlags:254,display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Shark Fin\"}}",
   "damage": 0,
   "lore": [
     "§7Dropped by a Shark during Fishing",

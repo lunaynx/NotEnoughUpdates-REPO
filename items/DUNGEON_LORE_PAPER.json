@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:book",
   "displayname": "§9The Expedition Volume 1",
-  "nbttag": "{ExtraAttributes:{dungeon_paper_id:\"expedition_volume_1\",id:\"DUNGEON_LORE_PAPER\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§eClick to read!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9The Expedition Volume 1\"}}",
+  "nbttag": "{ExtraAttributes:{dungeon_paper_id:\"expedition_volume_1\",id:\"DUNGEON_LORE_PAPER\"},HideFlags:254,display:{Lore:[0:\"§eClick to read!\",1:\"\",2:\"§9§lRARE DUNGEON ITEM\"],Name:\"§9The Expedition Volume 1\"}}",
   "damage": 0,
   "lore": [
     "§eClick to read!",

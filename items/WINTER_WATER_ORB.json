@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Winter Water Orb",
-  "nbttag": "{ExtraAttributes:{id:\"WINTER_WATER_ORB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/winter_water_orb\",display:{Lore:[0:\"§7A collection of frozen substances,\",1:\"§7potentially including ice cream.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Winter Water Orb\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WINTER_WATER_ORB\"},HideFlags:254,display:{Lore:[0:\"§7A collection of frozen substances,\",1:\"§7potentially including ice cream.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Winter Water Orb\"}}",
   "damage": 0,
   "lore": [
     "§7A collection of frozen substances,",

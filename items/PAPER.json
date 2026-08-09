@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§fPaper",
-  "nbttag": "{ExtraAttributes:{id:\"PAPER\"},HideFlags:254,ItemModel:\"minecraft:paper\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPaper\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PAPER\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPaper\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

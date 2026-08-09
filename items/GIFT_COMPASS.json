@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:compass",
   "displayname": "§aGift Compass",
-  "nbttag": "{ExtraAttributes:{id:\"GIFT_COMPASS\"},HideFlags:254,ItemModel:\"minecraft:compass\",display:{Lore:[0:\"§7When held, points towards the\",1:\"§7nearest unopened present while in\",2:\"§7Jerry's Workshop.\",3:\"\",4:\"§8§l* §8Co-op Soulbound §8§l*\",5:\"§a§lUNCOMMON\"],Name:\"§aGift Compass\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GIFT_COMPASS\"},HideFlags:254,display:{Lore:[0:\"§7When held, points towards the\",1:\"§7nearest unopened present while in\",2:\"§7Jerry's Workshop.\",3:\"\",4:\"§8§l* §8Co-op Soulbound §8§l*\",5:\"§a§lUNCOMMON\"],Name:\"§aGift Compass\"}}",
   "damage": 0,
   "lore": [
     "§7When held, points towards the",

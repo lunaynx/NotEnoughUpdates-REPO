@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:slime",
   "displayname": "§aLaunch Pad",
-  "nbttag": "{ExtraAttributes:{id:\"LAUNCH_PAD\"},HideFlags:254,ItemModel:\"minecraft:slime_block\",display:{Lore:[0:\"§7Launches you in the direction you\",1:\"§7are facing!\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aLaunch Pad\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LAUNCH_PAD\"},HideFlags:254,display:{Lore:[0:\"§7Launches you in the direction you\",1:\"§7are facing!\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aLaunch Pad\"}}",
   "damage": 0,
   "lore": [
     "§7Launches you in the direction you",

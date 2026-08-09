@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gunpowder",
   "displayname": "§fGunpowder",
-  "nbttag": "{ExtraAttributes:{id:\"SULPHUR\"},HideFlags:254,ItemModel:\"minecraft:gunpowder\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fGunpowder\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SULPHUR\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fGunpowder\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glowstone",
   "displayname": "§aEnchanted Glowstone",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GLOWSTONE\"},HideFlags:254,ItemModel:\"minecraft:glowstone\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Glowstone\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GLOWSTONE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Glowstone\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_axe",
   "displayname": "§cScavenged Golden Hammer",
-  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_GOLD_HAMMER\"},HideFlags:254,ItemModel:\"minecraft:golden_axe\",Unbreakable:1B,display:{Lore:[0:\"§8Quest Item\",1:\"\",2:\"§7Bring to the §6Keeper of Gold §7in the\",3:\"§2Mines of Divan§7.\",4:\"\",5:\"§c§lSPECIAL\"],Name:\"§cScavenged Golden Hammer\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_GOLD_HAMMER\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Quest Item\",1:\"\",2:\"§7Bring to the §6Keeper of Gold §7in the\",3:\"§2Mines of Divan§7.\",4:\"\",5:\"§c§lSPECIAL\"],Name:\"§cScavenged Golden Hammer\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Quest Item",

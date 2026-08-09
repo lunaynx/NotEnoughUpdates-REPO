@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Diamond Lotus",
-  "nbttag": "{ExtraAttributes:{id:\"LOTUS_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/lotus/diamond_lotus\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§6§lLEGENDARY\"],Name:\"§6Diamond Lotus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LOTUS_DIAMOND\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§6§lLEGENDARY\"],Name:\"§6Diamond Lotus\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

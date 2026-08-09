@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:pumpkin",
   "displayname": "§aEnchanted Pumpkin",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PUMPKIN\"},HideFlags:254,ItemModel:\"minecraft:carved_pumpkin\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Pumpkin\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PUMPKIN\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Pumpkin\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

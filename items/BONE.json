@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bone",
   "displayname": "§fBone",
-  "nbttag": "{ExtraAttributes:{id:\"BONE\"},HideFlags:254,ItemModel:\"minecraft:bone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fBone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fBone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§fTropical Fish",
-  "nbttag": "{ExtraAttributes:{id:\"RAW_FISH-2\"},HideFlags:254,ItemModel:\"minecraft:tropical_fish\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fTropical Fish\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RAW_FISH-2\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fTropical Fish\"}}",
   "damage": 2,
   "lore": [
     "§8Collection Item",

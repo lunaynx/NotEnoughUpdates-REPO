@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Gemstone Mixture",
-  "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_MIXTURE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/gemstone_mixture\",display:{Lore:[0:\"§7A collection of finely treated\",1:\"§dGemstones §7held together by the\",2:\"§7sturdiest of §asticky §7substances.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Gemstone Mixture\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_MIXTURE\"},HideFlags:254,display:{Lore:[0:\"§7A collection of finely treated\",1:\"§dGemstones §7held together by the\",2:\"§7sturdiest of §asticky §7substances.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Gemstone Mixture\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7A collection of finely treated",

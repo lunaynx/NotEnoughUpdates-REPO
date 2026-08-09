@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Gold Magmafish",
-  "nbttag": "{ExtraAttributes:{id:\"MAGMA_FISH_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/magmafish_gold\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Gold Magmafish\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MAGMA_FISH_GOLD\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Gold Magmafish\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

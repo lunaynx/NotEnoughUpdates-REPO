@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:noteblock",
   "displayname": "§fNoteblock",
-  "nbttag": "{ExtraAttributes:{id:\"NOTE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:note_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fNoteblock\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"NOTE_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fNoteblock\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

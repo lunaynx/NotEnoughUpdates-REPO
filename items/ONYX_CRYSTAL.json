@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§8Onyx Crystal",
-  "nbttag": "{ExtraAttributes:{id:\"ONYX_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/crystal/onyx_crystal\",display:{Lore:[0:\"§7Extraordinary crystal found deep in\",1:\"§7the §bGlacite Mineshafts§7.\",2:\"\",3:\"§7Some say that it can be infused with\",4:\"§dgemstones§7, and holds the secrets to\",5:\"§7a §7§otime long past§7.\",6:\"\",7:\"§c§lSPECIAL\"],Name:\"§8Onyx Crystal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ONYX_CRYSTAL\"},HideFlags:254,display:{Lore:[0:\"§7Extraordinary crystal found deep in\",1:\"§7the §bGlacite Mineshafts§7.\",2:\"\",3:\"§7Some say that it can be infused with\",4:\"§dgemstones§7, and holds the secrets to\",5:\"§7a §7§otime long past§7.\",6:\"\",7:\"§c§lSPECIAL\"],Name:\"§8Onyx Crystal\"}}",
   "damage": 0,
   "lore": [
     "§7Extraordinary crystal found deep in",

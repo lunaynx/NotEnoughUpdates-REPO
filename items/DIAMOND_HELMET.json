@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_helmet",
   "displayname": "§aDiamond Helmet",
-  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_HELMET\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON HELMET\"],Name:\"§aDiamond Helmet\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_HELMET\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON HELMET\"],Name:\"§aDiamond Helmet\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+15",

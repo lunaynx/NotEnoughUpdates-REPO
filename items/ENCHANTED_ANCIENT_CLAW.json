@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flint",
   "displayname": "§5Enchanted Ancient Claw",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_ANCIENT_CLAW\"},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§7The refined claw of an ancient\",1:\"§7beast, enchanted with bygone magic\",2:\"§7and honed through countless wars.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Enchanted Ancient Claw\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_ANCIENT_CLAW\"},HideFlags:254,display:{Lore:[0:\"§7The refined claw of an ancient\",1:\"§7beast, enchanted with bygone magic\",2:\"§7and honed through countless wars.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Enchanted Ancient Claw\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7The refined claw of an ancient",

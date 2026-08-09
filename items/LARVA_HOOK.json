@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:tripwire_hook",
   "displayname": "§aLarva Hook",
-  "nbttag": "{ExtraAttributes:{id:\"LARVA_HOOK\"},HideFlags:254,ItemModel:\"minecraft:tripwire_hook\",display:{Lore:[0:\"§7Click the §6larvas §7crawling around\",1:\"§7tree branches to tactfully extract\",2:\"§7their silk.\",3:\"\",4:\"§7You may harvest §68 larvas §7per hook.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aLarva Hook\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LARVA_HOOK\"},HideFlags:254,display:{Lore:[0:\"§7Click the §6larvas §7crawling around\",1:\"§7tree branches to tactfully extract\",2:\"§7their silk.\",3:\"\",4:\"§7You may harvest §68 larvas §7per hook.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aLarva Hook\"}}",
   "damage": 0,
   "lore": [
     "§7Click the §6larvas §7crawling around",

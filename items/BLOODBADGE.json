@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§9Bloodbadge",
-  "nbttag": "{ExtraAttributes:{id:\"BLOODBADGE\"},HideFlags:254,ItemModel:\"minecraft:red_dye\",display:{Lore:[0:\"§7You and killing stuff in the rift, name\",1:\"§7a more iconic duo.\",2:\"\",3:\"§4☠ §cRequires §5Vampire Slayer 3§c.\",4:\"§9§lRARE\"],Name:\"§9Bloodbadge\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BLOODBADGE\"},HideFlags:254,display:{Lore:[0:\"§7You and killing stuff in the rift, name\",1:\"§7a more iconic duo.\",2:\"\",3:\"§4☠ §cRequires §5Vampire Slayer 3§c.\",4:\"§9§lRARE\"],Name:\"§9Bloodbadge\"}}",
   "damage": 1,
   "lore": [
     "§7You and killing stuff in the rift, name",

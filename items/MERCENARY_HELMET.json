@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_helmet",
   "displayname": "§9Mercenary Helmet",
-  "nbttag": "{ExtraAttributes:{id:\"MERCENARY_HELMET\"},HideFlags:254,ItemModel:\"minecraft:iron_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+40\",1:\"§7Defense: §a+40\",2:\"§7Strength: §c+10\",3:\"\",4:\"§6Full Set Bonus: Death Tax §7(0/4)\",5:\"§7Earn §6+5 coins §7and heal §c20❤ §7each kill.\",6:\"§8Only against level 10+ mobs!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aCombat Skill 8§c.\",10:\"§9§lRARE HELMET\"],Name:\"§9Mercenary Helmet\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MERCENARY_HELMET\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+40\",1:\"§7Defense: §a+40\",2:\"§7Strength: §c+10\",3:\"\",4:\"§6Full Set Bonus: Death Tax §7(0/4)\",5:\"§7Earn §6+5 coins §7and heal §c20❤ §7each kill.\",6:\"§8Only against level 10+ mobs!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aCombat Skill 8§c.\",10:\"§9§lRARE HELMET\"],Name:\"§9Mercenary Helmet\"}}",
   "damage": 0,
   "lore": [
     "§7Health: §c+40",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:deadbush",
   "displayname": "§aDead Plant",
-  "nbttag": "{ExtraAttributes:{id:\"DEAD_PLANT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/greenhouse/dead_plant\",display:{Lore:[0:\"§7Once full of life, now a reminder of\",1:\"§7your terrible gardening skills.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aDead Plant\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DEAD_PLANT\"},HideFlags:254,display:{Lore:[0:\"§7Once full of life, now a reminder of\",1:\"§7your terrible gardening skills.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aDead Plant\"}}",
   "damage": 0,
   "lore": [
     "§7Once full of life, now a reminder of",

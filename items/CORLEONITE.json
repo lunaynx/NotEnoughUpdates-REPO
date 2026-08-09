@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Corleonite",
-  "nbttag": "{ExtraAttributes:{id:\"CORLEONITE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/corleonite\",display:{Lore:[0:\"§7For some reason, it's an ore.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Corleonite\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"CORLEONITE\"},HideFlags:254,display:{Lore:[0:\"§7For some reason, it's an ore.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Corleonite\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7For some reason, it's an ore.",

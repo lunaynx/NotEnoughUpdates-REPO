@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Divan Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"DIVAN_FRAGMENT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/divan_fragment\",display:{Lore:[0:\"§7One of the greatest alloys naturally\",1:\"§7found in the Crystal Hollows, named\",2:\"§7after the first Dwarf to find them.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Divan Fragment\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"DIVAN_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§7One of the greatest alloys naturally\",1:\"§7found in the Crystal Hollows, named\",2:\"§7after the first Dwarf to find them.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Divan Fragment\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7One of the greatest alloys naturally",

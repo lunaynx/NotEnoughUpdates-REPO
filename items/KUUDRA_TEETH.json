@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Kuudra Teeth",
-  "nbttag": "{ExtraAttributes:{id:\"KUUDRA_TEETH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/kuudra_teeth\",display:{Lore:[0:\"§7Also known as mandibles.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Kuudra Teeth\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"KUUDRA_TEETH\"},HideFlags:254,display:{Lore:[0:\"§7Also known as mandibles.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Kuudra Teeth\"}}",
   "damage": 0,
   "lore": [
     "§7Also known as mandibles.",

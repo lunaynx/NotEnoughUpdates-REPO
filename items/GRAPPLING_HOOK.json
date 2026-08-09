@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fishing_rod",
   "displayname": "§aGrappling Hook",
-  "nbttag": "{ExtraAttributes:{id:\"GRAPPLING_HOOK\"},HideFlags:254,ItemModel:\"minecraft:fishing_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Travel around in style using this\",1:\"§7Grappling Hook.\",2:\"§82 Second Cooldown\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aGrappling Hook\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GRAPPLING_HOOK\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Travel around in style using this\",1:\"§7Grappling Hook.\",2:\"§82 Second Cooldown\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aGrappling Hook\"}}",
   "damage": 0,
   "lore": [
     "§7Travel around in style using this",

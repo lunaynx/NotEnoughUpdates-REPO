@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:nether_star",
   "displayname": "§6Nether Star",
-  "nbttag": "{ExtraAttributes:{id:\"CORRUPTED_NETHER_STAR\"},HideFlags:254,ItemModel:\"minecraft:nether_star\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Nether Star\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CORRUPTED_NETHER_STAR\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Nether Star\"}}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

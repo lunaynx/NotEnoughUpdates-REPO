@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bed",
   "displayname": "§fBed",
-  "nbttag": "{ExtraAttributes:{id:\"BED\"},HideFlags:254,ItemModel:\"minecraft:red_bed\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBed\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BED\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBed\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

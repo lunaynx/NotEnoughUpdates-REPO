@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:trapdoor",
   "displayname": "§9Berberis Fuel Injector",
-  "nbttag": "{ExtraAttributes:{id:\"BERBERIS_FUEL_INJECTOR\"},HideFlags:254,ItemModel:\"minecraft:oak_trapdoor\",display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade, only for §efarming §7minions.\",4:\"\",5:\"§7Increases the speed of your minion\",6:\"§7by §a15%§7.\",7:\"\",8:\"§7Your minion will occasionally\",9:\"§7generate §aLush Berberis §7items.\",10:\"\",11:\"§5§kX§5 Rift-Transferable §5§kX\",12:\"§9§lRARE\"],Name:\"§9Berberis Fuel Injector\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"BERBERIS_FUEL_INJECTOR\"},HideFlags:254,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade, only for §efarming §7minions.\",4:\"\",5:\"§7Increases the speed of your minion\",6:\"§7by §a15%§7.\",7:\"\",8:\"§7Your minion will occasionally\",9:\"§7generate §aLush Berberis §7items.\",10:\"\",11:\"§5§kX§5 Rift-Transferable §5§kX\",12:\"§9§lRARE\"],Name:\"§9Berberis Fuel Injector\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Minion Upgrade",

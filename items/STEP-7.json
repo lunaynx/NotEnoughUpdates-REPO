@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_slab",
   "displayname": "§fQuartz Slab",
-  "nbttag": "{ExtraAttributes:{id:\"STEP-7\"},HideFlags:254,ItemModel:\"minecraft:quartz_slab\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fQuartz Slab\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STEP-7\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fQuartz Slab\"}}",
   "damage": 7,
   "lore": [
     "§f§lCOMMON"

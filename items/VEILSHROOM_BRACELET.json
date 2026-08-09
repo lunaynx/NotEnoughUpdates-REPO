@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Veilshroom Bracelet",
-  "nbttag": "{ExtraAttributes:{id:\"VEILSHROOM_BRACELET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/equipment/veilshroom_bracelet\",display:{Lore:[0:\"§7Sweep: §2+5\",1:\"§7Foraging Fortune: §6+25\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 30§c.\",7:\"§5§lEPIC BRACELET\"],Name:\"§5Veilshroom Bracelet\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"VEILSHROOM_BRACELET\"},HideFlags:254,display:{Lore:[0:\"§7Sweep: §2+5\",1:\"§7Foraging Fortune: §6+25\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 30§c.\",7:\"§5§lEPIC BRACELET\"],Name:\"§5Veilshroom Bracelet\"}}",
   "damage": 0,
   "lore": [
     "§7Sweep: §2+5",

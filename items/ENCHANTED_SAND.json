@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sand",
   "displayname": "§aEnchanted Sand",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SAND\"},HideFlags:254,ItemModel:\"minecraft:sand\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Sand\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SAND\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Sand\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Treasurite",
-  "nbttag": "{ExtraAttributes:{id:\"TREASURITE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/treasurite\",display:{Lore:[0:\"§7Origin unknown.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Treasurite\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TREASURITE\"},HideFlags:254,display:{Lore:[0:\"§7Origin unknown.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Treasurite\"}}",
   "damage": 0,
   "lore": [
     "§7Origin unknown.",

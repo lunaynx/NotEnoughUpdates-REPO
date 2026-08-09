@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aLumberjack Ring",
-  "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_RING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_ring\",display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a10%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aLumberjack Ring\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_RING\"},HideFlags:254,display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a10%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aLumberjack Ring\"}}",
   "damage": 0,
   "lore": [
     "§7Accessory Power: §6+5",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Mutant Nether Wart",
-  "nbttag": "{ExtraAttributes:{id:\"MUTANT_NETHER_STALK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/mutant_nether_wart\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Mutant Nether Wart\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MUTANT_NETHER_STALK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Mutant Nether Wart\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

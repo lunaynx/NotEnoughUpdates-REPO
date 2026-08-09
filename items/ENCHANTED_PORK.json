@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:porkchop",
   "displayname": "§aEnchanted Raw Porkchop",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PORK\"},HideFlags:254,ItemModel:\"minecraft:porkchop\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Porkchop\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PORK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Porkchop\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

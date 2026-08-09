@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aCornucopia",
-  "nbttag": "{ExtraAttributes:{id:\"CORNUCOPIA\"},HideFlags:254,ItemModel:\"minecraft:nautilus_shell\",display:{Lore:[0:\"§7Dropped rarely from §bWheat §7during\",1:\"§7the §eHarvest Feast §7event.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aCornucopia\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CORNUCOPIA\"},HideFlags:254,display:{Lore:[0:\"§7Dropped rarely from §bWheat §7during\",1:\"§7the §eHarvest Feast §7event.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aCornucopia\"}}",
   "damage": 0,
   "lore": [
     "§7Dropped rarely from §bWheat §7during",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cobblestone_wall",
   "displayname": "§fCobblestone Wall",
-  "nbttag": "{ExtraAttributes:{id:\"COBBLE_WALL\"},HideFlags:254,ItemModel:\"minecraft:cobblestone_wall\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCobblestone Wall\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COBBLE_WALL\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCobblestone Wall\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

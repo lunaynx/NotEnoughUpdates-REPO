@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanting_table",
   "displayname": "§fEnchantment Table",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTMENT_TABLE\"},HideFlags:254,ItemModel:\"minecraft:enchanting_table\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEnchantment Table\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTMENT_TABLE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEnchantment Table\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:hay_block",
   "displayname": "§aCozy Cottage Barn Skin",
-  "nbttag": "{ExtraAttributes:{id:\"COZY_COTTAGE_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:hay_block\",display:{Lore:[0:\"§7Consume this item to unlock the §aCozy\",1:\"§aCottage Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCozy Cottage Barn Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COZY_COTTAGE_BARN_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the §aCozy\",1:\"§aCottage Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aCozy Cottage Barn Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the §aCozy",

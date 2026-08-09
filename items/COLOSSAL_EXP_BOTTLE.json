@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:experience_bottle",
   "displayname": "§5Colossal Experience Bottle",
-  "nbttag": "{ExtraAttributes:{id:\"COLOSSAL_EXP_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:experience_bottle\",display:{Lore:[0:\"§7Smash it open to receive experience!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Colossal Experience Bottle\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COLOSSAL_EXP_BOTTLE\"},HideFlags:254,display:{Lore:[0:\"§7Smash it open to receive experience!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Colossal Experience Bottle\"}}",
   "damage": 0,
   "lore": [
     "§7Smash it open to receive experience!",

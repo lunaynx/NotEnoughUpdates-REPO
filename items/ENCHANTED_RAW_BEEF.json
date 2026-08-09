@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:beef",
   "displayname": "§aEnchanted Raw Beef",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_BEEF\"},HideFlags:254,ItemModel:\"minecraft:beef\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Beef\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RAW_BEEF\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Raw Beef\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

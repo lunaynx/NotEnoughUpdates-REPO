@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:jungle_fence",
   "displayname": "§fJungle Fence",
-  "nbttag": "{ExtraAttributes:{id:\"JUNGLE_FENCE\"},HideFlags:254,ItemModel:\"minecraft:jungle_fence\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJungle Fence\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"JUNGLE_FENCE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJungle Fence\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

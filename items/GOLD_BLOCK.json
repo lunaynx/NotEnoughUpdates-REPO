@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_block",
   "displayname": "§fBlock of Gold",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:gold_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Gold\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Gold\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

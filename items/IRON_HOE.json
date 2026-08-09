@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_hoe",
   "displayname": "§fIron Hoe",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_HOE\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8This item can be reforged!\",1:\"§f§lCOMMON FARMING TOOL\"],Name:\"§fIron Hoe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_HOE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8This item can be reforged!\",1:\"§f§lCOMMON FARMING TOOL\"],Name:\"§fIron Hoe\"}}",
   "damage": 0,
   "lore": [
     "§8This item can be reforged!",

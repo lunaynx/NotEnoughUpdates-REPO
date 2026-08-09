@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:bow",
   "displayname": "§aDecent Bow",
-  "nbttag": "{ExtraAttributes:{id:\"DECENT_BOW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/decent_bow\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+45\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOW\"],Name:\"§aDecent Bow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DECENT_BOW\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+45\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOW\"],Name:\"§aDecent Bow\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+45",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§5Fel Rose",
-  "nbttag": "{ExtraAttributes:{id:\"FEL_ROSE\"},HideFlags:254,ItemModel:\"minecraft:blue_orchid\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5Fel Rose\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FEL_ROSE\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5Fel Rose\"}}",
   "damage": 1,
   "lore": [
     "§eRight-click to view recipes!",

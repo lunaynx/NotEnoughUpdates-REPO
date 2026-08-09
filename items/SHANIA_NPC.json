@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:spawn_egg",
   "displayname": "§9Shania (NPC)",
-  "nbttag": "{ExtraAttributes:{id:\"SHANIA_NPC\"},HideFlags:254,ItemModel:\"minecraft:cow_spawn_egg\",display:{Lore:[0:\"\"],Name:\"§9Shania (NPC)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SHANIA_NPC\"},HideFlags:254,display:{Lore:[0:\"\"],Name:\"§9Shania (NPC)\"}}",
   "damage": 92,
   "lore": [
     ""

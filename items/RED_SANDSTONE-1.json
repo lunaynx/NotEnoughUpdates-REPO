@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_sandstone",
   "displayname": "§fRed Chiseled Sandstone",
-  "nbttag": "{ExtraAttributes:{id:\"RED_SANDSTONE-1\"},HideFlags:254,ItemModel:\"minecraft:chiseled_red_sandstone\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRed Chiseled Sandstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RED_SANDSTONE-1\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRed Chiseled Sandstone\"}}",
   "damage": 1,
   "lore": [
     "§f§lCOMMON"

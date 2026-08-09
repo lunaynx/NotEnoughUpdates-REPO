@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:coal_block",
   "displayname": "§9Enchanted Coal Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COAL_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:coal_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Coal Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COAL_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE ORE\"],Name:\"§9Enchanted Coal Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

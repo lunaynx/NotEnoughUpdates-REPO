@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz_block",
   "displayname": "§9Enchanted Bone Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:chiseled_quartz_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Bone Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Bone Block\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§8Collection Item",

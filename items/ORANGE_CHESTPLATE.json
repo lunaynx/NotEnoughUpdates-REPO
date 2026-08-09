@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_chestplate",
   "displayname": "§5Orange Chestplate",
-  "nbttag": "{ExtraAttributes:{id:\"ORANGE_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+45s\",1:\"§7Intelligence: §b+5\",2:\"§7Mana Regen: §b+10%\",3:\"\",4:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Orange Chestplate\",color:16729600},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ORANGE_CHESTPLATE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+45s\",1:\"§7Intelligence: §b+5\",2:\"§7Mana Regen: §b+10%\",3:\"\",4:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Orange Chestplate\",color:16729600},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Rift Time: §a+45s",

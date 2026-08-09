@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:hay_block",
   "displayname": "§fHay Bale",
-  "nbttag": "{ExtraAttributes:{id:\"HAY_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:hay_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHay Bale\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HAY_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHay Bale\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

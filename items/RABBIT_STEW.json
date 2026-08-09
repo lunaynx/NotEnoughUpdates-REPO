@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rabbit_stew",
   "displayname": "§fRabbit Stew",
-  "nbttag": "{ExtraAttributes:{id:\"RABBIT_STEW\"},HideFlags:254,ItemModel:\"minecraft:rabbit_stew\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRabbit Stew\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RABBIT_STEW\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRabbit Stew\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

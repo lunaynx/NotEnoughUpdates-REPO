@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_block",
   "displayname": "§9Enchanted Gold Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GOLD_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:gold_block\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE ORE\"],Name:\"§9Enchanted Gold Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GOLD_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§9§lRARE ORE\"],Name:\"§9Enchanted Gold Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fence_gate",
   "displayname": "§fOak Fence Gate",
-  "nbttag": "{ExtraAttributes:{id:\"FENCE_GATE\"},HideFlags:254,ItemModel:\"minecraft:oak_fence_gate\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Fence Gate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FENCE_GATE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Fence Gate\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

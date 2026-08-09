@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Tungsten Key",
-  "nbttag": "{ExtraAttributes:{id:\"TUNGSTEN_KEY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/tungsten/tungsten_key\",display:{Lore:[0:\"§7Can be used to open backpacks with\",1:\"§7a Tungsten lock held by §bFrozen\",2:\"§bCorpses §7in the §bGlacite Mineshafts§7.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Tungsten Key\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"TUNGSTEN_KEY\"},HideFlags:254,display:{Lore:[0:\"§7Can be used to open backpacks with\",1:\"§7a Tungsten lock held by §bFrozen\",2:\"§bCorpses §7in the §bGlacite Mineshafts§7.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Tungsten Key\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Can be used to open backpacks with",

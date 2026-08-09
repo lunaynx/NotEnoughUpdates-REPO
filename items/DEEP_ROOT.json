@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aDeep Root",
-  "nbttag": "{ExtraAttributes:{id:\"DEEP_ROOT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/resources/deep_root\",display:{Lore:[0:\"§7These roots delve deep into the\",1:\"§7earth, drawing nutrients from below\",2:\"§7the waterline to nourish the mighty\",3:\"§7mangrove.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aDeep Root\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DEEP_ROOT\"},HideFlags:254,display:{Lore:[0:\"§7These roots delve deep into the\",1:\"§7earth, drawing nutrients from below\",2:\"§7the waterline to nourish the mighty\",3:\"§7mangrove.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aDeep Root\"}}",
   "damage": 0,
   "lore": [
     "§7These roots delve deep into the",

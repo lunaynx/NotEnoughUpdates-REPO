@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:glowstone_dust",
   "displayname": "§aSulphur",
-  "nbttag": "{ExtraAttributes:{id:\"SULPHUR_ORE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/sulphur\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§o\\\"Give me some Sulphur and I'll make a\",3:\"§7§owand. Give me all the Sulphur and I'll\",4:\"§7§oconquer the world.\\\" - Unnamed Mage.\",5:\"\",6:\"§a§lUNCOMMON ORE\"],Name:\"§aSulphur\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SULPHUR_ORE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§o\\\"Give me some Sulphur and I'll make a\",3:\"§7§owand. Give me all the Sulphur and I'll\",4:\"§7§oconquer the world.\\\" - Unnamed Mage.\",5:\"\",6:\"§a§lUNCOMMON ORE\"],Name:\"§aSulphur\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

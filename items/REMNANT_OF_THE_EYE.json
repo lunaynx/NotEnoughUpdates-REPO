@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Remnant of the Eye",
-  "nbttag": "{ExtraAttributes:{id:\"REMNANT_OF_THE_EYE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/remnant_of_the_eye\",display:{Lore:[0:\"§7Keeps you alive when you are on\",1:\"§7death's door, granting a short\",2:\"§7period of invincibility. Consumed on\",3:\"§7use.\",4:\"\",5:\"§cONLY WORKS ON THE END ISLAND.\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Remnant of the Eye\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REMNANT_OF_THE_EYE\"},HideFlags:254,display:{Lore:[0:\"§7Keeps you alive when you are on\",1:\"§7death's door, granting a short\",2:\"§7period of invincibility. Consumed on\",3:\"§7use.\",4:\"\",5:\"§cONLY WORKS ON THE END ISLAND.\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Remnant of the Eye\"}}",
   "damage": 0,
   "lore": [
     "§7Keeps you alive when you are on",

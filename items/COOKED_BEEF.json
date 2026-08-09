@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_beef",
   "displayname": "§fCooked Beef",
-  "nbttag": "{ExtraAttributes:{id:\"COOKED_BEEF\"},HideFlags:254,ItemModel:\"minecraft:cooked_beef\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Beef\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COOKED_BEEF\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Beef\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:planks",
   "displayname": "§fAcacia Planks",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD-4\"},HideFlags:254,ItemModel:\"minecraft:acacia_planks\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAcacia Planks\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD-4\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAcacia Planks\"}}",
   "damage": 4,
   "lore": [
     "§f§lCOMMON"

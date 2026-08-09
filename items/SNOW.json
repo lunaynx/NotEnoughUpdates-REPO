@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:snow_layer",
   "displayname": "§fSnow",
-  "nbttag": "{ExtraAttributes:{id:\"SNOW\"},HideFlags:254,ItemModel:\"minecraft:snow\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSnow\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SNOW\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSnow\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

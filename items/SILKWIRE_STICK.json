@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stick",
   "displayname": "§9Silkwire Stick",
-  "nbttag": "{ExtraAttributes:{id:\"SILKWIRE_STICK\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§7Click on a §eSilkwire §7to\",1:\"§7attach to it, pretending to\",2:\"§bfly§7.\",3:\"\",4:\"§7Once attached, §e§lCLICK §7to\",5:\"§7hitch forward!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Silkwire Stick\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SILKWIRE_STICK\"},HideFlags:254,display:{Lore:[0:\"§7Click on a §eSilkwire §7to\",1:\"§7attach to it, pretending to\",2:\"§bfly§7.\",3:\"\",4:\"§7Once attached, §e§lCLICK §7to\",5:\"§7hitch forward!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Silkwire Stick\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Click on a §eSilkwire §7to",

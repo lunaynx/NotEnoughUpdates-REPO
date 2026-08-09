@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sign",
   "displayname": "§fOak Sign",
-  "nbttag": "{ExtraAttributes:{id:\"SIGN\"},HideFlags:254,ItemModel:\"minecraft:oak_sign\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Sign\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SIGN\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Sign\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

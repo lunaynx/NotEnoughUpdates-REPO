@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:red_flower",
   "displayname": "§fOxeye Daisy",
-  "nbttag": "{ExtraAttributes:{id:\"RED_ROSE-8\"},HideFlags:254,ItemModel:\"minecraft:oxeye_daisy\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOxeye Daisy\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RED_ROSE-8\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOxeye Daisy\"}}",
   "damage": 8,
   "lore": [
     "§f§lCOMMON"

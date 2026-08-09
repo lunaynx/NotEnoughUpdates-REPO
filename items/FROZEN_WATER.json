@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ice",
   "displayname": "§9Frozen Water",
-  "nbttag": "{ExtraAttributes:{id:\"FROZEN_WATER\"},HideFlags:254,ItemModel:\"minecraft:ice\",display:{Lore:[0:\"§7One could say it's... ice cold.\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Frozen Water\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FROZEN_WATER\"},HideFlags:254,display:{Lore:[0:\"§7One could say it's... ice cold.\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Frozen Water\"}}",
   "damage": 0,
   "lore": [
     "§7One could say it's... ice cold.",

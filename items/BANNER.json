@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§fBlack Banner",
-  "nbttag": "{ExtraAttributes:{id:\"BANNER\"},HideFlags:254,ItemModel:\"minecraft:black_banner\",display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§f§lCOMMON\"],Name:\"§fBlack Banner\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BANNER\"},HideFlags:254,display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§f§lCOMMON\"],Name:\"§fBlack Banner\"}}",
   "damage": 0,
   "lore": [
     "§8§l* §8Co-op Soulbound §8§l*",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Superior Dragon Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"SUPERIOR_FRAGMENT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/superior_dragon_fragment\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Superior Dragon Fragment\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SUPERIOR_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Superior Dragon Fragment\"}}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

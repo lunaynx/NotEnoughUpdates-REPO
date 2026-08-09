@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_axe",
   "displayname": "§aDiamond Axe",
-  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_AXE\"},HideFlags:254,ItemModel:\"minecraft:diamond_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON AXE\"],Name:\"§aDiamond Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_AXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON AXE\"],Name:\"§aDiamond Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+30",

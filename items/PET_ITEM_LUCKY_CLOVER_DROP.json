@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§5Lucky Clover Core",
-  "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_LUCKY_CLOVER_DROP\"},HideFlags:254,ItemModel:\"minecraft:lime_dye\",display:{Lore:[0:\"§7Used to craft the Lucky Clover pet\",1:\"§7item.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Lucky Clover Core\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_LUCKY_CLOVER_DROP\"},HideFlags:254,display:{Lore:[0:\"§7Used to craft the Lucky Clover pet\",1:\"§7item.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Lucky Clover Core\"}}",
   "damage": 10,
   "lore": [
     "§7Used to craft the Lucky Clover pet",

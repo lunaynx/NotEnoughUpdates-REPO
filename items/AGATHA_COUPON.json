@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:name_tag",
   "displayname": "§aAgatha's Coupon",
-  "nbttag": "{ExtraAttributes:{id:\"AGATHA_COUPON\"},HideFlags:254,ItemModel:\"minecraft:name_tag\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aAgatha's Coupon\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"AGATHA_COUPON\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aAgatha's Coupon\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

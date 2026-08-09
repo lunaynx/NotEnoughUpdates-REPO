@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone",
   "displayname": "§aEnchanted Hard Stone",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HARD_STONE\"},HideFlags:254,ItemModel:\"minecraft:stone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A refined form of heavy rock from\",3:\"§7the darkest depths.\",4:\"\",5:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Hard Stone\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HARD_STONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A refined form of heavy rock from\",3:\"§7the darkest depths.\",4:\"\",5:\"§a§lUNCOMMON BLOCK\"],Name:\"§aEnchanted Hard Stone\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

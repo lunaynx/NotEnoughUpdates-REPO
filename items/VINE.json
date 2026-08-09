@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:vine",
   "displayname": "§fVines",
-  "nbttag": "{ExtraAttributes:{id:\"VINE\"},HideFlags:254,ItemModel:\"minecraft:vine\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fVines\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"VINE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fVines\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

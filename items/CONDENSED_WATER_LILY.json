@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Condensed Lily Pad",
-  "nbttag": "{ExtraAttributes:{id:\"CONDENSED_WATER_LILY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/lily_pad/condensed_lily_pad\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A truly massive amount of Lily Pads\",3:\"§7mashed into a large ball.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Condensed Lily Pad\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CONDENSED_WATER_LILY\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A truly massive amount of Lily Pads\",3:\"§7mashed into a large ball.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Condensed Lily Pad\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

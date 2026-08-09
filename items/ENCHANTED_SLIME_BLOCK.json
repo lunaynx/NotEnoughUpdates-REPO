@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:slime",
   "displayname": "§9Enchanted Slime Block",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SLIME_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:slime_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Slime Block\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SLIME_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Slime Block\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

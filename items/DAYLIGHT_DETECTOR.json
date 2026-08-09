@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:daylight_detector",
   "displayname": "§fDaylight Detector",
-  "nbttag": "{ExtraAttributes:{id:\"DAYLIGHT_DETECTOR\"},HideFlags:254,ItemModel:\"minecraft:daylight_detector\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDaylight Detector\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DAYLIGHT_DETECTOR\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDaylight Detector\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sugar",
   "displayname": "§aEnchanted Sugar",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SUGAR\"},HideFlags:254,ItemModel:\"minecraft:sugar\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Sugar\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SUGAR\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Sugar\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

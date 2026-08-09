@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:jukebox",
   "displayname": "§fJukebox",
-  "nbttag": "{ExtraAttributes:{id:\"JUKEBOX\"},HideFlags:254,ItemModel:\"minecraft:jukebox\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJukebox\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"JUKEBOX\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJukebox\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

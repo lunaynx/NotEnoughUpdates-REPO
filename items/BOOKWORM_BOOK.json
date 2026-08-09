@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:book",
   "displayname": "§9Bookworm's Favorite Book",
-  "nbttag": "{ExtraAttributes:{id:\"BOOKWORM_BOOK\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a vacuum, grants\",3:\"§c+10❁ Damage§7.\",4:\"\",5:\"§7This can be applied to a vacuum up\",6:\"§7to §a5 §7times!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Bookworm's Favorite Book\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOOKWORM_BOOK\"},HideFlags:254,display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a vacuum, grants\",3:\"§c+10❁ Damage§7.\",4:\"\",5:\"§7This can be applied to a vacuum up\",6:\"§7to §a5 §7times!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Bookworm's Favorite Book\"}}",
   "damage": 0,
   "lore": [
     "§8Combinable in Anvil",

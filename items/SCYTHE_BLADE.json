@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond",
   "displayname": "§6Scythe Blade",
-  "nbttag": "{ExtraAttributes:{id:\"SCYTHE_BLADE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Scythe Blade\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SCYTHE_BLADE\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Scythe Blade\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

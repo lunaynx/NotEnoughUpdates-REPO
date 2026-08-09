@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_pickaxe",
   "displayname": "§9Titanium Pickaxe",
-  "nbttag": "{ExtraAttributes:{id:\"TITANIUM_PICKAXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/titanium_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 6\",1:\"\",2:\"§7Damage: §c+60\",3:\"§7Mining Speed: §6+140\",4:\"\",5:\"§7Grants §6+50 Mining Fortune §7when\",6:\"§7mining §fTitanium Ore§7.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",10:\"§9§lRARE PICKAXE\"],Name:\"§9Titanium Pickaxe\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"TITANIUM_PICKAXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 6\",1:\"\",2:\"§7Damage: §c+60\",3:\"§7Mining Speed: §6+140\",4:\"\",5:\"§7Grants §6+50 Mining Fortune §7when\",6:\"§7mining §fTitanium Ore§7.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",10:\"§9§lRARE PICKAXE\"],Name:\"§9Titanium Pickaxe\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Breaking Power 6",

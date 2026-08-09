@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aWooden Bait",
-  "nbttag": "{ExtraAttributes:{id:\"WOODEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/wooden_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Ensures your next §eGOOD CATCH\",4:\"§7hooks a §bRare Fish Shard§7.\",5:\"§8§oWill not be consumed if no Rare\",6:\"§8§oShards are available to catch.\",7:\"\",8:\"§a§lUNCOMMON BAIT\"],Name:\"§aWooden Bait\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOODEN_BAIT\"},HideFlags:254,display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Ensures your next §eGOOD CATCH\",4:\"§7hooks a §bRare Fish Shard§7.\",5:\"§8§oWill not be consumed if no Rare\",6:\"§8§oShards are available to catch.\",7:\"\",8:\"§a§lUNCOMMON BAIT\"],Name:\"§aWooden Bait\"}}",
   "damage": 0,
   "lore": [
     "§8Fishing Bait",

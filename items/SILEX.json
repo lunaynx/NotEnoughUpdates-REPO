@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz",
   "displayname": "§fSharp Rock",
-  "nbttag": "{ExtraAttributes:{id:\"SILEX\"},HideFlags:254,ItemModel:\"minecraft:quartz\",display:{Lore:[0:\"§7A sharp rock with sturdy\",1:\"§7construction.\",2:\"\",3:\"§8§l* §8Co-op Soulbound §8§l*\",4:\"§f§lCOMMON\"],Name:\"§fSharp Rock\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SILEX\"},HideFlags:254,display:{Lore:[0:\"§7A sharp rock with sturdy\",1:\"§7construction.\",2:\"\",3:\"§8§l* §8Co-op Soulbound §8§l*\",4:\"§f§lCOMMON\"],Name:\"§fSharp Rock\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7A sharp rock with sturdy",

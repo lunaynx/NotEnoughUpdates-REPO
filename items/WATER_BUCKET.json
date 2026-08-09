@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:water_bucket",
   "displayname": "§fWater Bucket",
-  "nbttag": "{ExtraAttributes:{id:\"WATER_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:water_bucket\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWater Bucket\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WATER_BUCKET\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWater Bucket\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

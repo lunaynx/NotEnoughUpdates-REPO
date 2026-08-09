@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flint_and_steel",
   "displayname": "§fFlint and Steel",
-  "nbttag": "{ExtraAttributes:{id:\"FLINT_AND_STEEL\"},HideFlags:254,ItemModel:\"minecraft:flint_and_steel\",Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFlint and Steel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLINT_AND_STEEL\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFlint and Steel\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

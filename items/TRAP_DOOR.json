@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:trapdoor",
   "displayname": "§fWooden Trapdoor",
-  "nbttag": "{ExtraAttributes:{id:\"TRAP_DOOR\"},HideFlags:254,ItemModel:\"minecraft:oak_trapdoor\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWooden Trapdoor\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TRAP_DOOR\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fWooden Trapdoor\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_axe",
   "displayname": "§fStone Axe",
-  "nbttag": "{ExtraAttributes:{id:\"STONE_AXE\"},HideFlags:254,ItemModel:\"minecraft:stone_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fStone Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STONE_AXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fStone Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+15",

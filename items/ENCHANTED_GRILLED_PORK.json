@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_porkchop",
   "displayname": "§9Enchanted Cooked Porkchop",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GRILLED_PORK\"},HideFlags:254,ItemModel:\"minecraft:cooked_porkchop\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Cooked Porkchop\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_GRILLED_PORK\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Cooked Porkchop\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

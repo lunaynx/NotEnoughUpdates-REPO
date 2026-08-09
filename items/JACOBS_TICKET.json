@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aJacob's Ticket",
-  "nbttag": "{ExtraAttributes:{id:\"JACOBS_TICKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/jacob/jacobs_ticket\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aJacob's Ticket\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"JACOBS_TICKET\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aJacob's Ticket\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

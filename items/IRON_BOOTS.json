@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_boots",
   "displayname": "§fIron Boots",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:iron_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON BOOTS\"],Name:\"§fIron Boots\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_BOOTS\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON BOOTS\"],Name:\"§fIron Boots\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+10",

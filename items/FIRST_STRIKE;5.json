@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§aEnchanted Book",
-  "nbttag": "{ExtraAttributes:{enchantments:{first_strike:5},id:\"FIRST_STRIKE;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9First Strike V\",1:\"§7Increases melee damage dealt by\",2:\"§a125% §7for the first hit on a\",3:\"§7mob.\",4:\"\",5:\"§7Use this on an item in an Anvil\",6:\"§7to apply it!\",7:\"\",8:\"§6Source:\",9:\"§aV: §7Experiments\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fFishing Weapon\",14:\"§7- §fLongsword\",15:\"§7- §fGauntlet\",16:\"\",17:\"§6Conflicts:\",18:\"§7- §cTriple-Strike\",19:\"\",20:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{enchantments:{first_strike:5},id:\"FIRST_STRIKE;5\"},HideFlags:254,display:{Lore:[0:\"§9First Strike V\",1:\"§7Increases melee damage dealt by\",2:\"§a125% §7for the first hit on a\",3:\"§7mob.\",4:\"\",5:\"§7Use this on an item in an Anvil\",6:\"§7to apply it!\",7:\"\",8:\"§6Source:\",9:\"§aV: §7Experiments\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fFishing Weapon\",14:\"§7- §fLongsword\",15:\"§7- §fGauntlet\",16:\"\",17:\"§6Conflicts:\",18:\"§7- §cTriple-Strike\",19:\"\",20:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§9First Strike V",

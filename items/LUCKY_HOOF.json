@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_horse_armor",
   "displayname": "§aLucky Hoof",
-  "nbttag": "{ExtraAttributes:{id:\"LUCKY_HOOF\"},HideFlags:254,ItemModel:\"minecraft:iron_horse_armor\",display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Gain §a1% §7chance to find Trick or\",3:\"§7Treat Chests.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aLucky Hoof\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LUCKY_HOOF\"},HideFlags:254,display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Gain §a1% §7chance to find Trick or\",3:\"§7Treat Chests.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aLucky Hoof\"}}",
   "damage": 0,
   "lore": [
     "§7Accessory Power: §6+5",

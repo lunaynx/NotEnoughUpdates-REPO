@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carrot_on_a_stick",
   "displayname": "§fCarrot on a Stick",
-  "nbttag": "{ExtraAttributes:{id:\"CARROT_STICK\"},HideFlags:254,ItemModel:\"minecraft:carrot_on_a_stick\",Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCarrot on a Stick\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CARROT_STICK\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCarrot on a Stick\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§a Flawed Citrine Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FLAWED_CITRINE_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/citrine/flawed_citrine_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §4Citrine§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Foraging Fortune§7; others say it\",8:\"§7might §ehighlight treasures§7.\",9:\"\",10:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Citrine Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLAWED_CITRINE_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §4Citrine§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§6 Foraging Fortune§7; others say it\",8:\"§7might §ehighlight treasures§7.\",9:\"\",10:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Citrine Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

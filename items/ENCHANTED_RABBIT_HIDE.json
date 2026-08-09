@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rabbit_hide",
   "displayname": "§9Enchanted Rabbit Hide",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RABBIT_HIDE\"},HideFlags:254,ItemModel:\"minecraft:rabbit_hide\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Rabbit Hide\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RABBIT_HIDE\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Rabbit Hide\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

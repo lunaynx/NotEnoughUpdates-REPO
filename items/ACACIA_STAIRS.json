@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:acacia_stairs",
   "displayname": "§fAcacia Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"ACACIA_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:acacia_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAcacia Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ACACIA_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAcacia Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:feather",
   "displayname": "§9Kismet Feather",
-  "nbttag": "{ExtraAttributes:{id:\"KISMET_FEATHER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/bits_shop/kismet_feather\",display:{Lore:[0:\"§7Allows you to reroll a §cDungeon\",1:\"§7or §cKuudra§7 reward chest.\",2:\"\",3:\"§7Keep this feather in your\",4:\"§7inventory or §6Dungeon Sack§7 and\",5:\"§7open a reward chest to use.\",6:\"\",7:\"§8You may only reroll 1 reward\",8:\"§8chest per run!\",9:\"\",10:\"§9§lRARE\"],Name:\"§9Kismet Feather\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"KISMET_FEATHER\"},HideFlags:254,display:{Lore:[0:\"§7Allows you to reroll a §cDungeon\",1:\"§7or §cKuudra§7 reward chest.\",2:\"\",3:\"§7Keep this feather in your\",4:\"§7inventory or §6Dungeon Sack§7 and\",5:\"§7open a reward chest to use.\",6:\"\",7:\"§8You may only reroll 1 reward\",8:\"§8chest per run!\",9:\"\",10:\"§9§lRARE\"],Name:\"§9Kismet Feather\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Allows you to reroll a §cDungeon",

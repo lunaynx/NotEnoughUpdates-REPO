@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leaves",
   "displayname": "§fLeaflet Hat",
-  "nbttag": "{ExtraAttributes:{id:\"LEAFLET_HELMET\"},HideFlags:254,ItemModel:\"minecraft:oak_leaves\",display:{Lore:[0:\"§7Health: §c+70\",1:\"§7Foraging Fortune: §6+3\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON HELMET\"],Name:\"§fLeaflet Hat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LEAFLET_HELMET\"},HideFlags:254,display:{Lore:[0:\"§7Health: §c+70\",1:\"§7Foraging Fortune: §6+3\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON HELMET\"],Name:\"§fLeaflet Hat\"}}",
   "damage": 0,
   "lore": [
     "§7Health: §c+70",

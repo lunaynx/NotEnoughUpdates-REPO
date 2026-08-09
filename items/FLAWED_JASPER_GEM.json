@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§a Flawed Jasper Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FLAWED_JASPER_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/jasper/flawed_jasper_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §dJasper§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§c Strength§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Jasper Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLAWED_JASPER_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A slightly better version of §dJasper§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§c Strength§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a Flawed Jasper Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

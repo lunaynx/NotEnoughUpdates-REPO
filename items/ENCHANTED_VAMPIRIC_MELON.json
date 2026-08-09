@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:melon_block",
   "displayname": "§aEnchanted Vampiric Melon",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_VAMPIRIC_MELON\"},HideFlags:254,ItemModel:\"minecraft:melon\",display:{Lore:[0:\"§7Worth more §dMotes §7than the sum of its\",1:\"§7parts, because it's glowing!\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Vampiric Melon\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_VAMPIRIC_MELON\"},HideFlags:254,display:{Lore:[0:\"§7Worth more §dMotes §7than the sum of its\",1:\"§7parts, because it's glowing!\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Vampiric Melon\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Worth more §dMotes §7than the sum of its",

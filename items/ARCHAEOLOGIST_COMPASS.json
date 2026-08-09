@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:compass",
   "displayname": "§fArchaeologist's Compass",
-  "nbttag": "{ExtraAttributes:{id:\"ARCHAEOLOGIST_COMPASS\"},HideFlags:254,ItemModel:\"minecraft:compass\",display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Right-click to point towards the\",3:\"§7nearest §bRelic§7!\",4:\"\",5:\"§7Relics Found: §b28/28\",6:\"\",7:\"§8§l* §8Soulbound §8§l*\",8:\"§8Works while in Accessory Bag!\",9:\"§f§lCOMMON ACCESSORY\"],Name:\"§fArchaeologist's Compass\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ARCHAEOLOGIST_COMPASS\"},HideFlags:254,display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Right-click to point towards the\",3:\"§7nearest §bRelic§7!\",4:\"\",5:\"§7Relics Found: §b28/28\",6:\"\",7:\"§8§l* §8Soulbound §8§l*\",8:\"§8Works while in Accessory Bag!\",9:\"§f§lCOMMON ACCESSORY\"],Name:\"§fArchaeologist's Compass\"}}",
   "damage": 0,
   "lore": [
     "§7Accessory Power: §6+3",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cobblestone",
   "displayname": "§fCobblestone",
-  "nbttag": "{ExtraAttributes:{id:\"COBBLESTONE\"},HideFlags:254,ItemModel:\"minecraft:cobblestone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fCobblestone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COBBLESTONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fCobblestone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

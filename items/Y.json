@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Y",
-  "nbttag": "{ExtraAttributes:{id:\"Y\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/y\",display:{Lore:[0:\"§7Two Dimensional\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Y\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"Y\"},HideFlags:254,display:{Lore:[0:\"§7Two Dimensional\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Y\"}}",
   "damage": 0,
   "lore": [
     "§7Two Dimensional",

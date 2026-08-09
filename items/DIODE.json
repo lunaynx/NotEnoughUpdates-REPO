@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:repeater",
   "displayname": "§fRepeater",
-  "nbttag": "{ExtraAttributes:{id:\"DIODE\"},HideFlags:254,ItemModel:\"minecraft:repeater\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRepeater\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIODE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRepeater\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

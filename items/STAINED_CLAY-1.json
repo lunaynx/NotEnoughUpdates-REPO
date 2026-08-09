@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stained_hardened_clay",
   "displayname": "§fOrange Hardened Clay",
-  "nbttag": "{ExtraAttributes:{id:\"STAINED_CLAY-1\"},HideFlags:254,ItemModel:\"minecraft:orange_terracotta\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOrange Hardened Clay\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STAINED_CLAY-1\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOrange Hardened Clay\"}}",
   "damage": 1,
   "lore": [
     "§f§lCOMMON"

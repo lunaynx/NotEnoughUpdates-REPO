@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:sapling",
   "displayname": "§fDark Oak Sapling",
-  "nbttag": "{ExtraAttributes:{id:\"SAPLING-5\"},HideFlags:254,ItemModel:\"minecraft:dark_oak_sapling\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDark Oak Sapling\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SAPLING-5\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDark Oak Sapling\"}}",
   "damage": 5,
   "lore": [
     "§f§lCOMMON"

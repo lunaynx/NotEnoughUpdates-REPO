@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:experience_bottle",
   "displayname": "§aGrand Experience Bottle",
-  "nbttag": "{ExtraAttributes:{id:\"GRAND_EXP_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:experience_bottle\",display:{Lore:[0:\"§7Smash it open to receive experience!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aGrand Experience Bottle\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"GRAND_EXP_BOTTLE\"},HideFlags:254,display:{Lore:[0:\"§7Smash it open to receive experience!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aGrand Experience Bottle\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Smash it open to receive experience!",

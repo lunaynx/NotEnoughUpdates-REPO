@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:deadbush",
   "displayname": "§fMysterious Crop",
-  "nbttag": "{ExtraAttributes:{id:\"MYSTERIOUS_CROP\"},HideFlags:254,ItemModel:\"minecraft:dead_bush\",display:{Lore:[0:\"§7Back to the roots... but which ones?\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fMysterious Crop\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"MYSTERIOUS_CROP\"},HideFlags:254,display:{Lore:[0:\"§7Back to the roots... but which ones?\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fMysterious Crop\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Back to the roots... but which ones?",

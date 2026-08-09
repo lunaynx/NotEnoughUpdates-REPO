@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dirt",
   "displayname": "§fDirt",
-  "nbttag": "{ExtraAttributes:{id:\"DIRT\"},HideFlags:254,ItemModel:\"minecraft:dirt\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDirt\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DIRT\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fDirt\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:gold_nugget",
   "displayname": "§fGold Nugget",
-  "nbttag": "{ExtraAttributes:{id:\"GOLD_NUGGET\"},HideFlags:254,ItemModel:\"minecraft:gold_nugget\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGold Nugget\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLD_NUGGET\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGold Nugget\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aNull Sphere",
-  "nbttag": "{ExtraAttributes:{id:\"NULL_SPHERE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/enderman/null_sphere\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aNull Sphere\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"NULL_SPHERE\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aNull Sphere\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

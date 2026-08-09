@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:quartz",
   "displayname": "§5Overflux Capacitor",
-  "nbttag": "{ExtraAttributes:{id:\"OVERFLUX_CAPACITOR\"},HideFlags:254,ItemModel:\"minecraft:quartz\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Overflux Capacitor\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"OVERFLUX_CAPACITOR\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Overflux Capacitor\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

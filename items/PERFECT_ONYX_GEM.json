@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6 Perfect Onyx Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"PERFECT_ONYX_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/onyx/perfect_onyx_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A perfectly §8refined Onyx§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§9 Crit Damage§7; others say it might\",7:\"§7give §ebonus treasures§7.\",8:\"\",9:\"§6§lLEGENDARY GEMSTONE\"],Name:\"§6 Perfect Onyx Gemstone\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"PERFECT_ONYX_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A perfectly §8refined Onyx§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§9 Crit Damage§7; others say it might\",7:\"§7give §ebonus treasures§7.\",8:\"\",9:\"§6§lLEGENDARY GEMSTONE\"],Name:\"§6 Perfect Onyx Gemstone\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

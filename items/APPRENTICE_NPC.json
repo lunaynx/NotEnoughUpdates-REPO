@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:spawn_egg",
   "displayname": "§9Apprentice (NPC)",
-  "nbttag": "{ExtraAttributes:{id:\"APPRENTICE_NPC\"},HideFlags:254,ItemModel:\"minecraft:villager_spawn_egg\",display:{Lore:[0:\"\"],Name:\"§9Apprentice (NPC)\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"APPRENTICE_NPC\"},HideFlags:254,display:{Lore:[0:\"\"],Name:\"§9Apprentice (NPC)\"}}",
   "damage": 120,
   "lore": [
     ""

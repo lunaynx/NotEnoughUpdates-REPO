@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_wait",
   "displayname": "§aMusic Disc - Wait",
-  "nbttag": "{ExtraAttributes:{id:\"RECORD_12\"},HideFlags:254,ItemModel:\"minecraft:music_disc_wait\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Wait\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RECORD_12\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Wait\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

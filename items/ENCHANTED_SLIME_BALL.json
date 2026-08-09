@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:slime_ball",
   "displayname": "§aEnchanted Slimeball",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SLIME_BALL\"},HideFlags:254,ItemModel:\"minecraft:slime_ball\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Slimeball\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SLIME_BALL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Slimeball\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

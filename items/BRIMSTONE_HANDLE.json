@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stick",
   "displayname": "§5Brimstone Handle",
-  "nbttag": "{ExtraAttributes:{id:\"BRIMSTONE_HANDLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/misc/brimstone_handle\",display:{Lore:[0:\"§7A splendid handle belonging to a\",1:\"§7feared foe. In exchange for\",2:\"§7granting them immense power, it saps\",3:\"§7the life force from its wielder.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Brimstone Handle\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"BRIMSTONE_HANDLE\"},HideFlags:254,display:{Lore:[0:\"§7A splendid handle belonging to a\",1:\"§7feared foe. In exchange for\",2:\"§7granting them immense power, it saps\",3:\"§7the life force from its wielder.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Brimstone Handle\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7A splendid handle belonging to a",

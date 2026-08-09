@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aCarrot Zest",
-  "nbttag": "{ExtraAttributes:{id:\"CARROT_ZEST\"},HideFlags:254,ItemModel:\"minecraft:fire_coral\",display:{Lore:[0:\"§7Dropped rarely from §bCarrot §7during\",1:\"§7the §eHarvest Feast §7event.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aCarrot Zest\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CARROT_ZEST\"},HideFlags:254,display:{Lore:[0:\"§7Dropped rarely from §bCarrot §7during\",1:\"§7the §eHarvest Feast §7event.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aCarrot Zest\"}}",
   "damage": 0,
   "lore": [
     "§7Dropped rarely from §bCarrot §7during",

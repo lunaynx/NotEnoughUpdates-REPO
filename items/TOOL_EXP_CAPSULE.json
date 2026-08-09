@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Tool Exp Capsule",
-  "nbttag": "{ExtraAttributes:{id:\"TOOL_EXP_CAPSULE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/tool_xp_capsule\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Grants §b+100,000 Exp §7to any of your\",3:\"§eFarming Tools§7.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Tool Exp Capsule\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TOOL_EXP_CAPSULE\"},HideFlags:254,display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Grants §b+100,000 Exp §7to any of your\",3:\"§eFarming Tools§7.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Tool Exp Capsule\"}}",
   "damage": 0,
   "lore": [
     "§8Combinable in Anvil",

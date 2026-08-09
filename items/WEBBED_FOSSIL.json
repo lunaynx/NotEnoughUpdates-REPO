@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Webbed Fossil",
-  "nbttag": "{ExtraAttributes:{id:\"WEBBED_FOSSIL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/fossils/webbed_fossil\",display:{Lore:[0:\"§7The webbed foot of a small, agile\",1:\"§7creature which was a strong swimmer.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Webbed Fossil\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WEBBED_FOSSIL\"},HideFlags:254,display:{Lore:[0:\"§7The webbed foot of a small, agile\",1:\"§7creature which was a strong swimmer.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Webbed Fossil\"}}",
   "damage": 0,
   "lore": [
     "§7The webbed foot of a small, agile",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§9Gunthesizer Lichen",
-  "nbttag": "{ExtraAttributes:{id:\"GUNTHESIZER_LICHEN\"},HideFlags:254,ItemModel:\"minecraft:green_dye\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Gunthesizer Lichen\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GUNTHESIZER_LICHEN\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Gunthesizer Lichen\"}}",
   "damage": 2,
   "lore": [
     "§eRight-click to view recipes!",

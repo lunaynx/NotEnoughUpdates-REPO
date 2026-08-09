@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Enchanted Umber",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_UMBER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/umber/umber\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Umber\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_UMBER\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE DWARVEN METAL\"],Name:\"§9Enchanted Umber\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mushroom_stew",
   "displayname": "§fMushroom Soup",
-  "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_SOUP\"},HideFlags:254,ItemModel:\"minecraft:mushroom_stew\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMushroom Soup\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_SOUP\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMushroom Soup\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

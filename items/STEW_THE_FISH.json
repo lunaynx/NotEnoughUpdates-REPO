@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cStew the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"STEW_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§7The stew was expired.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cStew the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"STEW_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7The stew was expired.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cStew the Fish\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7The stew was expired.",

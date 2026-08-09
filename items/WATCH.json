@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:clock",
   "displayname": "§fClock",
-  "nbttag": "{ExtraAttributes:{id:\"WATCH\"},HideFlags:254,ItemModel:\"minecraft:clock\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fClock\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WATCH\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fClock\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

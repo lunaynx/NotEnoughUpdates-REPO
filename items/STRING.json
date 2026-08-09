@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:string",
   "displayname": "§fString",
-  "nbttag": "{ExtraAttributes:{id:\"STRING\"},HideFlags:254,ItemModel:\"minecraft:string\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fString\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STRING\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fString\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

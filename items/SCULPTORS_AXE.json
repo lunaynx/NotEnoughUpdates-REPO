@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stone_axe",
   "displayname": "§fSculptor's Axe",
-  "nbttag": "{ExtraAttributes:{id:\"SCULPTORS_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/sculptors_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Right-click on any log on your island\",1:\"§7to turn it into a 6 sided log!\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON AXE\"],Name:\"§fSculptor's Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SCULPTORS_AXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Right-click on any log on your island\",1:\"§7to turn it into a 6 sided log!\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON AXE\"],Name:\"§fSculptor's Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Right-click on any log on your island",

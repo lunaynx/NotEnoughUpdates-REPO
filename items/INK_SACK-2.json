@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§fCactus Green",
-  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-2\"},HideFlags:254,ItemModel:\"minecraft:green_dye\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCactus Green\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-2\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCactus Green\"}}",
   "damage": 2,
   "lore": [
     "§f§lCOMMON"

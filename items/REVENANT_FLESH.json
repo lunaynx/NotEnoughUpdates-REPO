@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rotten_flesh",
   "displayname": "§aRevenant Flesh",
-  "nbttag": "{ExtraAttributes:{id:\"REVENANT_FLESH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/zombie/revenant_flesh\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aRevenant Flesh\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"REVENANT_FLESH\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aRevenant Flesh\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

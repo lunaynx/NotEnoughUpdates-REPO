@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_axe",
   "displayname": "§aremmaH yniT",
-  "nbttag": "{ExtraAttributes:{id:\"TINY_HAMMER\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§7.wohemoS\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aremmaH yniT\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TINY_HAMMER\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7.wohemoS\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aremmaH yniT\"}}",
   "damage": 0,
   "lore": [
     "§7.wohemoS",

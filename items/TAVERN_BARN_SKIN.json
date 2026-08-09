@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:log",
   "displayname": "§aTavern Barn Skin",
-  "nbttag": "{ExtraAttributes:{id:\"TAVERN_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:oak_log\",display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§aTavern Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aTavern Barn Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"TAVERN_BARN_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§aTavern Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aTavern Barn Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the",

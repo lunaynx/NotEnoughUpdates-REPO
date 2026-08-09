@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Helixis",
-  "nbttag": "{ExtraAttributes:{id:\"HELIXIS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/logs/helixis\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oPerhaps even the trees of Galatea\",3:\"§7§ohave something to say about its\",4:\"§7§otechnological intricacies.\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Helixis\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HELIXIS\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oPerhaps even the trees of Galatea\",3:\"§7§ohave something to say about its\",4:\"§7§otechnological intricacies.\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Helixis\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

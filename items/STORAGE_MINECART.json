@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:chest_minecart",
   "displayname": "§fMinecart with Chest",
-  "nbttag": "{ExtraAttributes:{id:\"STORAGE_MINECART\"},HideFlags:254,ItemModel:\"minecraft:chest_minecart\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMinecart with Chest\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"STORAGE_MINECART\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fMinecart with Chest\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

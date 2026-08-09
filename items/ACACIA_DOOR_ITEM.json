@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:acacia_door",
   "displayname": "§fAcacia Door",
-  "nbttag": "{ExtraAttributes:{id:\"ACACIA_DOOR_ITEM\"},HideFlags:254,ItemModel:\"minecraft:acacia_door\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAcacia Door\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ACACIA_DOOR_ITEM\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fAcacia Door\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

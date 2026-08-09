@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_carrot",
   "displayname": "§6Ultimate Carrot Candy",
-  "nbttag": "{ExtraAttributes:{id:\"ULTIMATE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a1,500,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§6§lLEGENDARY\"],Name:\"§6Ultimate Carrot Candy\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ULTIMATE_CARROT_CANDY\"},HideFlags:254,display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a1,500,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§6§lLEGENDARY\"],Name:\"§6Ultimate Carrot Candy\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",

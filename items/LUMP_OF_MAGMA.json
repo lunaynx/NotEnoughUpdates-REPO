@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aLump of Magma",
-  "nbttag": "{ExtraAttributes:{id:\"LUMP_OF_MAGMA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/lump_of_magma\",display:{Lore:[0:\"§7Self explanatory.\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aLump of Magma\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"LUMP_OF_MAGMA\"},HideFlags:254,display:{Lore:[0:\"§7Self explanatory.\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aLump of Magma\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Self explanatory.",

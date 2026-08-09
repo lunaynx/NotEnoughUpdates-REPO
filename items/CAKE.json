@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cake",
   "displayname": "§fCake",
-  "nbttag": "{ExtraAttributes:{id:\"CAKE\"},HideFlags:254,ItemModel:\"minecraft:cake\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCake\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"CAKE\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCake\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

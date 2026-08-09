@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:double_plant",
   "displayname": "§aEnchanted Wild Rose",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_WILD_ROSE\"},HideFlags:254,ItemModel:\"minecraft:rose_bush\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Wild Rose\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_WILD_ROSE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Wild Rose\"},ench:[]}",
   "damage": 4,
   "lore": [
     "§8Collection Item",

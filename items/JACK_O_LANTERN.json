@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lit_pumpkin",
   "displayname": "§fJack o' Lantern",
-  "nbttag": "{ExtraAttributes:{id:\"JACK_O_LANTERN\"},HideFlags:254,ItemModel:\"minecraft:jack_o_lantern\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJack o' Lantern\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"JACK_O_LANTERN\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fJack o' Lantern\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

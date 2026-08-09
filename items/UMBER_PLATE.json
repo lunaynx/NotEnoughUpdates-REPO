@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Umber Plate",
-  "nbttag": "{ExtraAttributes:{id:\"UMBER_PLATE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/umber/umber_plate\",display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Umber Plate\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"UMBER_PLATE\"},HideFlags:254,display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Umber Plate\"}}",
   "damage": 0,
   "lore": [
     "§9§lRARE"

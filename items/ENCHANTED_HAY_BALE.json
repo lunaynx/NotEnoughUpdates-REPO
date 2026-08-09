@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:hay_block",
   "displayname": "§9Enchanted Hay Bale",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HAY_BALE\"},HideFlags:254,ItemModel:\"minecraft:hay_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Hay Bale\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HAY_BALE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Hay Bale\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ender_eye",
   "displayname": "§fEye of Ender",
-  "nbttag": "{ExtraAttributes:{id:\"EYE_OF_ENDER\"},HideFlags:254,ItemModel:\"minecraft:ender_eye\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEye of Ender\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EYE_OF_ENDER\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEye of Ender\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

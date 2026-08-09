@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9 Fine Ruby Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FINE_RUBY_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/ruby/fine_ruby_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A type of §cRuby §7that has clearly\",3:\"§7been treated with care.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§c Health§7.\",8:\"\",9:\"§9§lRARE GEMSTONE\"],Name:\"§9 Fine Ruby Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FINE_RUBY_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A type of §cRuby §7that has clearly\",3:\"§7been treated with care.\",4:\"\",5:\"§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§c Health§7.\",8:\"\",9:\"§9§lRARE GEMSTONE\"],Name:\"§9 Fine Ruby Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_hoe",
   "displayname": "§fSam's Scythe",
-  "nbttag": "{ExtraAttributes:{id:\"SAM_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/tools/sam_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Cleans a §93x3 §7area of grass, leaves\",1:\"§7and flowers.\",2:\"\",3:\"§8§l* §8Co-op Soulbound §8§l*\",4:\"§f§lCOMMON\"],Name:\"§fSam's Scythe\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SAM_SCYTHE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Cleans a §93x3 §7area of grass, leaves\",1:\"§7and flowers.\",2:\"\",3:\"§8§l* §8Co-op Soulbound §8§l*\",4:\"§f§lCOMMON\"],Name:\"§fSam's Scythe\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Cleans a §93x3 §7area of grass, leaves",

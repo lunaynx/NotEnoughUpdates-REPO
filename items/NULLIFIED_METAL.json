@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carpet",
   "displayname": "§aNullified Metal",
-  "nbttag": "{ExtraAttributes:{id:\"NULLIFIED_METAL\"},HideFlags:254,ItemModel:\"minecraft:blue_carpet\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aNullified Metal\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"NULLIFIED_METAL\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aNullified Metal\"}}",
   "damage": 11,
   "lore": [
     "§eRight-click to view recipes!",

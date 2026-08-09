@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§6Giant Honey Dipper",
-  "nbttag": "{ExtraAttributes:{id:\"GIANT_HONEY_DIPPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/giant_honey_dipper\",display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eBee Pets §7from\",1:\"§5Epic §7to §6Legendary.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Giant Honey Dipper\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GIANT_HONEY_DIPPER\"},HideFlags:254,display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eBee Pets §7from\",1:\"§5Epic §7to §6Legendary.\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Giant Honey Dipper\"}}",
   "damage": 0,
   "lore": [
     "§7Use at §bKat §7to upgrade §eBee Pets §7from",

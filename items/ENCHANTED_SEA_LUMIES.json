@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aEnchanted Sea Lumies",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SEA_LUMIES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/resources/sea_lumies\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Luminous wonders from the ocean's\",3:\"§7depths, lighting up the watery abyss.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Sea Lumies\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SEA_LUMIES\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Luminous wonders from the ocean's\",3:\"§7depths, lighting up the watery abyss.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Sea Lumies\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

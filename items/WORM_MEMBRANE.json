@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:rotten_flesh",
   "displayname": "§aWorm Membrane",
-  "nbttag": "{ExtraAttributes:{id:\"WORM_MEMBRANE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/worm_membrane\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aWorm Membrane\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WORM_MEMBRANE\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aWorm Membrane\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

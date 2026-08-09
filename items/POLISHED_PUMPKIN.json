@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Polished Pumpkin",
-  "nbttag": "{ExtraAttributes:{id:\"POLISHED_PUMPKIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/polished_pumpkin\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Polished Pumpkin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"POLISHED_PUMPKIN\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Polished Pumpkin\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

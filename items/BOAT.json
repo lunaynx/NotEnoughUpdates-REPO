@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:boat",
   "displayname": "§fBoat",
-  "nbttag": "{ExtraAttributes:{id:\"BOAT\"},HideFlags:254,ItemModel:\"minecraft:oak_boat\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBoat\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BOAT\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBoat\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

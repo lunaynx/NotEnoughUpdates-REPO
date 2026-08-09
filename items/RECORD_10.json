@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_ward",
   "displayname": "§aMusic Disc - Ward",
-  "nbttag": "{ExtraAttributes:{id:\"RECORD_10\"},HideFlags:254,ItemModel:\"minecraft:music_disc_ward\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Ward\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RECORD_10\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Ward\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON"

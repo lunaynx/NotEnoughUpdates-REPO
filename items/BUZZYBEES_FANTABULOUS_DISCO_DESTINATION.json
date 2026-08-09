@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mob_spawner",
   "displayname": "§aBuzzybee's Fantabulous Disco Destination",
-  "nbttag": "{ExtraAttributes:{id:\"BUZZYBEES_FANTABULOUS_DISCO_DESTINATION\"},HideFlags:254,ItemModel:\"minecraft:spawner\",display:{Lore:[0:\"§7Place this in your §2Garden §7and fill it\",1:\"§7with Pest Vinyls.\",2:\"\",3:\"§7Offline §2 Pests §7will spawn within §a10\",4:\"§7blocks of this if their Pest Vinyl has\",5:\"§7been placed in this.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBuzzybee's Fantabulous Disco Destination\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BUZZYBEES_FANTABULOUS_DISCO_DESTINATION\"},HideFlags:254,display:{Lore:[0:\"§7Place this in your §2Garden §7and fill it\",1:\"§7with Pest Vinyls.\",2:\"\",3:\"§7Offline §2 Pests §7will spawn within §a10\",4:\"§7blocks of this if their Pest Vinyl has\",5:\"§7been placed in this.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBuzzybee's Fantabulous Disco Destination\"}}",
   "damage": 0,
   "lore": [
     "§7Place this in your §2Garden §7and fill it",

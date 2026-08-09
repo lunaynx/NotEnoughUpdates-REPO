@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_sword",
   "displayname": "§aEnd Sword",
-  "nbttag": "{ExtraAttributes:{id:\"END_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/combat_3/weapons/end_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+35\",1:\"\",2:\"§7Deals §a+100% §7damage to §5 Ender\",3:\"§7mobs.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON SWORD\"],Name:\"§aEnd Sword\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"END_SWORD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+35\",1:\"\",2:\"§7Deals §a+100% §7damage to §5 Ender\",3:\"§7mobs.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON SWORD\"],Name:\"§aEnd Sword\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+35",

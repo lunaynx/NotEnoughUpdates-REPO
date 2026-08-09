@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5L.A.S.R.'s Eye",
-  "nbttag": "{ExtraAttributes:{id:\"GIANT_FRAGMENT_LASER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/lasr_eye\",display:{Lore:[0:\"§8Precursor Relic\",1:\"\",2:\"§7The eye is mightier than the sword.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5L.A.S.R.'s Eye\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GIANT_FRAGMENT_LASER\"},HideFlags:254,display:{Lore:[0:\"§8Precursor Relic\",1:\"\",2:\"§7The eye is mightier than the sword.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC DUNGEON ITEM\"],Name:\"§5L.A.S.R.'s Eye\"}}",
   "damage": 0,
   "lore": [
     "§8Precursor Relic",

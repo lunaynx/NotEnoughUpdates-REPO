@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§fLight Bait",
-  "nbttag": "{ExtraAttributes:{id:\"LIGHT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/light_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Increases your chance to catch\",4:\"§7rare Sea Creatures during the day.\",5:\"\",6:\"§f§lCOMMON BAIT\"],Name:\"§fLight Bait\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LIGHT_BAIT\"},HideFlags:254,display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Increases your chance to catch\",4:\"§7rare Sea Creatures during the day.\",5:\"\",6:\"§f§lCOMMON BAIT\"],Name:\"§fLight Bait\"}}",
   "damage": 0,
   "lore": [
     "§8Fishing Bait",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§9Skeleton Skull",
-  "nbttag": "{ExtraAttributes:{id:\"SKULL_ITEM\"},HideFlags:254,ItemModel:\"minecraft:skeleton_skull\",display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§9§lRARE\"],Name:\"§9Skeleton Skull\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SKULL_ITEM\"},HideFlags:254,display:{Lore:[0:\"§8§l* §8Co-op Soulbound §8§l*\",1:\"§9§lRARE\"],Name:\"§9Skeleton Skull\"}}",
   "damage": 0,
   "lore": [
     "§8§l* §8Co-op Soulbound §8§l*",

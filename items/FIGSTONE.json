@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Figstone",
-  "nbttag": "{ExtraAttributes:{id:\"FIGSTONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/figstone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oA dense testament to time, holding\",3:\"§7§othe chronicles of ancient figs.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Figstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FIGSTONE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oA dense testament to time, holding\",3:\"§7§othe chronicles of ancient figs.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Figstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

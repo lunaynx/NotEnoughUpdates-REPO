@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_axe",
   "displayname": "§aPromising Axe",
-  "nbttag": "{ExtraAttributes:{id:\"PROMISING_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/promising_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§7Gains §9Efficiency I §7after breaking §a50\",3:\"§ablocks§7!\",4:\"\",5:\"§7Blocks Broken: §a0\",6:\"\",7:\"§8This item can be reforged!\",8:\"§a§lUNCOMMON AXE\"],Name:\"§aPromising Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PROMISING_AXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§7Gains §9Efficiency I §7after breaking §a50\",3:\"§ablocks§7!\",4:\"\",5:\"§7Blocks Broken: §a0\",6:\"\",7:\"§8This item can be reforged!\",8:\"§a§lUNCOMMON AXE\"],Name:\"§aPromising Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+25",

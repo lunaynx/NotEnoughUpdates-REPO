@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:coal_block",
   "displayname": "§fBingo Display",
-  "nbttag": "{ExtraAttributes:{id:\"BINGO_DISPLAY\"},HideFlags:254,ItemModel:\"minecraft:coal_block\",display:{Lore:[0:\"§7Show off your total §6Bingo Points§7!\",1:\"\",2:\"§f§lCOMMON COSMETIC\"],Name:\"§fBingo Display\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BINGO_DISPLAY\"},HideFlags:254,display:{Lore:[0:\"§7Show off your total §6Bingo Points§7!\",1:\"\",2:\"§f§lCOMMON COSMETIC\"],Name:\"§fBingo Display\"}}",
   "damage": 0,
   "lore": [
     "§7Show off your total §6Bingo Points§7!",

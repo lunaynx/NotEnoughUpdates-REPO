@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Rekindled Ember Fragment",
-  "nbttag": "{ExtraAttributes:{id:\"REKINDLED_EMBER_FRAGMENT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/rekindled_ember_fragment\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Rekindled Ember Fragment\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"REKINDLED_EMBER_FRAGMENT\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Rekindled Ember Fragment\"}}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

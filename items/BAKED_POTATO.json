@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:baked_potato",
   "displayname": "§fBaked Potato",
-  "nbttag": "{ExtraAttributes:{id:\"BAKED_POTATO\"},HideFlags:254,ItemModel:\"minecraft:baked_potato\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBaked Potato\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BAKED_POTATO\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBaked Potato\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

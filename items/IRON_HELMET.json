@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_helmet",
   "displayname": "§fIron Helmet",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_HELMET\"},HideFlags:254,ItemModel:\"minecraft:iron_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+12\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON HELMET\"],Name:\"§fIron Helmet\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_HELMET\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+12\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON HELMET\"],Name:\"§fIron Helmet\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+12",

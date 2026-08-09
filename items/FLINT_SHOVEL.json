@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_shovel",
   "displayname": "§fFlint Shovel",
-  "nbttag": "{ExtraAttributes:{id:\"FLINT_SHOVEL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/flint_shovel\",Unbreakable:1B,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Grants a §a100% §7chance of receiving\",3:\"§7flint from gravel.\",4:\"\",5:\"§7This item can be also used as a\",6:\"§7minion upgrade to allow gravel\",7:\"§7minions to always receive flint.\",8:\"\",9:\"§f§lCOMMON SHOVEL\"],Name:\"§fFlint Shovel\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLINT_SHOVEL\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Grants a §a100% §7chance of receiving\",3:\"§7flint from gravel.\",4:\"\",5:\"§7This item can be also used as a\",6:\"§7minion upgrade to allow gravel\",7:\"§7minions to always receive flint.\",8:\"\",9:\"§f§lCOMMON SHOVEL\"],Name:\"§fFlint Shovel\"}}",
   "damage": 0,
   "lore": [
     "§8Minion Upgrade",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:carrot",
   "displayname": "§aEnchanted Carrot",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CARROT\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Carrot\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_CARROT\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Carrot\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:flint",
   "displayname": "§5Silex",
-  "nbttag": "{ExtraAttributes:{id:\"SIL_EX\"},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a pickaxe or a drill,\",3:\"§7increases its §9Efficiency §7level by §a1§7!\",4:\"§8Can be applied up to Efficiency X.\",5:\"§8Requires Efficiency V!\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Silex\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SIL_EX\"},HideFlags:254,display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a pickaxe or a drill,\",3:\"§7increases its §9Efficiency §7level by §a1§7!\",4:\"§8Can be applied up to Efficiency X.\",5:\"§8Requires Efficiency V!\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Silex\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Combinable in Anvil",

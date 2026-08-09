@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:oak_stairs",
   "displayname": "§fOak Stairs",
-  "nbttag": "{ExtraAttributes:{id:\"WOOD_STAIRS\"},HideFlags:254,ItemModel:\"minecraft:oak_stairs\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Stairs\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WOOD_STAIRS\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fOak Stairs\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

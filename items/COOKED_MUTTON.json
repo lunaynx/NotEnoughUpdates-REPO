@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_mutton",
   "displayname": "§fCooked Mutton",
-  "nbttag": "{ExtraAttributes:{id:\"COOKED_MUTTON\"},HideFlags:254,ItemModel:\"minecraft:cooked_mutton\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Mutton\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"COOKED_MUTTON\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCooked Mutton\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

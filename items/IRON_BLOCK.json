@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_block",
   "displayname": "§fBlock of Iron",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:iron_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Iron\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBlock of Iron\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

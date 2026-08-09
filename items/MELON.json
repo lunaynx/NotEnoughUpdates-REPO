@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:melon",
   "displayname": "§fMelon Slice",
-  "nbttag": "{ExtraAttributes:{id:\"MELON\"},HideFlags:254,ItemModel:\"minecraft:melon_slice\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fMelon Slice\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MELON\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fMelon Slice\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:record_strad",
   "displayname": "§9Winter Disc",
-  "nbttag": "{ExtraAttributes:{id:\"WINTER_DISC\"},HideFlags:254,ItemModel:\"minecraft:music_disc_strad\",display:{Lore:[0:\"§7Place this inside a jukebox to play a\",1:\"§7winter song!\",2:\"\",3:\"§6Let Them Eat Cake\",4:\"  §7By ShinkoNet\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Winter Disc\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"WINTER_DISC\"},HideFlags:254,display:{Lore:[0:\"§7Place this inside a jukebox to play a\",1:\"§7winter song!\",2:\"\",3:\"§6Let Them Eat Cake\",4:\"  §7By ShinkoNet\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Winter Disc\"}}",
   "damage": 0,
   "lore": [
     "§7Place this inside a jukebox to play a",

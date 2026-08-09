@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§cCluck the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"CLUCK_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§7Cluck cluck bkaawwk. Puk Puk Pukaaak!\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cCluck the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"CLUCK_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7Cluck cluck bkaawwk. Puk Puk Pukaaak!\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cCluck the Fish\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Cluck cluck bkaawwk. Puk Puk Pukaaak!",

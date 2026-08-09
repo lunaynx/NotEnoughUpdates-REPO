@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§fLight Blue Dye",
-  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-12\"},HideFlags:254,ItemModel:\"minecraft:light_blue_dye\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLight Blue Dye\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"INK_SACK-12\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLight Blue Dye\"}}",
   "damage": 12,
   "lore": [
     "§f§lCOMMON"

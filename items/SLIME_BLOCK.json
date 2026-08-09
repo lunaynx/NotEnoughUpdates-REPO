@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:slime",
   "displayname": "§fSlime Block",
-  "nbttag": "{ExtraAttributes:{id:\"SLIME_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:slime_block\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSlime Block\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"SLIME_BLOCK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSlime Block\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

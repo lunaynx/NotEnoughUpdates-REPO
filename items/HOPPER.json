@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:hopper",
   "displayname": "§fHopper",
-  "nbttag": "{ExtraAttributes:{id:\"HOPPER\"},HideFlags:254,ItemModel:\"minecraft:hopper\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHopper\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"HOPPER\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fHopper\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

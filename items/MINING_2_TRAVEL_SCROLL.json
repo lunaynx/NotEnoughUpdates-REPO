@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:map",
   "displayname": "§9Travel Scroll to Deep Caverns",
-  "nbttag": "{ExtraAttributes:{id:\"MINING_2_TRAVEL_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:map\",display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aDeep Caverns\",5:\"§7Teleport: §eSpawn\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Deep Caverns\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"MINING_2_TRAVEL_SCROLL\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aDeep Caverns\",5:\"§7Teleport: §eSpawn\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Deep Caverns\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to add its",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ice",
   "displayname": "§fIce",
-  "nbttag": "{ExtraAttributes:{id:\"ICE\"},HideFlags:254,ItemModel:\"minecraft:ice\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fIce\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ICE\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON BLOCK\"],Name:\"§fIce\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

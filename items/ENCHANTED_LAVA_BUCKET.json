@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lava_bucket",
   "displayname": "§5Enchanted Lava Bucket",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_LAVA_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:lava_bucket\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a25%§7. Unlimited Duration!\",2:\"\",3:\"§5§lEPIC\"],Name:\"§5Enchanted Lava Bucket\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_LAVA_BUCKET\"},HideFlags:254,display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a25%§7. Unlimited Duration!\",2:\"\",3:\"§5§lEPIC\"],Name:\"§5Enchanted Lava Bucket\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Increases the speed of your minion",

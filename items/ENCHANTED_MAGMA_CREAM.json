@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:magma_cream",
   "displayname": "§aEnchanted Magma Cream",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MAGMA_CREAM\"},HideFlags:254,ItemModel:\"minecraft:magma_cream\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Magma Cream\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MAGMA_CREAM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Magma Cream\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

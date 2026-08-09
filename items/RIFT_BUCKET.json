@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:water_bucket",
   "displayname": "§aPlumber's Bucket",
-  "nbttag": "{ExtraAttributes:{id:\"RIFT_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:water_bucket\",display:{Lore:[0:\"§7Instructions:\",1:\" §b1. §7Empty water bucket.\",2:\" §b2. §7Do it again because it's infinite.\",3:\" §b3. §7Triple-bill client.\",4:\"\",5:\"§8Thanks Plumber Joe!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aPlumber's Bucket\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"RIFT_BUCKET\"},HideFlags:254,display:{Lore:[0:\"§7Instructions:\",1:\" §b1. §7Empty water bucket.\",2:\" §b2. §7Do it again because it's infinite.\",3:\" §b3. §7Triple-bill client.\",4:\"\",5:\"§8Thanks Plumber Joe!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aPlumber's Bucket\"}}",
   "damage": 0,
   "lore": [
     "§7Instructions:",

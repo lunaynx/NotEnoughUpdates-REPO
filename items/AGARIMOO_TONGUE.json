@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:mutton",
   "displayname": "§9Agarimoo Tongue",
-  "nbttag": "{ExtraAttributes:{id:\"AGARIMOO_TONGUE\"},HideFlags:254,ItemModel:\"minecraft:mutton\",display:{Lore:[0:\"§7Agarimoos have five stomachs and\",1:\"§73 tongues. For this specific\",2:\"§7Agarimoo, past tense is more\",3:\"§7accurate.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Agarimoo Tongue\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"AGARIMOO_TONGUE\"},HideFlags:254,display:{Lore:[0:\"§7Agarimoos have five stomachs and\",1:\"§73 tongues. For this specific\",2:\"§7Agarimoo, past tense is more\",3:\"§7accurate.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Agarimoo Tongue\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Agarimoos have five stomachs and",

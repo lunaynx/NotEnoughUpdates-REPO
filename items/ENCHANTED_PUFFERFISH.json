@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:fish",
   "displayname": "§aEnchanted Pufferfish",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PUFFERFISH\"},HideFlags:254,ItemModel:\"minecraft:pufferfish\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Pufferfish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_PUFFERFISH\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Pufferfish\"},ench:[]}",
   "damage": 3,
   "lore": [
     "§8Brewing Ingredient",

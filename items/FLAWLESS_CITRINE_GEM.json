@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5 Flawless Citrine Gemstone",
-  "nbttag": "{ExtraAttributes:{id:\"FLAWLESS_CITRINE_GEM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/gemstone/citrine/flawless_citrine_gem\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A near perfect version of §4Citrine§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§6 Foraging Fortune§7; others say it\",7:\"§7might §ehighlight treasures§7.\",8:\"\",9:\"§5§lEPIC GEMSTONE\"],Name:\"§5 Flawless Citrine Gemstone\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"FLAWLESS_CITRINE_GEM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A near perfect version of §4Citrine§7.\",3:\"\",4:\"§7Some say that when §eharnessed\",5:\"§eproperly§7, it can give its owner extra\",6:\"§6 Foraging Fortune§7; others say it\",7:\"§7might §ehighlight treasures§7.\",8:\"\",9:\"§5§lEPIC GEMSTONE\"],Name:\"§5 Flawless Citrine Gemstone\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

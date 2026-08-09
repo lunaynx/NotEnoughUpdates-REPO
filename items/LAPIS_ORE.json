@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:lapis_ore",
   "displayname": "§aLapis Lazuli Ore",
-  "nbttag": "{ExtraAttributes:{id:\"LAPIS_ORE\"},HideFlags:254,ItemModel:\"minecraft:lapis_ore\",display:{Lore:[0:\"§a§lUNCOMMON ORE\"],Name:\"§aLapis Lazuli Ore\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"LAPIS_ORE\"},HideFlags:254,display:{Lore:[0:\"§a§lUNCOMMON ORE\"],Name:\"§aLapis Lazuli Ore\"}}",
   "damage": 0,
   "lore": [
     "§a§lUNCOMMON ORE"

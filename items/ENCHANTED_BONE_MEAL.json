@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:dye",
   "displayname": "§fEnchanted Bone Meal",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE_MEAL\"},HideFlags:254,ItemModel:\"minecraft:bone_meal\",display:{Lore:[0:\"§7Instantly grows crops and saplings.\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fEnchanted Bone Meal\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE_MEAL\"},HideFlags:254,display:{Lore:[0:\"§7Instantly grows crops and saplings.\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fEnchanted Bone Meal\"},ench:[]}",
   "damage": 15,
   "lore": [
     "§7Instantly grows crops and saplings.",

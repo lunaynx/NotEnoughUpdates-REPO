@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:cooked_fish",
   "displayname": "§cFlake the Fish",
-  "nbttag": "{ExtraAttributes:{id:\"SNOWFLAKE_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cooked_salmon\",display:{Lore:[0:\"§7I'm a special snowflake\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cFlake the Fish\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"SNOWFLAKE_THE_FISH\"},HideFlags:254,display:{Lore:[0:\"§7I'm a special snowflake\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cFlake the Fish\"},ench:[]}",
   "damage": 1,
   "lore": [
     "§7I'm a special snowflake",

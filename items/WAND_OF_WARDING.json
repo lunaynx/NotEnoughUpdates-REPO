@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond",
   "displayname": "§bWarding Diamathame",
-  "nbttag": "{ExtraAttributes:{id:\"WAND_OF_WARDING\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§7A powerful artifact ingrained\",1:\"§7with protective properties.\",2:\"\",3:\"§6Ability: Glyph Incantation\",4:\"§7Activate §5Glyphs §7to imbue\",5:\"§7them with a §9Warding Spell§7.\",6:\"\",7:\"§9§lRARE\"],Name:\"§bWarding Diamathame\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"WAND_OF_WARDING\"},HideFlags:254,display:{Lore:[0:\"§7A powerful artifact ingrained\",1:\"§7with protective properties.\",2:\"\",3:\"§6Ability: Glyph Incantation\",4:\"§7Activate §5Glyphs §7to imbue\",5:\"§7them with a §9Warding Spell§7.\",6:\"\",7:\"§9§lRARE\"],Name:\"§bWarding Diamathame\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7A powerful artifact ingrained",

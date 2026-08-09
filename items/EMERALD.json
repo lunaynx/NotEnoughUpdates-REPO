@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:emerald",
   "displayname": "§fEmerald",
-  "nbttag": "{ExtraAttributes:{id:\"EMERALD\"},HideFlags:254,ItemModel:\"minecraft:emerald\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON ORE\"],Name:\"§fEmerald\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"EMERALD\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON ORE\"],Name:\"§fEmerald\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:stick",
   "displayname": "§5Bamboo Barn Skin",
-  "nbttag": "{ExtraAttributes:{id:\"BAMBOO_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§5Bamboo Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§5§lEPIC COSMETIC\"],Name:\"§5Bamboo Barn Skin\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"BAMBOO_BARN_SKIN\"},HideFlags:254,display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§5Bamboo Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§5§lEPIC COSMETIC\"],Name:\"§5Bamboo Barn Skin\"}}",
   "damage": 0,
   "lore": [
     "§7Consume this item to unlock the",

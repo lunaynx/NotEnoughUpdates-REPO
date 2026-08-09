@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:iron_axe",
   "displayname": "§fIron Axe",
-  "nbttag": "{ExtraAttributes:{id:\"IRON_AXE\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fIron Axe\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"IRON_AXE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+25\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON AXE\"],Name:\"§fIron Axe\"}}",
   "damage": 0,
   "lore": [
     "§7Damage: §c+25",

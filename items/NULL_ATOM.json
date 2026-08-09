@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Null Atom",
-  "nbttag": "{ExtraAttributes:{id:\"NULL_ATOM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/enderman/crafts/null_atom\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Null Atom\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"NULL_ATOM\"},HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Null Atom\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§eRight-click to view recipes!",

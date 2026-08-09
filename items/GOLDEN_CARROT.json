@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:golden_carrot",
   "displayname": "§fGolden Carrot",
-  "nbttag": "{ExtraAttributes:{id:\"GOLDEN_CARROT\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fGolden Carrot\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"GOLDEN_CARROT\"},HideFlags:254,display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fGolden Carrot\"}}",
   "damage": 0,
   "lore": [
     "§8Brewing Ingredient",

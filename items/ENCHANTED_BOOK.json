@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:enchanted_book",
   "displayname": "§fEnchanted Book",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BOOK\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BOOK\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"

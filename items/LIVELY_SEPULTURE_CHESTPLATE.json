@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:chainmail_chestplate",
   "displayname": "§6Lively Sepulture Chestplate",
-  "nbttag": "{ExtraAttributes:{id:\"LIVELY_SEPULTURE_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:chainmail_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+65s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+30\",3:\"§7Mana Regen: §b+25%\",4:\"\",5:\"§4☠ §cRequires §5Vampire Slayer 5§c.\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Lively Sepulture Chestplate\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"LIVELY_SEPULTURE_CHESTPLATE\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+65s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+30\",3:\"§7Mana Regen: §b+25%\",4:\"\",5:\"§4☠ §cRequires §5Vampire Slayer 5§c.\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Lively Sepulture Chestplate\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§7Rift Time: §a+65s",

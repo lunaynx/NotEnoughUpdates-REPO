@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aEnchanted Ruby Veilshroom",
-  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RUBY_VEILSHROOM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/resources/ruby_veilshroom\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Ruby Veilshrooms only grow in\",3:\"§7Torrhus Canyon, nurtured by the\",4:\"§7relentless heat of the blazing sun\",5:\"§7beating down upon them.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Ruby Veilshroom\"},ench:[]}",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RUBY_VEILSHROOM\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Ruby Veilshrooms only grow in\",3:\"§7Torrhus Canyon, nurtured by the\",4:\"§7relentless heat of the blazing sun\",5:\"§7beating down upon them.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Ruby Veilshroom\"},ench:[]}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

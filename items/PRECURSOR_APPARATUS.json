@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§5Precursor Apparatus",
-  "nbttag": "{ExtraAttributes:{id:\"PRECURSOR_APPARATUS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/precursor_apparatus\",display:{Lore:[0:\"§7Can be given to §9Professor Robot §7to\",1:\"§7complete the §bSapphire Crystal Quest§7.\",2:\"\",3:\"§8This decaying piece of machinery\",4:\"§8was once a part of a large robot\",5:\"§8known as Automaton Prime. There's\",6:\"§8still a lot of good stuff in here.\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Precursor Apparatus\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PRECURSOR_APPARATUS\"},HideFlags:254,display:{Lore:[0:\"§7Can be given to §9Professor Robot §7to\",1:\"§7complete the §bSapphire Crystal Quest§7.\",2:\"\",3:\"§8This decaying piece of machinery\",4:\"§8was once a part of a large robot\",5:\"§8known as Automaton Prime. There's\",6:\"§8still a lot of good stuff in here.\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Precursor Apparatus\"}}",
   "damage": 0,
   "lore": [
     "§7Can be given to §9Professor Robot §7to",

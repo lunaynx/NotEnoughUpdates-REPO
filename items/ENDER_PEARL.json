@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:ender_pearl",
   "displayname": "§fEnder Pearl",
-  "nbttag": "{ExtraAttributes:{id:\"ENDER_PEARL\"},HideFlags:254,ItemModel:\"minecraft:ender_pearl\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fEnder Pearl\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"ENDER_PEARL\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fEnder Pearl\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§9Pest Trap",
-  "nbttag": "{ExtraAttributes:{id:\"PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 2 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Pest Trap\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"PEST_TRAP\"},HideFlags:254,display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 2 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Pest Trap\"}}",
   "damage": 0,
   "lore": [
     "§7Place in a §aGarden §7plot and fill with",

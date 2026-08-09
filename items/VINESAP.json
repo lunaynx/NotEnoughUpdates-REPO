@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:paper",
   "displayname": "§aVinesap",
-  "nbttag": "{ExtraAttributes:{id:\"VINESAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/vinesap\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oA fusion of vine resilience and sap\",3:\"§7§ovitality.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aVinesap\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"VINESAP\"},HideFlags:254,display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oA fusion of vine resilience and sap\",3:\"§7§ovitality.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aVinesap\"}}",
   "damage": 0,
   "lore": [
     "§8Collection Item",

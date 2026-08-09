@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:double_plant",
   "displayname": "§fLilac",
-  "nbttag": "{ExtraAttributes:{id:\"DOUBLE_PLANT-1\"},HideFlags:254,ItemModel:\"minecraft:lilac\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLilac\"}}",
+  "nbttag": "{ExtraAttributes:{id:\"DOUBLE_PLANT-1\"},HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fLilac\"}}",
   "damage": 1,
   "lore": [
     "§f§lCOMMON"
